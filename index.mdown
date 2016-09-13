@@ -1,3 +1,3 @@
 ## Suraj Rampure
 
-Hey there! As you can see, my site is currently under construction. In the meantime, have a look at my <a = href "Suraj Rampure Resume.pdf> resume</a>.
+Hey there! As you can see, my site is currently under construction. In the meantime, have a look at my <a = href "/Suraj Rampure Resume.pdf> resume</a>.
