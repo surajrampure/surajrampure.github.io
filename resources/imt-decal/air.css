@@ -152,8 +152,9 @@ body {
   font-family: 'Open Sans', Helvetica, sans-serif;
   font-weight: 300;
   margin: 6rem auto 1rem;
-  max-width: 100%;
-  text-align: left;
+  max-width: 48rem;
+  text-align: center;
+  color: #000;
 }
 
 img {
@@ -165,13 +166,13 @@ img {
 
 a,
 a:visited {
-  color: #4d9d91;
+  color: #3498db;
 }
 
 a:hover,
 a:focus,
 a:active {
-  color: #4d9d91;
+  color: #2980b9;
 }
 
 pre {
@@ -195,5 +196,5 @@ li {
 }
 
 p {
-  color: #777;
+  color: #000;
 }
