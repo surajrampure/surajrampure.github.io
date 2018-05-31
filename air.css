@@ -154,6 +154,7 @@ body {
   margin: 6rem auto 1rem;
   max-width: 48rem;
   text-align: center;
+  color: #000;
 }
 
 img {
@@ -195,5 +196,5 @@ li {
 }
 
 p {
-  color: #777;
+  color: #000;
 }
