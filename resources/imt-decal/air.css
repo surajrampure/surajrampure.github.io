@@ -41,10 +41,6 @@
     page-break-inside: avoid;
   }
 
-  img {
-    max-width: 100% !important;
-  }
-
   p,
   h2,
   h3 {
@@ -157,12 +153,6 @@ body {
   color: #000;
 }
 
-img {
-  height: 200px;
-  margin: 0 auto;
-  width: 200px;
-}
-
 a,
 a:visited {
   color: #3498db;
@@ -196,4 +186,8 @@ li {
 
 p {
   color: #000;
+}
+
+.imgContainer{
+    float:left;
 }
