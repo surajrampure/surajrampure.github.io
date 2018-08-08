@@ -12,13 +12,21 @@
     </div>
 </div>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
 
 ## Introduction to Mathematical Thinking DeCal
 
 All resources, including the course textbook (which features embedded lecture videos) are on the course website, http://imt-decal.org. 
 
 <br>
+
+## Data 100
+TA: Fall 2018
+
+Coming soon...
+
+<br>
+
 
 ## CS 61A
 TA: Spring 2018

@@ -11,7 +11,7 @@
     </div>
 </div>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br>
 
 My name is Suraj Rampure, and I'm a junior studying Electrical Engineering and Computer Science at the University of California, Berkeley. I'm from Windsor, Ontario, a small Canadian town that's ten minutes south of Detroit and three hours south of Toronto. I like dogs (shout out to Rex and Junior), cars, technology (Apple) and rooting for whatever team LeBron plays for (go <del>Cavs</del> Lakers!). 
 
@@ -23,7 +23,7 @@ If you have any questions, feel free to reach out at suraj.rampure@berkeley.edu.
 
 Teaching consumes a large part of my day, but I wouldn't have it any other way. 
 
-- Fall 2018 is my third semester as an **Undergraduate Student Instructor**, i.e. Teaching Assistant, in the EECS department at UC Berkeley. I'm currently a TA for ???, but have also TA'd Data 8 (introductory data science) and CS 61A (introductory programming) in the past. Check out my teaching page [here](link to teaching page). I was a recipient of the [outstanding GSI award](http://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2018/) for the 2017-2018 year, an award that is given annually to the top ~9% of GSIs in each department.
+- Fall 2018 is my third semester as an **Undergraduate Student Instructor**, i.e. Teaching Assistant, in the EECS department at UC Berkeley. I'm currently a TA for Data 100, but have also TA'd Data 8 (introductory data science) and CS 61A (introductory programming) in the past. Check out my teaching page [here](link to teaching page). I was a recipient of the [outstanding GSI award](http://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2018/) for the 2017-2018 year, an award that is given annually to the top ~9% of GSIs in each department.
 
 - The Fall 2018 semester is also the inaugural semester of **[Introduction to Mathematical Thinking](http://imt-decal.org)**, a 2-unit student-run course that I created in order to prepare students for our extremely challenging introductory discrete math and probability course that students need to do well in in order to declare the Computer Science major. You can read the textbook I wrote for it [here](http://book.imt-decal.org). 
 
@@ -33,7 +33,7 @@ Teaching consumes a large part of my day, but I wouldn't have it any other way.
 
 ### Other
 
-- In the summer of 2018, I was a software engineering intern at **[McKinsey & Co.](mckinsey.com)** in New York City, where I worked on the Healthcare Analytics and Delivery team. My work was primarily in Python, SQL and JavaScript.
+- In the summer of 2018, I was a software engineering intern at **[McKinsey & Co.](mckinsey.com)** in New York City, where I worked on the Healthcare Analytics and Delivery team. My work was primarily in SQL and JavaScript.
 
 - Previously, I was a director for **[Cal Hacks](http://calhacks.io)**, Berkeley's largest annual hackathon. 
 
