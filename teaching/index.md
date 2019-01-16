@@ -33,52 +33,61 @@
 
 ---
 
-<br>
 
-## Introduction to Mathematical Thinking DeCal
+### CS 198-087 – Introduction to Mathematical Thinking DeCal ([site](http://imt-decal.org))
 
-All resources, including the course textbook (which features embedded lecture videos) are on the course website, [http://imt-decal.org](http://imt-decal.org).
+All resources, including the [course textbook](http://book.imt-decal.org) are on the course website, linked above.
 
-<br>
 
-## Data 100
+---
+
+
+### Data 100 – Principles and Techniques of Data Science ([site](http://ds100.org))
 
 TA: Spring 2019, Fall 2018
 
-Discussions from Fall 2018:
+Section and OH times TBA
+
+**Discussions (from Fall 2018):**
 
 - Discussion notes, Week 5 (<a href="resources/ds100/disc05.pdf">pdf</a>)
 - Discussion notes, Week 6 (<a href="resources/ds100/disc06.pdf">pdf</a>)
 - Discussion notes, Week 7 (<a href="resources/ds100/disc07.pdf">pdf</a>)
 - Discussion notes, Week 8 (<a href="resources/ds100/disc08.pdf">pdf</a>)
 
-Videos I've created:
+**Videos:**
 
 - [Fall 2017 Midterm Walkthrough](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqAD1D9g9P9SUYo0tdXQpSY) (FA18)
 - [Spring 2018 Final Walkthrough](https://www.youtube.com/watch?v=5JU0Xe46DnA&list=PLQCcNQgUcDfrBO7dpL-Pv6e0LYGeqsHKr) (FA18)
 
-Other resources I've created:
+**Notes and other resources**:
 
-- [Review slides on Linear Regression, Regularization, and Bias-Variance](resources/ds100/linear-regression.pdf)
-- [Review Slides on Classification, Logistic Regression, and Probability](resources/ds100/classification.pdf)
-- [Connections between different approaches to linear regression](resources/ds100/regression-connections.html)
+- [Review slides on Linear Regression, Regularization, and Bias-Variance](resources/ds100/linear-regression.pdf) (FA18)
+- [Review Slides on Classification, Logistic Regression, and Probability](resources/ds100/classification.pdf) (FA18)
+- [Connections between different approaches to linear regression](resources/ds100/regression-connections.html) (FA18)
 
-<br>
+---
 
-## CS 61A
+### CS 61A – Structure and Interpretation of Computer Programs ([site](http://cs61a.org))
 
 TA: Spring 2018
 
-<p>While I didn’t teach a discussion section this semester, I created a few walkthrough videos:</p>
+**Videos:**
+
 <ul>
 <li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZcnCCRrb_pYP8Kkj7LD3kcZ">Spring 2018 Midterm 2 Walkthrough</a> (SP18)</li>
 <li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZeOlFXcB3uxwyAONB4PAMeX">Spring 2018 Midterm 1 Walkthrough</a> (SP18)</li>
 <li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZcKnjvoIPAEE_tlu1Uzqs0W">Fall 2017 Final Walkthrough</a> (SP18)</li>
 </ul>
-<br>
-<h2>Data 8</h2>
+
+---
+
+### Data 8 – Foundations of Data Science ([site](http://data8.org))
+
 <p>TA: Fall 2017, Tutor: Spring 2017</p>
-<p>Here are the discussion slides that I created in FA17. Feel free to use and modify these slides, but please give me credit.</p>
+
+**Slides (from Fall 2017):**
+
 <ul>
 <li>Week 1 <a href="resources/data8/pdf/week1.pdf">pdf</a> <a href="resources/data8/key/week1.key">keynote</a></li>
 <li>Week 2 <a href="resources/data8/pdf/week2.pdf">pdf</a> <a href="resources/data8/key/week2.key">keynote</a></li>
@@ -93,8 +102,9 @@ TA: Spring 2018
 <li>Week 11 <a href="resources/data8/pdf/week11.pdf">pdf</a> <a href="resources/data8/key/week11.key">keynote</a></li>
 <li>Week 12 <a href="resources/data8/pdf/week12.pdf">pdf</a> <a href="resources/data8/key/week12.key">keynote</a></li>
 </ul>
-<br>
-<p>While teaching Data 8, I also created several review and walkthrough videos.</p>
+
+**Videos:**
+
 <ul>
 <li><a href="https://www.youtube.com/watch?v=7P6zJmMV7AE">Histograms Midterm Review</a> (FA17)</li>
 <li><a href="https://www.youtube.com/watch?v=mdHvHv_lqLk">Summer 2017 Midterm Walkthrough</a> (FA17)</li>
@@ -103,7 +113,9 @@ TA: Spring 2018
 <li><a href="https://www.youtube.com/watch?v=LR8Zfa1JovA">Fall 2016 Midterm Walkthrough</a> (SP17)</li>
 <li><a href="https://www.youtube.com/watch?v=oaNolUkZTL0">Spring 2016 Final Walkthrough</a> (SP17)</li>
 </ul>
-<p>Other resources:</p>
+
+**Notes and other resources:**
+
 <ul>
 <li><a href="resources/data8/tvd-walkthrough.html">Total Variation Distance – A Walkthrough</a> (FA17)</li>
 <li><a href="resources/data8/ch2-causation.pdf">Causality Notes (Vasilis)</a> (SP17)</li>

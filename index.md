@@ -28,16 +28,18 @@
 
 # Suraj Rampure
 
----
+**[Home](surajrampure.com)** &nbsp; [Teaching](surajrampure.com/teaching.html)
 
+---
 
 You can email me at **suraj.rampure@berkeley.edu**, connect with me on [LinkedIn](http://linkedin.com/in/rampuresuraj), check out my [GitHub](http://github.com/surajrampure), or look at my [resume](resume.pdf).
 
-View my teaching page [here](teaching.html).
-
 ---
 
-**Hey, I'm Suraj!** I’m a junior studying Electrical Engineering and Computer Science at the University of California, Berkeley. I’m from Windsor, Ontario, a small Canadian town that’s ten minutes south of Detroit and three hours south of Toronto. I like dogs (shout out to Rex and Junior), cars, technology (Apple) and rooting for whatever team LeBron plays for (go <del>Cavs</del> Lakers!).
+**Hey, I'm Suraj!** I’m a junior studying Electrical Engineering and Computer Science at the University of California, Berkeley. My interests lie in education and data science.
+
+Though I'm a proud Canadian (from Windsor, Ontario), I enjoy rooting for whatever team LeBron plays for --- go <del>Cavs</del> Lakers!
+
 
 <br>
 
@@ -53,7 +55,7 @@ Spring 2019 is also the second semester of [Introduction to Mathematical Thinkin
 
 **Computer Science Mentors**
 <br>
-This is my fifth as a part of [Computer Science Mentors](http://csmberkeley.github.io), a student-run organization that facilitates small group tutoring for the introductory computer science and electrical engineering courses at Berkeley. CSM’s work is extremely important; some of these courses have enrollments well over 1000 students, and by offering group tutoring, we help make the course smaller and effectively help more students pursue computer science as a major. I’m currently the External Vice President, but served as the CS 70 coordinator for FA17 and SP18.
+This is my fifth semester as a part of [Computer Science Mentors](http://csmberkeley.github.io), a student-run organization that facilitates small group tutoring for the introductory computer science and electrical engineering courses at Berkeley. CSM’s work is extremely important; some of these courses have enrollments well over 1000 students, and by offering group tutoring, we help make the course smaller and effectively help more students pursue computer science as a major. I’m currently the External Vice President, but served as the CS 70 coordinator for FA17 and SP18.
 
 <br>
 
@@ -70,3 +72,5 @@ In Spring 2017 and Fall 2017, I was a director for [Cal Hacks](http://calhacks.i
 **Data Science for India**
 <br>
 In the summer of 2017, I was the director of curriculum development for [Data Science for India](http://datascienceforindia.com), an organization that aims to broaden access to data science skills across India. I helped oversee the creation of a curriculum that was based off of Berkeley courses, but accessible to students with no prior computing knowledge.
+
+<br>
