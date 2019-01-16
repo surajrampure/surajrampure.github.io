@@ -120,5 +120,5 @@ TA: Spring 2018
 <li><a href="resources/data8/ch2-causation.pdf">Causality Notes (Vasilis)</a> (SP17)</li>
 </ul>
 <br>
-<p><img src="resources/pictures/d8logo.png" width=100> <br>
+<p><img src="../resources/pictures/d8logo.png" width=100> <br>
 <em>I also created this logo!</em></p>
