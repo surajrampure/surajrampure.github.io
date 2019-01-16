@@ -28,7 +28,7 @@
 
 # Suraj Rampure
 
-**[Home](http://surajrampure.com)** &nbsp; [Teaching](http://surajrampure.com/teaching.html)
+**[Home](index.html)** &nbsp; [Teaching](teaching/index.html)
 
 ---
 
