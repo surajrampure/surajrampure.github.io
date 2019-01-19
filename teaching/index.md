@@ -49,10 +49,10 @@ Section and OH times TBA
 
 **Discussions (from Fall 2018):**
 
-- Discussion notes, Week 5 (<a href="resources/ds100/disc05.pdf">pdf</a>)
-- Discussion notes, Week 6 (<a href="resources/ds100/disc06.pdf">pdf</a>)
-- Discussion notes, Week 7 (<a href="resources/ds100/disc07.pdf">pdf</a>)
-- Discussion notes, Week 8 (<a href="resources/ds100/disc08.pdf">pdf</a>)
+- Discussion notes, Week 5 (<a href="../resources/ds100/disc05.pdf">pdf</a>)
+- Discussion notes, Week 6 (<a href="../resources/ds100/disc06.pdf">pdf</a>)
+- Discussion notes, Week 7 (<a href="../resources/ds100/disc07.pdf">pdf</a>)
+- Discussion notes, Week 8 (<a href="../resources/ds100/disc08.pdf">pdf</a>)
 
 **Videos:**
 
@@ -61,9 +61,9 @@ Section and OH times TBA
 
 **Notes and other resources**:
 
-- [Review slides on Linear Regression, Regularization, and Bias-Variance](resources/ds100/linear-regression.pdf) (FA18)
-- [Review Slides on Classification, Logistic Regression, and Probability](resources/ds100/classification.pdf) (FA18)
-- [Connections between different approaches to linear regression](resources/ds100/regression-connections.html) (FA18)
+- [Review slides on Linear Regression, Regularization, and Bias-Variance](../resources/ds100/linear-regression.pdf) (FA18)
+- [Review Slides on Classification, Logistic Regression, and Probability](../resources/ds100/classification.pdf) (FA18)
+- [Connections between different approaches to linear regression](../resources/ds100/regression-connections.html) (FA18)
 
 ---
 
@@ -88,18 +88,18 @@ TA: Spring 2018
 **Slides (from Fall 2017):**
 
 <ul>
-<li>Week 1 <a href="resources/data8/pdf/week1.pdf">pdf</a> <a href="resources/data8/key/week1.key">keynote</a></li>
-<li>Week 2 <a href="resources/data8/pdf/week2.pdf">pdf</a> <a href="resources/data8/key/week2.key">keynote</a></li>
-<li>Week 3 <a href="resources/data8/pdf/week3.pdf">pdf</a> <a href="resources/data8/key/week3.key">keynote</a></li>
-<li>Week 4 <a href="resources/data8/pdf/week4.pdf">pdf</a> <a href="resources/data8/key/week4.key">keynote</a></li>
-<li>Week 5 <a href="resources/data8/pdf/week5.pdf">pdf</a> <a href="resources/data8/key/week5.key">keynote</a></li>
-<li>Week 6 <a href="resources/data8/pdf/week6.pdf">pdf</a> <a href="resources/data8/key/week6.key">keynote</a></li>
+<li>Week 1 <a href="../resources/data8/pdf/week1.pdf">pdf</a> <a href="../resources/data8/key/week1.key">keynote</a></li>
+<li>Week 2 <a href="../resources/data8/pdf/week2.pdf">pdf</a> <a href="../resources/data8/key/week2.key">keynote</a></li>
+<li>Week 3 <a href="../resources/data8/pdf/week3.pdf">pdf</a> <a href="../resources/data8/key/week3.key">keynote</a></li>
+<li>Week 4 <a href="../resources/data8/pdf/week4.pdf">pdf</a> <a href="../resources/data8/key/week4.key">keynote</a></li>
+<li>Week 5 <a href="../resources/data8/pdf/week5.pdf">pdf</a> <a href="../resources/data8/key/week5.key">keynote</a></li>
+<li>Week 6 <a href="../resources/data8/pdf/week6.pdf">pdf</a> <a href="../resources/data8/key/week6.key">keynote</a></li>
 <li>Week 7 (no slides)</li>
-<li>Week 8 <a href="resources/data8/pdf/week8.pdf">pdf</a> <a href="resources/data8/key/week8.key">keynote</a></li>
-<li>Week 9 <a href="resources/data8/pdf/week9.pdf">pdf</a> <a href="resources/data8/key/week9.key">keynote</a></li>
-<li>Week 10 <a href="resources/data8/pdf/week10.pdf">pdf</a> <a href="resources/data8/key/week10.key">keynote</a></li>
-<li>Week 11 <a href="resources/data8/pdf/week11.pdf">pdf</a> <a href="resources/data8/key/week11.key">keynote</a></li>
-<li>Week 12 <a href="resources/data8/pdf/week12.pdf">pdf</a> <a href="resources/data8/key/week12.key">keynote</a></li>
+<li>Week 8 <a href="../resources/data8/pdf/week8.pdf">pdf</a> <a href="../resources/data8/key/week8.key">keynote</a></li>
+<li>Week 9 <a href="../resources/data8/pdf/week9.pdf">pdf</a> <a href="../resources/data8/key/week9.key">keynote</a></li>
+<li>Week 10 <a href="../resources/data8/pdf/week10.pdf">pdf</a> <a href="../resources/data8/key/week10.key">keynote</a></li>
+<li>Week 11 <a href="../resources/data8/pdf/week11.pdf">pdf</a> <a href="../resources/data8/key/week11.key">keynote</a></li>
+<li>Week 12 <a href="../resources/data8/pdf/week12.pdf">pdf</a> <a href="../resources/data8/key/week12.key">keynote</a></li>
 </ul>
 
 **Videos:**
@@ -116,8 +116,8 @@ TA: Spring 2018
 **Notes and other resources:**
 
 <ul>
-<li><a href="resources/data8/tvd-walkthrough.html">Total Variation Distance – A Walkthrough</a> (FA17)</li>
-<li><a href="resources/data8/ch2-causation.pdf">Causality Notes (Vasilis)</a> (SP17)</li>
+<li><a href="../resources/data8/tvd-walkthrough.html">Total Variation Distance – A Walkthrough</a> (FA17)</li>
+<li><a href="../resources/data8/ch2-causation.pdf">Causality Notes (Vasilis)</a> (SP17)</li>
 </ul>
 <br>
 <p><img src="../resources/pictures/d8logo.png" width=100> <br>
