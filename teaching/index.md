@@ -45,7 +45,11 @@ All resources, including the [course textbook](http://book.imt-decal.org) are on
 
 TA: Spring 2019, Fall 2018
 
-Section and OH times TBA
+Lab: Tuesday, 12-1PM and 1-2PM, Evans B6 (111 and 115)
+
+Discussion: Friday, 12-1PM and 1-2PM, Etcheverry (108 and 113)
+
+OH: Thursday, 12-2PM, Soda 411
 
 **Discussions (from Fall 2018):**
 
