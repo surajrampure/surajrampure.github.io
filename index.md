@@ -26,6 +26,12 @@
   <script type='text/javascript' src='http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
 </head>
 
+<div align=center>
+
+<img src='resources/pictures/mecircle.png' width=200>
+
+</div>
+
 # Suraj Rampure
 
 **[Home](index.html)** &nbsp; [Teaching](teaching/index.html) &nbsp; [Courses](courses/index.html)
