@@ -1,6 +1,6 @@
 <br>
 
-<title>Suraj Rampure</title>
+<title>Teaching – Suraj Rampure</title>
 
 <head>
   <meta charset="utf-8">
@@ -26,51 +26,43 @@
   <script type='text/javascript' src='http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
 </head>
 
-# Suraj Rampure
+# Courses – Suraj Rampure
 
-**[Home](index.html)** &nbsp; [Teaching](teaching/index.html) &nbsp; [Courses](courses/index.html)
-
----
-
-You can email me at **suraj.rampure@berkeley.edu**, connect with me on [LinkedIn](http://linkedin.com/in/rampuresuraj), check out my [GitHub](http://github.com/surajrampure), or look at my [resume](resume.pdf).
+[Home](../index.html) &nbsp; [Teaching](../teaching/index.html) &nbsp; **[Courses](index.html)**
 
 ---
 
-**Hey, I'm Suraj!** I’m a junior studying Electrical Engineering and Computer Science at the University of California, Berkeley. My interests lie in education and data science.
+### Computer Science
 
-Though I'm a proud Canadian (from Windsor, Ontario), I enjoy rooting for whatever team LeBron plays for --- go <del>Cavs</del> Lakers!
+- W186: Databases (Spring 2019, in progress)
+- 189: Machine Learning (Spring 2018)
+- 174: Random Algorithms and Discrete Probability (Spring 2018)
+- 170: Efficient Algorithms and Intractable Problems (Fall 2017)
+- 61B: Data Structures (Spring 2017)
+- 195: Social Implications of Computing (Fall 2016)
+- 70: Discrete Mathematics and Probability Theory (Fall 2016)
+- 61A: Structure and Interpretation of Computer Programs (Fall 2016)
 
+### Electrical Engineering
 
-<br>
+- 120: Signals and Systems (Spring 2019, in progress)
+- 229A: Information Theory (Fall 2018)
+- 16B: Designing Information Systems and Devices II (Fall 2018)
+- 126: Probability and Random Processes (Fall 2017)
+- 16A: Designing Information Systems and Devices I (Spring 2017)
 
-## Currently...
+### Mathematics
 
-**Undergraduate Student Instructor**
-<br>
-Spring 2019 is my fourth semester as an Undergraduate Student Instructor, i.e. Teaching Assistant, in the EECS department at UC Berkeley. I’m currently a TA for [Data 100](http://ds100.org), but have also TA’d Data 8 (introductory data science) and CS 61A (introductory programming) in the past. I was a recipient of the [outstanding GSI award](http://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2018/) for the 2017-2018 year, an award that is given annually to the top ~9% of GSIs in each department. My teaching page is linked above.
+- 113: Abstract Algebra (Spring 2019, in progress)
+- 53: Multivariable Calculus (Summer 2017)
+- 128A: Numerical Analysis (Spring 2017)
+- 110: Linear Algebra (Spring 2017)
+- 1A: Calculus I (Fall 2016)
 
-**Introduction to Mathematical Thinking**
-<br>
-Spring 2019 is also the second semester of [Introduction to Mathematical Thinking](http://imt-decal.org), a 2-unit student-run course that I created in order to prepare students for our extremely challenging introductory discrete math and probability course that students need to do well in in order to declare the Computer Science major. You can read the textbook I wrote for it [here](http://book.imt-decal.org).
+### Other Science and Engineering
 
-**Computer Science Mentors**
-<br>
-This is my fifth semester as a part of [Computer Science Mentors](http://csmberkeley.github.io), a student-run organization that facilitates small group tutoring for the introductory computer science and electrical engineering courses at Berkeley. CSM’s work is extremely important; some of these courses have enrollments well over 1000 students, and by offering group tutoring, we help make the course smaller and effectively help more students pursue computer science as a major. I’m currently the External Vice President, but served as the CS 70 coordinator for FA17 and SP18.
+- Physics 7B: Electricity and Magnetism (Fall 2018)
+- Physics 7A: Kinematics and Dynamics (Spring 2018)
+- Engineering 120: Engineering Economics (Fall 2017)
+- Chemistry 1A/L: General Chemistry and Lab (Fall 2016)
 
-<br>
-
-## Previously...
-
-**McKinsey & Co.**
-<br>
-In the summer of 2018, I was a software engineering intern at [McKinsey and Company](mckinsey.com) in New York City, where I worked on the Healthcare Analytics and Delivery team. My work was primarily in SQL and JavaScript.
-
-**Cal Hacks**
-<br>
-In Spring 2017 and Fall 2017, I was a director for [Cal Hacks](http://calhacks.io) Berkeley’s largest annual hackathon and one of the largest collegiate hackathons in the nation.
-
-**Data Science for India**
-<br>
-In the summer of 2017, I was the director of curriculum development for [Data Science for India](http://datascienceforindia.com), an organization that aims to broaden access to data science skills across India. I helped oversee the creation of a curriculum that was based off of Berkeley courses, but accessible to students with no prior computing knowledge.
-
-<br>
