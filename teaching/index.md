@@ -51,12 +51,10 @@ TA: Spring 2019, Fall 2018
 
 Fill out [this form](http://tinyurl.com/goatjames) to tell me a bit about yourself!
 
-**Discussions (from Fall 2018):**
+| Document | Link |
+| --- | --- | 
+| Discussion 1 | [slides](../resources/ds100/sp19/disc1_blank.pdf)
 
-- Discussion notes, Week 5 (<a href="../resources/ds100/disc05.pdf">pdf</a>)
-- Discussion notes, Week 6 (<a href="../resources/ds100/disc06.pdf">pdf</a>)
-- Discussion notes, Week 7 (<a href="../resources/ds100/disc07.pdf">pdf</a>)
-- Discussion notes, Week 8 (<a href="../resources/ds100/disc08.pdf">pdf</a>)
 
 **Videos:**
 
