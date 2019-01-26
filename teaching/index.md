@@ -51,9 +51,9 @@ TA: Spring 2019, Fall 2018
 
 Fill out [this form](http://tinyurl.com/goatjames) to tell me a bit about yourself!
 
-| Document | Link |
+| Item | Links |
 | --- | --- | 
-| Discussion 1 | [slides](../resources/ds100/sp19/disc1_blank.pdf)
+| Discussion 1 | [slides](../resources/ds100/sp19/disc01_slides.pdf), [marked-up worksheet](../resources/ds100/sp19/disc01_markup.pdf)
 
 
 **Videos:**
