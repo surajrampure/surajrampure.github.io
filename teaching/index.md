@@ -54,6 +54,7 @@ Fill out [this form](http://tinyurl.com/goatjames) to tell me a bit about yourse
 | Item | Links |
 | --- | --- | 
 | Discussion 1 | [slides](../resources/ds100/sp19/disc01_slides.pdf), [marked-up worksheet](../resources/ds100/sp19/disc01_markup.pdf)
+| Discussion 3 | [marked-up worksheet](../resources/ds100/sp19/disc03_markup.pdf) |
 
 
 **Videos:**
