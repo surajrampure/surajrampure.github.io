@@ -51,10 +51,22 @@ TA: Spring 2019, Fall 2018
 
 Fill out [this form](http://tinyurl.com/goatjames) to tell me a bit about yourself!
 
-| Item | Links |
+<br>
+
+**Resources from this semester:**
+
+<table style="width: 200%">
+<tbody>
+
+| Week | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | --- | --- | 
-| Discussion 1 | [slides](../resources/ds100/sp19/disc01_slides.pdf), [marked-up worksheet](../resources/ds100/sp19/disc01_markup.pdf)
-| Discussion 3 | [marked-up worksheet](../resources/ds100/sp19/disc03_markup.pdf) |
+| 1 | - [dicussion slides](../resources/ds100/sp19/disc01_slides.pdf) <br> - [marked-up worksheet](../resources/ds100/sp19/disc01_markup.pdf) |
+| 3 | - [marked-up worksheet](../resources/ds100/sp19/disc03_markup.pdf) |
+| 4 | - [walkthrough notebook on Kernel Density Estimation](../resources/ds100/KDE.html) ([raw](../resources/ds100/KDE.ipynb)) |
+| 5 | - [marked-up worksheet](../resources/ds100/sp19/disc05_markup.pdf) <br> - [notebook on Transformations](../resources/ds100/Transformations.html) ([raw](../resources/ds100/Transformations.ipynb)) <br> - [note on Eigenvalues vs. Singular Values](../resources/ds100/eigen-singular.html) |
+
+</tbody>
+</table>
 
 
 **Videos:**
