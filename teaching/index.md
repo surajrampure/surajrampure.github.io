@@ -60,10 +60,11 @@ Fill out [this form](http://tinyurl.com/goatjames) to tell me a bit about yourse
 
 | Week | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | --- | --- | 
-| 1 | - [dicussion slides](../resources/ds100/sp19/disc01_slides.pdf) <br> - [marked-up worksheet](../resources/ds100/sp19/disc01_markup.pdf) |
+| 1 | - [discussion slides](../resources/ds100/sp19/disc01_slides.pdf) <br> - [marked-up worksheet](../resources/ds100/sp19/disc01_markup.pdf) |
 | 3 | - [marked-up worksheet](../resources/ds100/sp19/disc03_markup.pdf) |
 | 4 | - [walkthrough notebook on Kernel Density Estimation](../resources/ds100/KDE.html) ([raw](../resources/ds100/KDE.ipynb)) |
 | 5 | - [marked-up worksheet](../resources/ds100/sp19/disc05_markup.pdf) <br> - [notebook on Transformations](../resources/ds100/Transformations.html) ([raw](../resources/ds100/Transformations.ipynb)) <br> - [note on Eigenvalues vs. Singular Values](../resources/ds100/eigen-singular.html) |
+| 6 | - [discussion slides](../resources/ds100/sp19/disc06_slides.pdf) <br> - [marked-up worksheet](../resources/ds100/sp19/disc06_markup.pdf) |
 
 </tbody>
 </table>
