@@ -45,7 +45,6 @@
 
 ### Electrical Engineering
 
-- 120: Signals and Systems (Spring 2019, in progress)
 - 229A: Information Theory (Fall 2018)
 - 16B: Designing Information Systems and Devices II (Fall 2018)
 - 126: Probability and Random Processes (Fall 2017)

@@ -80,6 +80,7 @@ Fill out [this form](http://tinyurl.com/goatjames) to tell me a bit about yourse
 - [Review slides on Linear Regression, Regularization, and Bias-Variance](../resources/ds100/linear-regression.pdf) (FA18)
 - [Review Slides on Classification, Logistic Regression, and Probability](../resources/ds100/classification.pdf) (FA18)
 - [Connections between different approaches to linear regression](../resources/ds100/regression-connections.html) (FA18)
+- [Derivation of the Sigmoid Function](../resources/ds100/sigmoid.html) (SP19)
 
 ---
 

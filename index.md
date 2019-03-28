@@ -28,7 +28,7 @@
 
 <div align=center>
 
-<img src='resources/pictures/mecircle.png' width=200>
+<img src='resources/pictures/lake.gif' width=200>
 
 </div>
 
