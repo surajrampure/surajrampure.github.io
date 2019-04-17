@@ -35,7 +35,7 @@
 
 ### CS 198-087 – Introduction to Mathematical Thinking DeCal ([site](http://imt-decal.org))
 
-All resources, including the [course textbook](http://book.imt-decal.org) are on the course website, linked above.
+All resources, including the [notes for the course](http://notes.imt-decal.org) are on the course website, linked above.
 
 
 ---
@@ -70,15 +70,22 @@ Fill out [this form](http://tinyurl.com/goatjames) to tell me a bit about yourse
 </table>
 
 
-**Videos:**
+**Discussion Walkthrough Videos:**
+
+- [Discussion 6 Walkthrough](https://www.youtube.com/watch?v=Rigtuige5bU&feature=youtu.be) (SP19)
+- [Discussion 7 Walkthrough](https://www.youtube.com/watch?v=5-hsWWR3MXY&feature=youtu.be) (SP19)
+- [Discussion 8 Walkthrough](https://www.youtube.com/watch?v=MDtI9yYJfn0&feature=youtu.be) (SP19)
+- [Discussion 9 Walkthrough](https://www.youtube.com/watch?v=FRviVt0NNhE&feature=youtu.be) (SP19)
+
+
+**Exam Walkthrough Videos:**
 
 - [Fall 2017 Midterm Walkthrough](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqAD1D9g9P9SUYo0tdXQpSY) (FA18)
 - [Spring 2018 Final Walkthrough](https://www.youtube.com/watch?v=5JU0Xe46DnA&list=PLQCcNQgUcDfrBO7dpL-Pv6e0LYGeqsHKr) (FA18)
 
 **Notes and other resources**:
 
-- [Review slides on Linear Regression, Regularization, and Bias-Variance](../resources/ds100/linear-regression.pdf) (FA18)
-- [Review Slides on Classification, Logistic Regression, and Probability](../resources/ds100/classification.pdf) (FA18)
+- [Review slides on regression, BV, classification](../resources/ds100/midterm2review.pdf)
 - [Connections between different approaches to linear regression](../resources/ds100/regression-connections.html) (FA18)
 - [Derivation of the Sigmoid Function](../resources/ds100/sigmoid.html) (SP19)
 
