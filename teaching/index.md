@@ -49,8 +49,6 @@ TA: Spring 2019, Fall 2018
 - Discussion: Friday, 12-1PM and 1-2PM, Etcheverry (108 and 113)
 - OH: Thursday, 12-2PM, Soda 411
 
-Fill out [this form](http://tinyurl.com/goatjames) to tell me a bit about yourself!
-
 <br>
 
 **Resources from this semester:**
@@ -65,6 +63,7 @@ Fill out [this form](http://tinyurl.com/goatjames) to tell me a bit about yourse
 | 4 | - [walkthrough notebook on Kernel Density Estimation](../resources/ds100/KDE.html) ([raw](../resources/ds100/KDE.ipynb)) |
 | 5 | - [marked-up worksheet](../resources/ds100/sp19/disc05_markup.pdf) <br> - [notebook on Transformations](../resources/ds100/Transformations.html) ([raw](../resources/ds100/Transformations.ipynb)) <br> - [note on Eigenvalues vs. Singular Values](../resources/ds100/eigen-singular.html) |
 | 6 | - [discussion slides](../resources/ds100/sp19/disc06_slides.pdf) <br> - [marked-up worksheet](../resources/ds100/sp19/disc06_markup.pdf) |
+| 10 | - [notes](../resources/ds100/sp19/disc10_notes.pdf) |
 
 </tbody>
 </table>
@@ -76,6 +75,7 @@ Fill out [this form](http://tinyurl.com/goatjames) to tell me a bit about yourse
 - [Discussion 7 Walkthrough](https://www.youtube.com/watch?v=5-hsWWR3MXY&feature=youtu.be) (SP19)
 - [Discussion 8 Walkthrough](https://www.youtube.com/watch?v=MDtI9yYJfn0&feature=youtu.be) (SP19)
 - [Discussion 9 Walkthrough](https://www.youtube.com/watch?v=FRviVt0NNhE&feature=youtu.be) (SP19)
+- [Discussion 12 Walkthrough](https://www.youtube.com/watch?v=EfK_m1jCerM&feature=youtu.be) (SP19)
 
 
 **Exam Walkthrough Videos:**
@@ -83,9 +83,16 @@ Fill out [this form](http://tinyurl.com/goatjames) to tell me a bit about yourse
 - [Fall 2017 Midterm Walkthrough](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqAD1D9g9P9SUYo0tdXQpSY) (FA18)
 - [Spring 2018 Final Walkthrough](https://www.youtube.com/watch?v=5JU0Xe46DnA&list=PLQCcNQgUcDfrBO7dpL-Pv6e0LYGeqsHKr) (FA18)
 
-**Notes and other resources**:
+**Review Slides**:
 
-- [Review slides on regression, BV, classification](../resources/ds100/midterm2review.pdf)
+- [Midterm 2 Review Slides](../resources/ds100/midterm2review.pdf) (SP19)
+- [Final Review Slides (regression, BV, regularization)](http://www.surajrampure.com/resources/ds100/final_review_regression.pdf) ([exam mark-up](http://www.surajrampure.com/resources/ds100/final_review_exam_markup.pdf))  (SP19)
+- [Final Review Slides (classification, logistic regression)](http://www.surajrampure.com/resources/ds100/final_review_classification.pdf) (SP19)
+- [Final Review Slides (sampling, bootstrapping, confidence intervals)](http://www.surajrampure.com/resources/ds100/final_review_bootstrap_sampling.pdf) ([notebook](http://www.surajrampure.com/resources/ds100/final_review_bootstrap_notebook.html)) ([worksheet](http://www.surajrampure.com/resources/ds100/final_review_probability.pdf)) (SP19)
+
+
+**Other Notes**:
+
 - [Connections between different approaches to linear regression](../resources/ds100/regression-connections.html) (FA18)
 - [Derivation of the Sigmoid Function](../resources/ds100/sigmoid.html) (SP19)
 
