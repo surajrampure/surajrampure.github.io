@@ -95,6 +95,7 @@ TA: Spring 2019, Fall 2018
 
 - [Connections between different approaches to linear regression](../resources/ds100/regression-connections.html) (FA18)
 - [Derivation of the Sigmoid Function](../resources/ds100/sigmoid.html) (SP19)
+- [Parameters Diverging to Infinity in Logistic Regression](../resources/ds100/infinity_parameters_logistic.html) (SP19)
 
 ---
 
