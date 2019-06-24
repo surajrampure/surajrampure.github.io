@@ -34,7 +34,7 @@
 
 ### Computer Science
 
-- W186: Databases (Spring 2019, in progress)
+- W186: Databases (Spring 2019)
 - 189: Machine Learning (Spring 2018)
 - 174: Random Algorithms and Discrete Probability (Spring 2018)
 - 170: Efficient Algorithms and Intractable Problems (Fall 2017)
@@ -52,7 +52,7 @@
 
 ### Mathematics
 
-- 113: Abstract Algebra (Spring 2019, in progress)
+- 113: Abstract Algebra (Spring 2019)
 - 53: Multivariable Calculus (Summer 2017)
 - 128A: Numerical Analysis (Spring 2017)
 - 110: Linear Algebra (Spring 2017)

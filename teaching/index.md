@@ -32,10 +32,20 @@
 
 ---
 
+### CS 70 – Discrete Mathematics and Probability Theory ([site](http://eecs70.org/))
 
-### CS 198-087 – Introduction to Mathematical Thinking DeCal ([site](http://imt-decal.org))
+TA: Summer 2019 (head)
 
-All resources, including the [notes for the course](http://notes.imt-decal.org) are on the course website, linked above.
+- Discussion: Monday and Tuesday, 4-5PM, Wheeler 30 (103) [_shared with Ryan Deng, who will typically teach Wednesday and Thursday_]
+- OH: Tuesday, 11AM-1PM, Soda 411
+
+Fill out [this form](http://tinyurl.com/first70disc) to tell me more about you!
+
+<br>
+
+**Resources from this semester:**
+
+- [Discussion notes](https://drive.google.com/drive/folders/1-D34Yk71SkphvUK7YATGz1-MHBPlY_VW?usp=sharing)
 
 
 ---
@@ -43,7 +53,7 @@ All resources, including the [notes for the course](http://notes.imt-decal.org) 
 
 ### Data 100 – Principles and Techniques of Data Science ([site](http://ds100.org))
 
-TA: Spring 2019, Fall 2018
+TA: Spring 2019 (head), Fall 2018 (head)
 
 - Lab: Tuesday, 12-1PM and 1-2PM, Evans B6 (111 and 115)
 - Discussion: Friday, 12-1PM and 1-2PM, Etcheverry (108 and 113)
@@ -96,6 +106,12 @@ TA: Spring 2019, Fall 2018
 - [Connections between different approaches to linear regression](../resources/ds100/regression-connections.html) (FA18)
 - [Derivation of the Sigmoid Function](../resources/ds100/sigmoid.html) (SP19)
 - [Parameters Diverging to Infinity in Logistic Regression](../resources/ds100/infinity_parameters_logistic.html) (SP19)
+
+---
+
+### CS 198-087 – Introduction to Mathematical Thinking DeCal ([site](http://imt-decal.org))
+
+All resources, including the [notes for the course](http://notes.imt-decal.org) are on the course website, linked above.
 
 ---
 
