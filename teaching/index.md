@@ -43,9 +43,11 @@ Fill out [this form](http://tinyurl.com/first70disc) to tell me more about you!
 
 <br>
 
-**Resources from this semester:**
+**Resources:**
 
-- [Discussion notes](https://drive.google.com/drive/folders/1-D34Yk71SkphvUK7YATGz1-MHBPlY_VW?usp=sharing)
+- [Discussion notes (shared with Ryan Deng)](https://drive.google.com/drive/folders/1-D34Yk71SkphvUK7YATGz1-MHBPlY_VW?usp=sharing)
+- [Introduction to Mathematical Thinking DeCal notes](http://notes.imt-decal.org)
+  - Note: These were written for a different course, but you may still find them useful.
 
 
 ---
