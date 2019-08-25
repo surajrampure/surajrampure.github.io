@@ -32,38 +32,37 @@
 
 ---
 
-### CS 70 – Discrete Mathematics and Probability Theory ([site](http://eecs70.org/))
+Here's a summary of my teaching history at Berkeley.
 
-TA: Summer 2019 (head)
+| Semester | Course(s) and Roles | Links |
+| -- | -- | -- |
+| Fall 2019 | Data 100 (head TA) | [Data 100 Resources](#data100) |
+| Summer 2019 | CS 70 (head TA), CS 375 (head TA) | |
+| Spring 2019 | Data 100 (head TA), IMT DeCal (instructor) | [IMT DeCal Resources](http://imt-decal.org) |
+| Fall 2018 | Data 100 (head TA), IMT DeCal (instructor) | |
+| Spring 2018 | CS 61A (TA), CS 70 (CSM mentor) | [CS 61A Resources](#cs61a) |
+| Fall 2017 | Data 8 (TA), CS 70 (CSM mentor) | [Data 8 Resources](#data8) |
+| Spring 2017 | Data 8 (course tutor), CS 70 (CSM mentor) | |
 
-- Discussion: Monday and Tuesday, 4-5PM, Wheeler 30 (103) [_shared with Ryan Deng, who will typically teach Wednesday and Thursday_]
-- OH: Tuesday, 11AM-1PM, Soda 411
-
-Fill out [this form](http://tinyurl.com/first70disc) to tell me more about you!
+Below, you'll find resources I created when helping teach the above courses.
 
 <br>
 
-**Resources:**
+--- 
 
-- [Discussion notes (shared with Ryan Deng)](https://drive.google.com/drive/folders/1-D34Yk71SkphvUK7YATGz1-MHBPlY_VW?usp=sharing)
-- [Introduction to Mathematical Thinking DeCal notes](http://notes.imt-decal.org)
-  - Note: These were written for a different course, but you may still find them useful.
-
-
----
-
+<a name = 'data100'>
 
 ### Data 100 – Principles and Techniques of Data Science ([site](http://ds100.org))
 
-TA: Spring 2019 (head), Fall 2018 (head)
+</a>
 
-- Lab: Tuesday, 12-1PM and 1-2PM, Evans B6 (111 and 115)
-- Discussion: Friday, 12-1PM and 1-2PM, Etcheverry (108 and 113)
-- OH: Thursday, 12-2PM, Soda 411
+My lab, discussion, and OH times for 100 in Fall 2019 are all TBD. 
+
+Resources from Fall 2019 will go here.
 
 <br>
 
-**Resources from this semester:**
+**Resources from previous semesters:**
 
 <table style="width: 200%">
 <tbody>
@@ -109,17 +108,14 @@ TA: Spring 2019 (head), Fall 2018 (head)
 - [Derivation of the Sigmoid Function](../resources/ds100/sigmoid.html) (SP19)
 - [Parameters Diverging to Infinity in Logistic Regression](../resources/ds100/infinity_parameters_logistic.html) (SP19)
 
----
-
-### CS 198-087 – Introduction to Mathematical Thinking DeCal ([site](http://imt-decal.org))
-
-All resources, including the [notes for the course](http://notes.imt-decal.org) are on the course website, linked above.
 
 ---
+
+<a name = 'cs61a'>
 
 ### CS 61A – Structure and Interpretation of Computer Programs ([site](http://cs61a.org))
 
-TA: Spring 2018
+</a>
 
 **Videos:**
 
@@ -131,11 +127,13 @@ TA: Spring 2018
 
 ---
 
+<a name = 'data8'>
+
 ### Data 8 – Foundations of Data Science ([site](http://data8.org))
 
-<p>TA: Fall 2017, Tutor: Spring 2017</p>
+</a>
 
-**Slides (from Fall 2017):**
+**Discussion Slides (from Fall 2017):**
 
 <ul>
 <li>Week 1 <a href="../resources/data8/pdf/week1.pdf">pdf</a> <a href="../resources/data8/key/week1.key">keynote</a></li>
@@ -172,3 +170,5 @@ TA: Spring 2018
 <br>
 <p><img src="../resources/pictures/d8logo.png" width=100> <br>
 <em>I also created this logo!</em></p>
+
+<br>

@@ -1,6 +1,6 @@
 <br>
 
-<title>Teaching – Suraj Rampure</title>
+<title>Courses – Suraj Rampure</title>
 
 <head>
   <meta charset="utf-8">
@@ -34,6 +34,7 @@
 
 ### Computer Science
 
+- 61C: Great Ideas in Computer Architecture (in progress, Fall 2019)
 - W186: Databases (Spring 2019)
 - 189: Machine Learning (Spring 2018)
 - 174: Random Algorithms and Discrete Probability (Spring 2018)
@@ -52,6 +53,7 @@
 
 ### Mathematics
 
+- 115: Number Theory (in progress, Fall 2019)
 - 113: Abstract Algebra (Spring 2019)
 - 53: Multivariable Calculus (Summer 2017)
 - 128A: Numerical Analysis (Spring 2017)

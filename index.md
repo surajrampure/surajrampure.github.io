@@ -28,7 +28,7 @@
 
 <div align=center>
 
-<img src='resources/pictures/lake.gif' width=200>
+[<img src='resources/pictures/miscircle.png' width=200>](resources/pictures/me_dancing.gif)
 
 </div>
 
@@ -42,26 +42,32 @@ You can email me at **suraj.rampure@berkeley.edu**, connect with me on [LinkedIn
 
 ---
 
-**Hey, I'm Suraj!** I’m a junior studying Electrical Engineering and Computer Science at the University of California, Berkeley. My interests lie in education and data science.
+**Hey, I'm Suraj!** I’m a rising senior studying Electrical Engineering and Computer Science at the University of California, Berkeley. My interests lie in education and data science.
 
-Though I'm a proud Canadian (from Windsor, Ontario), I enjoy rooting for whatever team LeBron plays for --- go <del>Cavs</del> Lakers!
+I'm a proud Canadian 🇨🇦, from Windsor, Ontario. I follow basketball, and enjoy rooting for whatever team LeBron plays for --- go <del>Cavs</del> Lakers!
 
+Click the picture of me for a surprise.
 
 <br>
 
 ## Currently...
 
-**Undergraduate Student Instructor**
+**Head Undergraduate Student Instructor (Teaching Assistant)**
 <br>
-Spring 2019 is my fourth semester as an Undergraduate Student Instructor, i.e. Teaching Assistant, in the EECS department at UC Berkeley. I’m currently a TA for [Data 100](http://ds100.org), but have also TA’d Data 8 (introductory data science) and CS 61A (introductory programming) in the past. I was a recipient of the [outstanding GSI award](http://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2018/) for the 2017-2018 year, an award that is given annually to the top ~9% of GSIs in each department. My teaching page is linked above.
+Fall 2019 is my sixth semester as an Undergraduate Student Instructor, i.e. Teaching Assistant, in the EECS (and Statistics) department at UC Berkeley, and fourth as a head TA. 
 
-**Introduction to Mathematical Thinking**
-<br>
-Spring 2019 is also the second semester of [Introduction to Mathematical Thinking](http://imt-decal.org), a 2-unit student-run course that I created in order to prepare students for our extremely challenging introductory discrete math and probability course that students need to do well in in order to declare the Computer Science major. You can read the textbook I wrote for it [here](http://book.imt-decal.org).
+- I’m currently a head TA for [Data 100](http://ds100.org/fa19), but have also TA’d Data 8 (introductory data science), CS 61A (introductory programming), CS 70 (Discrete Math and Probability Theory), and CS 375 (Teaching Computer Science).
+- As a TA, I've been responsible for leading lab and discussion sections, holding office hours, creating, grading, and organizing logistics for exams, and aiding new TAs pedagogically.
+- I was a recipient of the [outstanding GSI award](http://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2018/) for the 2017-2018 year, an award that is given annually to the top ~9% of GSIs in each department, and was also invited to lead the First Time GSI conference held each semester.
+- My teaching page is linked above.
 
 **Computer Science Mentors**
 <br>
-This is my fifth semester as a part of [Computer Science Mentors](http://csmberkeley.github.io), a student-run organization that facilitates small group tutoring for the introductory computer science and electrical engineering courses at Berkeley. CSM’s work is extremely important; some of these courses have enrollments well over 1000 students, and by offering group tutoring, we help make the course smaller and effectively help more students pursue computer science as a major. I’m currently the External Vice President, but served as the CS 70 coordinator for FA17 and SP18.
+This is my sixth semester as a part of [Computer Science Mentors](http://csmberkeley.github.io), a student-run organization that facilitates small group tutoring for the introductory computer science and electrical engineering courses at Berkeley. CSM’s work is extremely important; some of these courses have enrollments well over 1000 students, and by offering group tutoring, we help make the course smaller and effectively help more students pursue computer science as a major. 
+
+- In Fall 2018 and Spring 2019, I served as the External Vice President, and raised thousands of dollars from corporate sponsors to help run our operations.
+- In Fall 2017 and Spring 2018, I served as the course co-ordinator for CS 70 (Discrete Math and Probability Theory). I was responsible for ensuring worksheets were prepared, and for training new CS 70 mentors.
+
 
 <br>
 
@@ -69,7 +75,14 @@ This is my fifth semester as a part of [Computer Science Mentors](http://csmberk
 
 **McKinsey & Co.**
 <br>
-In the summer of 2018, I was a software engineering intern at [McKinsey and Company](mckinsey.com) in New York City, where I worked on the Healthcare Analytics and Delivery team. My work was primarily in SQL and JavaScript.
+In the summer of 2018, I was a software engineering intern at [McKinsey and Company](mckinsey.com) in New York City, where I worked on the Healthcare Analytics and Delivery team. My work was primarily in SQL and JavaScript. 
+
+**Introduction to Mathematical Thinking**
+<br>
+For two semesters (Fall 2018 / Spring 2019), I created and taught [Introduction to Mathematical Thinking](http://imt-decal.org). 
+
+- The goal of the 2-unit, fully student-run course (through the [DeCal](http://decal.berkeley.edu) program) was to prepare students for our extremely challenging introductory discrete math and probability course that students need to do well in in order to declare the Computer Science Major.
+- The course was fully webcasted; lecture slides, notes, videos, assignments, and quizzes are all available on the course website for public consumption.
 
 **Cal Hacks**
 <br>
