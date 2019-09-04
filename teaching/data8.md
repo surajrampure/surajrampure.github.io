@@ -1,6 +1,6 @@
 <br>
 
-<title>Courses – Suraj Rampure</title>
+<title>Data 8 Resources – Suraj Rampure</title>
 
 <head>
   <meta charset="utf-8">
@@ -28,44 +28,52 @@
 
 <img src='../resources/pictures/miscircle.png' width=100>
 
-# Courses – Suraj Rampure
+# Data 8 Resources – Suraj Rampure
 
-[Home](../index.html) &nbsp; [Teaching](../teaching/index.html) &nbsp; **[Courses](index.html)**
+
+[Home](../index.html) &nbsp; [Teaching](index.html) &nbsp; [Courses](../courses/index.html)
 
 ---
 
-### Computer Science
+### Data 8 – Foundations of Data Science ([site](http://data8.org))
 
-- 61C: Great Ideas in Computer Architecture (in progress, Fall 2019)
-- W186: Databases (Spring 2019)
-- 189: Machine Learning (Spring 2018)
-- 174: Random Algorithms and Discrete Probability (Spring 2018)
-- 170: Efficient Algorithms and Intractable Problems (Fall 2017)
-- 61B: Data Structures (Spring 2017)
-- 195: Social Implications of Computing (Fall 2016)
-- 70: Discrete Mathematics and Probability Theory (Fall 2016)
-- 61A: Structure and Interpretation of Computer Programs (Fall 2016)
+**Discussion Slides (from Fall 2017):**
 
-### Electrical Engineering
+<ul>
+<li>Week 1 <a href="../resources/data8/pdf/week1.pdf">pdf</a> <a href="../resources/data8/key/week1.key">keynote</a></li>
+<li>Week 2 <a href="../resources/data8/pdf/week2.pdf">pdf</a> <a href="../resources/data8/key/week2.key">keynote</a></li>
+<li>Week 3 <a href="../resources/data8/pdf/week3.pdf">pdf</a> <a href="../resources/data8/key/week3.key">keynote</a></li>
+<li>Week 4 <a href="../resources/data8/pdf/week4.pdf">pdf</a> <a href="../resources/data8/key/week4.key">keynote</a></li>
+<li>Week 5 <a href="../resources/data8/pdf/week5.pdf">pdf</a> <a href="../resources/data8/key/week5.key">keynote</a></li>
+<li>Week 6 <a href="../resources/data8/pdf/week6.pdf">pdf</a> <a href="../resources/data8/key/week6.key">keynote</a></li>
+<li>Week 7 (no slides)</li>
+<li>Week 8 <a href="../resources/data8/pdf/week8.pdf">pdf</a> <a href="../resources/data8/key/week8.key">keynote</a></li>
+<li>Week 9 <a href="../resources/data8/pdf/week9.pdf">pdf</a> <a href="../resources/data8/key/week9.key">keynote</a></li>
+<li>Week 10 <a href="../resources/data8/pdf/week10.pdf">pdf</a> <a href="../resources/data8/key/week10.key">keynote</a></li>
+<li>Week 11 <a href="../resources/data8/pdf/week11.pdf">pdf</a> <a href="../resources/data8/key/week11.key">keynote</a></li>
+<li>Week 12 <a href="../resources/data8/pdf/week12.pdf">pdf</a> <a href="../resources/data8/key/week12.key">keynote</a></li>
+</ul>
 
-- 229A: Information Theory (Fall 2018)
-- 16B: Designing Information Systems and Devices II (Fall 2018)
-- 126: Probability and Random Processes (Fall 2017)
-- 16A: Designing Information Systems and Devices I (Spring 2017)
+**Videos:**
 
-### Mathematics
+<ul>
+<li><a href="https://www.youtube.com/watch?v=7P6zJmMV7AE">Histograms Midterm Review</a> (FA17)</li>
+<li><a href="https://www.youtube.com/watch?v=mdHvHv_lqLk">Summer 2017 Midterm Walkthrough</a> (FA17)</li>
+<li><a href="https://www.youtube.com/watch?v=rZfGEibJ0Og&amp;feature=youtu.be">Spring 2017 Final Walkthrough</a> (FA17)</li>
+<li><a href="https://www.youtube.com/watch?v=LPMzXlYf8n8">Spring 2017 Midterm Walkthrough</a> (SP17)</li>
+<li><a href="https://www.youtube.com/watch?v=LR8Zfa1JovA">Fall 2016 Midterm Walkthrough</a> (SP17)</li>
+<li><a href="https://www.youtube.com/watch?v=oaNolUkZTL0">Spring 2016 Final Walkthrough</a> (SP17)</li>
+</ul>
 
-- 115: Number Theory (in progress, Fall 2019)
-- 113: Abstract Algebra (Spring 2019)
-- 53: Multivariable Calculus (Summer 2017)
-- 128A: Numerical Analysis (Spring 2017)
-- 110: Linear Algebra (Spring 2017)
-- 1A: Calculus I (Fall 2016)
+**Notes and other resources:**
 
-### Other Science and Engineering
+<ul>
+<li><a href="../resources/data8/tvd-walkthrough.html">Total Variation Distance – A Walkthrough</a> (FA17)</li>
+<li><a href="../resources/data8/ch2-causation.pdf">Causality Notes (Vasilis)</a> (SP17)</li>
+</ul>
+<br>
+<p><img src="../resources/pictures/d8logo.png" width=100> <br>
+<em>I also created this logo!</em></p>
 
-- Physics 7B: Electricity and Magnetism (Fall 2018)
-- Physics 7A: Kinematics and Dynamics (Spring 2018)
-- Engineering 120: Engineering Economics (Fall 2017)
-- Chemistry 1A/L: General Chemistry and Lab (Fall 2016)
+<br>
 

@@ -26,149 +26,22 @@
   <script type='text/javascript' src='http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
 </head>
 
+<img src='../resources/pictures/miscircle.png' width=100>
+
 # Teaching – Suraj Rampure
 
 [Home](../index.html) &nbsp; **[Teaching](index.html)** &nbsp; [Courses](../courses/index.html)
 
 ---
 
-Here's a summary of my teaching history at Berkeley.
+Here's a summary of my teaching history at Berkeley. Click one of the links to be navigated to one of my course specific pages. 
 
 | Semester | Course(s) and Roles | Links |
 | -- | -- | -- |
-| Fall 2019 | Data 100 (head TA) | [Data 100 Resources](#data100) |
+| Fall 2019 | Data 100 (head TA) | [Data 100 Resources](ds100.html) |
 | Summer 2019 | CS 70 (head TA), CS 375 (head TA) | |
 | Spring 2019 | Data 100 (head TA), IMT DeCal (instructor) | [IMT DeCal Resources](http://imt-decal.org) |
 | Fall 2018 | Data 100 (head TA), IMT DeCal (instructor) | |
-| Spring 2018 | CS 61A (TA), CS 70 (CSM mentor) | [CS 61A Resources](#cs61a) |
-| Fall 2017 | Data 8 (TA), CS 70 (CSM mentor) | [Data 8 Resources](#data8) |
+| Spring 2018 | CS 61A (TA), CS 70 (CSM mentor) | [CS 61A Resources](cs61a.html) |
+| Fall 2017 | Data 8 (TA), CS 70 (CSM mentor) | [Data 8 Resources](data8.html) |
 | Spring 2017 | Data 8 (course tutor), CS 70 (CSM mentor) | |
-
-Below, you'll find resources I created when helping teach the above courses.
-
-<br>
-
---- 
-
-<a name = 'data100'>
-
-### Data 100 – Principles and Techniques of Data Science ([site](http://ds100.org))
-
-</a>
-
-My lab, discussion, and OH times for 100 in Fall 2019 are all TBD. 
-
-Resources from Fall 2019 will go here.
-
-<br>
-
-**Resources from previous semesters:**
-
-<table style="width: 200%">
-<tbody>
-
-| Week | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
-| --- | --- | 
-| 1 | - [discussion slides](../resources/ds100/sp19/disc01_slides.pdf) <br> - [marked-up worksheet](../resources/ds100/sp19/disc01_markup.pdf) |
-| 3 | - [marked-up worksheet](../resources/ds100/sp19/disc03_markup.pdf) |
-| 4 | - [walkthrough notebook on Kernel Density Estimation](../resources/ds100/KDE.html) ([raw](../resources/ds100/KDE.ipynb)) |
-| 5 | - [marked-up worksheet](../resources/ds100/sp19/disc05_markup.pdf) <br> - [notebook on Transformations](../resources/ds100/Transformations.html) ([raw](../resources/ds100/Transformations.ipynb)) <br> - [note on Eigenvalues vs. Singular Values](../resources/ds100/eigen-singular.html) |
-| 6 | - [discussion slides](../resources/ds100/sp19/disc06_slides.pdf) <br> - [marked-up worksheet](../resources/ds100/sp19/disc06_markup.pdf) |
-| 10 | - [notes](../resources/ds100/sp19/disc10_notes.pdf) |
-
-</tbody>
-</table>
-
-
-**Discussion Walkthrough Videos:**
-
-- [Discussion 6 Walkthrough](https://www.youtube.com/watch?v=Rigtuige5bU&feature=youtu.be) (SP19)
-- [Discussion 7 Walkthrough](https://www.youtube.com/watch?v=5-hsWWR3MXY&feature=youtu.be) (SP19)
-- [Discussion 8 Walkthrough](https://www.youtube.com/watch?v=MDtI9yYJfn0&feature=youtu.be) (SP19)
-- [Discussion 9 Walkthrough](https://www.youtube.com/watch?v=FRviVt0NNhE&feature=youtu.be) (SP19)
-- [Discussion 12 Walkthrough](https://www.youtube.com/watch?v=EfK_m1jCerM&feature=youtu.be) (SP19)
-
-
-**Exam Walkthrough Videos:**
-
-- [Fall 2017 Midterm Walkthrough](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqAD1D9g9P9SUYo0tdXQpSY) (FA18)
-- [Spring 2018 Final Walkthrough](https://www.youtube.com/watch?v=5JU0Xe46DnA&list=PLQCcNQgUcDfrBO7dpL-Pv6e0LYGeqsHKr) (FA18)
-
-**Review Slides**:
-
-- [Midterm 2 Review Slides](../resources/ds100/midterm2review.pdf) (SP19)
-- [Final Review Slides (regression, BV, regularization)](http://www.surajrampure.com/resources/ds100/final_review_regression.pdf) ([exam mark-up](http://www.surajrampure.com/resources/ds100/final_review_exam_markup.pdf))  (SP19)
-- [Final Review Slides (classification, logistic regression)](http://www.surajrampure.com/resources/ds100/final_review_classification.pdf) (SP19)
-- [Final Review Slides (sampling, bootstrapping, confidence intervals)](http://www.surajrampure.com/resources/ds100/final_review_bootstrap_sampling.pdf) ([notebook](http://www.surajrampure.com/resources/ds100/final_review_bootstrap_notebook.html)) ([worksheet](http://www.surajrampure.com/resources/ds100/final_review_probability.pdf)) (SP19)
-
-
-**Other Notes**:
-
-- [Connections between different approaches to linear regression](../resources/ds100/regression-connections.html) (FA18)
-- [Derivation of the Sigmoid Function](../resources/ds100/sigmoid.html) (SP19)
-- [Parameters Diverging to Infinity in Logistic Regression](../resources/ds100/infinity_parameters_logistic.html) (SP19)
-
-
----
-
-<a name = 'cs61a'>
-
-### CS 61A – Structure and Interpretation of Computer Programs ([site](http://cs61a.org))
-
-</a>
-
-**Videos:**
-
-<ul>
-<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZcnCCRrb_pYP8Kkj7LD3kcZ">Spring 2018 Midterm 2 Walkthrough</a> (SP18)</li>
-<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZeOlFXcB3uxwyAONB4PAMeX">Spring 2018 Midterm 1 Walkthrough</a> (SP18)</li>
-<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZcKnjvoIPAEE_tlu1Uzqs0W">Fall 2017 Final Walkthrough</a> (SP18)</li>
-</ul>
-
----
-
-<a name = 'data8'>
-
-### Data 8 – Foundations of Data Science ([site](http://data8.org))
-
-</a>
-
-**Discussion Slides (from Fall 2017):**
-
-<ul>
-<li>Week 1 <a href="../resources/data8/pdf/week1.pdf">pdf</a> <a href="../resources/data8/key/week1.key">keynote</a></li>
-<li>Week 2 <a href="../resources/data8/pdf/week2.pdf">pdf</a> <a href="../resources/data8/key/week2.key">keynote</a></li>
-<li>Week 3 <a href="../resources/data8/pdf/week3.pdf">pdf</a> <a href="../resources/data8/key/week3.key">keynote</a></li>
-<li>Week 4 <a href="../resources/data8/pdf/week4.pdf">pdf</a> <a href="../resources/data8/key/week4.key">keynote</a></li>
-<li>Week 5 <a href="../resources/data8/pdf/week5.pdf">pdf</a> <a href="../resources/data8/key/week5.key">keynote</a></li>
-<li>Week 6 <a href="../resources/data8/pdf/week6.pdf">pdf</a> <a href="../resources/data8/key/week6.key">keynote</a></li>
-<li>Week 7 (no slides)</li>
-<li>Week 8 <a href="../resources/data8/pdf/week8.pdf">pdf</a> <a href="../resources/data8/key/week8.key">keynote</a></li>
-<li>Week 9 <a href="../resources/data8/pdf/week9.pdf">pdf</a> <a href="../resources/data8/key/week9.key">keynote</a></li>
-<li>Week 10 <a href="../resources/data8/pdf/week10.pdf">pdf</a> <a href="../resources/data8/key/week10.key">keynote</a></li>
-<li>Week 11 <a href="../resources/data8/pdf/week11.pdf">pdf</a> <a href="../resources/data8/key/week11.key">keynote</a></li>
-<li>Week 12 <a href="../resources/data8/pdf/week12.pdf">pdf</a> <a href="../resources/data8/key/week12.key">keynote</a></li>
-</ul>
-
-**Videos:**
-
-<ul>
-<li><a href="https://www.youtube.com/watch?v=7P6zJmMV7AE">Histograms Midterm Review</a> (FA17)</li>
-<li><a href="https://www.youtube.com/watch?v=mdHvHv_lqLk">Summer 2017 Midterm Walkthrough</a> (FA17)</li>
-<li><a href="https://www.youtube.com/watch?v=rZfGEibJ0Og&amp;feature=youtu.be">Spring 2017 Final Walkthrough</a> (FA17)</li>
-<li><a href="https://www.youtube.com/watch?v=LPMzXlYf8n8">Spring 2017 Midterm Walkthrough</a> (SP17)</li>
-<li><a href="https://www.youtube.com/watch?v=LR8Zfa1JovA">Fall 2016 Midterm Walkthrough</a> (SP17)</li>
-<li><a href="https://www.youtube.com/watch?v=oaNolUkZTL0">Spring 2016 Final Walkthrough</a> (SP17)</li>
-</ul>
-
-**Notes and other resources:**
-
-<ul>
-<li><a href="../resources/data8/tvd-walkthrough.html">Total Variation Distance – A Walkthrough</a> (FA17)</li>
-<li><a href="../resources/data8/ch2-causation.pdf">Causality Notes (Vasilis)</a> (SP17)</li>
-</ul>
-<br>
-<p><img src="../resources/pictures/d8logo.png" width=100> <br>
-<em>I also created this logo!</em></p>
-
-<br>

@@ -1,6 +1,6 @@
 <br>
 
-<title>Courses – Suraj Rampure</title>
+<title>CS 61A Resources – Suraj Rampure</title>
 
 <head>
   <meta charset="utf-8">
@@ -28,44 +28,19 @@
 
 <img src='../resources/pictures/miscircle.png' width=100>
 
-# Courses – Suraj Rampure
+# CS 61A Resources – Suraj Rampure
 
-[Home](../index.html) &nbsp; [Teaching](../teaching/index.html) &nbsp; **[Courses](index.html)**
+
+[Home](../index.html) &nbsp; [Teaching](index.html) &nbsp; [Courses](../courses/index.html)
 
 ---
 
-### Computer Science
+### CS 61A – Structure and Interpretation of Computer Programs ([site](http://cs61a.org))
 
-- 61C: Great Ideas in Computer Architecture (in progress, Fall 2019)
-- W186: Databases (Spring 2019)
-- 189: Machine Learning (Spring 2018)
-- 174: Random Algorithms and Discrete Probability (Spring 2018)
-- 170: Efficient Algorithms and Intractable Problems (Fall 2017)
-- 61B: Data Structures (Spring 2017)
-- 195: Social Implications of Computing (Fall 2016)
-- 70: Discrete Mathematics and Probability Theory (Fall 2016)
-- 61A: Structure and Interpretation of Computer Programs (Fall 2016)
+In Spring 2018, I didn't teach a discussion or lab for 61A. However, I created the following exam walkthrough videos:
 
-### Electrical Engineering
-
-- 229A: Information Theory (Fall 2018)
-- 16B: Designing Information Systems and Devices II (Fall 2018)
-- 126: Probability and Random Processes (Fall 2017)
-- 16A: Designing Information Systems and Devices I (Spring 2017)
-
-### Mathematics
-
-- 115: Number Theory (in progress, Fall 2019)
-- 113: Abstract Algebra (Spring 2019)
-- 53: Multivariable Calculus (Summer 2017)
-- 128A: Numerical Analysis (Spring 2017)
-- 110: Linear Algebra (Spring 2017)
-- 1A: Calculus I (Fall 2016)
-
-### Other Science and Engineering
-
-- Physics 7B: Electricity and Magnetism (Fall 2018)
-- Physics 7A: Kinematics and Dynamics (Spring 2018)
-- Engineering 120: Engineering Economics (Fall 2017)
-- Chemistry 1A/L: General Chemistry and Lab (Fall 2016)
-
+<ul>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZcnCCRrb_pYP8Kkj7LD3kcZ">Spring 2018 Midterm 2 Walkthrough</a> (SP18)</li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZeOlFXcB3uxwyAONB4PAMeX">Spring 2018 Midterm 1 Walkthrough</a> (SP18)</li>
+<li><a href="https://www.youtube.com/playlist?list=PLx38hZJ5RLZcKnjvoIPAEE_tlu1Uzqs0W">Fall 2017 Final Walkthrough</a> (SP18)</li>
+</ul>

@@ -1,6 +1,6 @@
 <br>
 
-<title>Suraj Rampure</title>
+<title>Home – Suraj Rampure</title>
 
 <head>
   <meta charset="utf-8">
@@ -28,7 +28,7 @@
 
 <div align=center>
 
-[<img src='resources/pictures/miscircle.png' width=200>](resources/pictures/me_dancing.gif)
+[<img src='resources/pictures/miscircle.png' width=100>](resources/pictures/me_dancing.gif)
 
 </div>
 
