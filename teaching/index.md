@@ -30,7 +30,7 @@
 
 # Teaching – Suraj Rampure
 
-[Home](../index.html) &nbsp; **[Teaching](index.html)** &nbsp; [Courses](../courses/index.html)
+[Home](../index.html) &nbsp; **[Teaching](index.html)** &nbsp;
 
 ---
 
@@ -38,7 +38,8 @@ Here's a summary of my teaching history at Berkeley. Click one of the links to b
 
 | Semester | Course(s) and Roles | Links |
 | -- | -- | -- |
-| Fall 2019 | Data 100 (head TA) | [Data 100 Resources](ds100.html) |
+| Spring 2020 | Data 100 (lead TA) | [Data 100 Resources](ds100.html) |
+| Fall 2019 | Data 100 (head TA) |  |
 | Summer 2019 | CS 70 (head TA), CS 375 (head TA) | |
 | Spring 2019 | Data 100 (head TA), IMT DeCal (instructor) | [IMT DeCal Resources](http://imt-decal.org) |
 | Fall 2018 | Data 100 (head TA), IMT DeCal (instructor) | |

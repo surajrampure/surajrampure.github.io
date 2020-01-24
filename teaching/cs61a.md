@@ -31,7 +31,7 @@
 # CS 61A Resources – Suraj Rampure
 
 
-[Home](../index.html) &nbsp; [Teaching](index.html) &nbsp; [Courses](../courses/index.html)
+[Home](../index.html) &nbsp; [Teaching](index.html)
 
 ---
 

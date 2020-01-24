@@ -34,7 +34,7 @@
 
 # Suraj Rampure
 
-**[Home](index.html)** &nbsp; [Teaching](teaching/index.html) &nbsp; [Courses](courses/index.html)
+**[Home](index.html)** &nbsp; [Teaching](teaching/index.html)
 
 ---
 
@@ -52,21 +52,14 @@ Click the picture of me for a surprise.
 
 ## Currently...
 
-**Head Undergraduate Student Instructor (Teaching Assistant)**
+**Lead Undergraduate Student Instructor (Teaching Assistant)**
 <br>
-Fall 2019 is my sixth semester as an Undergraduate Student Instructor, i.e. Teaching Assistant, in the EECS (and Statistics) department at UC Berkeley, and fourth as a head TA. 
+Spring 2020 is my seventh semester as an Undergraduate Student Instructor, i.e. Teaching Assistant, in the EECS (and Statistics) department at UC Berkeley, and fifth as a head / lead TA. 
 
-- I’m currently a head TA for [Data 100](http://ds100.org/fa19), but have also TA’d Data 8 (introductory data science), CS 61A (introductory programming), CS 70 (Discrete Math and Probability Theory), and CS 375 (Teaching Computer Science).
+- I’m currently a lead TA for [Data 100](http://ds100.org/sp20), but have also TA’d Data 8 (introductory data science), CS 61A (introductory programming), CS 70 (Discrete Math and Probability Theory), and CS 375 (Teaching Computer Science).
 - As a TA, I've been responsible for leading lab and discussion sections, holding office hours, creating, grading, and organizing logistics for exams, and aiding new TAs pedagogically.
 - I was a recipient of the [outstanding GSI award](http://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2018/) for the 2017-2018 year, an award that is given annually to the top ~9% of GSIs in each department, and was also invited to lead the First Time GSI conference held each semester.
 - My teaching page is linked above.
-
-**Computer Science Mentors**
-<br>
-This is my sixth semester as a part of [Computer Science Mentors](http://csmberkeley.github.io), a student-run organization that facilitates small group tutoring for the introductory computer science and electrical engineering courses at Berkeley. CSM’s work is extremely important; some of these courses have enrollments well over 1000 students, and by offering group tutoring, we help make the course smaller and effectively help more students pursue computer science as a major. 
-
-- In Fall 2018 and Spring 2019, I served as the External Vice President, and raised thousands of dollars from corporate sponsors to help run our operations.
-- In Fall 2017 and Spring 2018, I served as the course co-ordinator for CS 70 (Discrete Math and Probability Theory). I was responsible for ensuring worksheets were prepared, and for training new CS 70 mentors.
 
 
 <br>
@@ -83,6 +76,17 @@ For two semesters (Fall 2018 / Spring 2019), I created and taught [Introduction 
 
 - The goal of the 2-unit, fully student-run course (through the [DeCal](http://decal.berkeley.edu) program) was to prepare students for our extremely challenging introductory discrete math and probability course that students need to do well in in order to declare the Computer Science Major.
 - The course was fully webcasted; lecture slides, notes, videos, assignments, and quizzes are all available on the course website for public consumption.
+
+**Computer Science Mentors**
+<br>
+[Computer Science Mentors](http://csmberkeley.github.io) is a student-run organization that facilitates small group tutoring for the introductory computer science and electrical engineering courses at Berkeley. CSM’s work is extremely important; some of these courses have enrollments well over 1000 students, and by offering group tutoring, we help make the course smaller and effectively help more students pursue computer science as a major. 
+
+I was a part of CSM for 6 semesters:
+
+- In Fall 2019, I was an advisor on the exec committee.
+- In Fall 2018 and Spring 2019, I served as the External Vice President, and raised thousands of dollars from corporate sponsors to help run our operations.
+- In Fall 2017 and Spring 2018, I served as the course co-ordinator for CS 70 (Discrete Math and Probability Theory). I was responsible for ensuring worksheets were prepared, and for training new CS 70 mentors.
+- In Spring 2017, I was a junior mentor, mentoring two groups of 6 students each once a week for CS 70.
 
 **Cal Hacks**
 <br>
