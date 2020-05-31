@@ -1,0 +1,57 @@
+#
+#
+# things you probably want to change
+#
+#
+
+# no trailing slash
+url: http://rampure.org
+
+# for header and meta tags
+title: Suraj Rampure
+description: EECS M.S. student at UC Berkeley.
+
+# set external to true if linking outside your website
+# for internal, make sure to include preceding slash
+nav-links:
+  - name: Home
+    url: /
+    external: false
+  - name: Teaching
+    url: /teaching
+    external: false
+
+# for the homepage image + big text next to it
+greeting_image: /assets/me.png
+# 100-200 characters recommended
+greeting_text: I am entering my fifth year at UC Berkeley, pursuing a M.S. in Electrical Engineering and Computer Science, focusing on problems in Computer (and Data) Science education under the supervision of <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html">Josh Hug</a>. My first four years at Berkeley culminated with a B.S. in EECS in 2020.
+
+# show blog post excerpts on blog page
+show_excerpts: false
+excerpt_word_count: 70
+
+# long date: April 20, 1969
+long_date: true
+# short date: Apr ‘69
+short_date: false
+
+#
+#
+# things you probably don't want to change
+#
+#
+defaults:
+  - # applies the default layout to all files in the project
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  - # sets is_post=true for all blog posts
+    scope:
+      path: ""
+      type: posts
+    values:
+      is_post: true
+permalink: /:title # so we have /about instead of /about.html, and /blog-post instead of /2019-11-22-blog-post.html
+sass:
+  style: compressed # compress the CSS file generated from the SCSS styles file
