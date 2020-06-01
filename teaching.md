@@ -16,7 +16,7 @@ _Note: This was a student-run course through the [DeCal program](http://decal.be
 
 ### **Teaching Assistant**
 
-Where applicable, click the title of the course to see the resources I've created for it (slides, videos, guides, guest lectures, etc).
+Where applicable, click the title of the course to see the resources I've created for it (slides, videos, notes, guest lectures, etc).
 
 ### [Principles and Techniques of Data Science](../data100) (Data 100)
 - [Spring 2020](http://ds100.org/sp20)

@@ -24,8 +24,7 @@ nav-links:
 # for the homepage image + big text next to it
 greeting_image: /assets/me.png
 # 100-200 characters recommended
-greeting_text: I am entering my fifth year at UC Berkeley, pursuing a M.S. in Electrical Engineering and Computer Science, focusing on problems in Computer (and Data) Science education under the supervision of <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html">Josh Hug</a>. My first four years at Berkeley culminated with a B.S. in EECS in 2020.
-
+greeting_text: I'm entering my fifth year at UC Berkeley, pursuing a M.S. in Electrical Engineering and Computer Science, focusing on problems in Computer (and Data) Science education under the supervision of <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html">Josh Hug</a>. My first four years at Berkeley culminated with a B.S. in EECS in 2020. 
 # show blog post excerpts on blog page
 show_excerpts: false
 excerpt_word_count: 70

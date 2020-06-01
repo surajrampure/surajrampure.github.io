@@ -1,8 +1,8 @@
 ---
 ---
 - **Email**: suraj.rampure@berkeley.edu
-- **Resume**: [pdf](resume.pdf)
-- **LinkedIn**: [/rampuresuraj](http://linkedin.com/in/rampuresuraj)
+- **Resume**: [pdf (last updated January 2020)](resume.pdf)
+- **LinkedIn**: [/in/rampuresuraj](http://linkedin.com/in/rampuresuraj)
 - **GitHub**: [/surajrampure](http://github.com/surajrampure)
 
 <br>
@@ -17,3 +17,4 @@ In addition to being a teaching assistant:
   - The goal of the student-run course (through the DeCal program) was to prepare students for our extremely challenging introductory discrete math and probability course that students need to do well in in order to declare the Computer Science major.
 - I was a part of [Computer Science Mentors](https://csmentors.berkeley.edu/) in various capacities for six semesters, serving on the leadership committee for five.
   - Computer Science Mentors is a student-run organization that facilitates small group tutoring for the introductory computer science and electrical engineering courses at Berkeley.
+- I have volunteered for several education-related initiatives, including [Berkeley's CS Education Day](https://eecs.berkeley.edu/teals-eecs-edday) in 2016 and 2019, and [Stanford's Code in Place](https://compedu.stanford.edu/codeinplace) in 2020 as a section leader.
