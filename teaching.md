@@ -19,6 +19,7 @@ _Note: This was a student-run course through the [DeCal program](http://decal.be
 Where applicable, click the title of the course to see the resources I've created for it (slides, videos, notes, guest lectures, etc).
 
 ### [Principles and Techniques of Data Science](../data100) (Data 100)
+- [Fall 2020](http://ds100.org/fa20)
 - [Spring 2020](http://ds100.org/sp20)
 - [Fall 2019](http://ds100.org/fa19)
 - [Spring 2019](http://ds100.org/sp19)

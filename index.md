@@ -1,15 +1,17 @@
 ---
 ---
+
+<br>
+
 - **Email**: suraj.rampure@berkeley.edu
-- **Resume**: [pdf (last updated January 2020)](resume.pdf)
 - **LinkedIn**: [/in/rampuresuraj](http://linkedin.com/in/rampuresuraj)
 - **GitHub**: [/surajrampure](http://github.com/surajrampure)
 
 <br>
 
-I've been fortunate to be a part of the massive undergraduate teaching community at UC Berkeley.
-- I will be an instructor for Principles and Techniques of Data Science ([Data 100](http://ds100.org/su20)) this summer.
-- In total, I have been a teaching assistant for 8 semesters across 5 different courses. (See [Teaching](../teaching) for more details.)
+I've been fortunate to be a part of the massive teaching community at UC Berkeley.
+- In Summer 2020 I was an instructor for Principles and Techniques of Data Science ([Data 100](http://ds100.org/su20)).
+- Including this fall, I have been a teaching assistant for 9 semesters across 5 different courses. (See [Teaching](../teaching) for more details.)
 - I was a recipient of the [EECS Distinguished GSI Award](https://www2.eecs.berkeley.edu/Students/Awards/13/) for 2019-2020, and of the campus [Outstanding GSI Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2018/) for 2017-2018.
 
 In addition to being a teaching assistant:
