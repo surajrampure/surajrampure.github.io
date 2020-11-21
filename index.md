@@ -1,22 +1,31 @@
 ---
 ---
+Hi! I'm a 5th year MS student in EECS at UC Berkeley, studying CS education and data science with [Josh Hug](https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html). Previously, I was an undergrad in the same department at Berkeley, graduating in 2020. I'm originally from Windsor, ON 🇨🇦.
 
-<br>
+**Email:** suraj.rampure@berkeley.edu
 
-- **Email**: suraj.rampure@berkeley.edu
-- **LinkedIn**: [/in/rampuresuraj](http://linkedin.com/in/rampuresuraj)
-- **GitHub**: [/surajrampure](http://github.com/surajrampure)
+### **Teaching Experience**
 
-<br>
+**Instructor**
 
-I've been fortunate to be a part of the massive teaching community at UC Berkeley.
-- In Summer 2020 I was an instructor for Principles and Techniques of Data Science ([Data 100](http://ds100.org/su20)).
-- Including this fall, I have been a teaching assistant for 9 semesters across 5 different courses. (See [Teaching](../teaching) for more details.)
-- I was a recipient of the [EECS Distinguished GSI Award](https://www2.eecs.berkeley.edu/Students/Awards/13/) for 2019-2020, and of the campus [Outstanding GSI Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2018/) for 2017-2018.
+- Data 94: Introduction to Computational Thinking with Data ([Spring 2021](http://data94.org))
+- Data 100: Principles and Techniques of Data Science ([Summer 2020](http://ds100.org/su20))
+- CS 198-087: Introduction to Mathematical Thinking ([Spring 2019](http://imt-decal.org), Fall 2018)
+  - _Note: This was a student-run course through the [DeCal program](http://decal.berkeley.edu), with a faculty sponsor._
 
-In addition to being a teaching assistant:
-- I created and taught [Introduction to Mathematical Thinking](http://imt-decal.org) for two semesters (Fall 2018, Spring 2019).
-  - The goal of the student-run course (through the DeCal program) was to prepare students for our extremely challenging introductory discrete math and probability course that students need to do well in in order to declare the Computer Science major.
-- I was a part of [Computer Science Mentors](https://csmentors.berkeley.edu/) in various capacities for six semesters, serving on the leadership committee for five.
-  - Computer Science Mentors is a student-run organization that facilitates small group tutoring for the introductory computer science and electrical engineering courses at Berkeley.
-- I have volunteered for several education-related initiatives, including [Berkeley's CS Education Day](https://eecs.berkeley.edu/teals-eecs-edday) in 2016 and 2019, and [Stanford's Code in Place](https://compedu.stanford.edu/codeinplace) in 2020 as a section leader.
+**Teaching Assistant (GSI)**
+
+- Data 100: Principles and Techniques of Data Science ([Fall 2020](http://ds100.org/fa20), [Spring 2020](http://ds100.org/sp20), [Fall 2019](http://ds100.org/fa19), [Spring 2019](http://ds100.org/sp19), [Fall 2018](http://ds100.org/fa18)) [[resources](../data100)]
+- CS 70: Discrete Mathematics and Probability Theory ([Summer 2019](http://su19.eecs70.org))
+- CS 375: Teaching Techniques for Computer Science ([Summer 2019](http://cs375.github.io/su19))
+- CS 61A: Structure and Interpretation of Computer Programs ([Spring 2018](http://cs61a.org/sp18))
+- Data 8: Foundations of Data Science ([Fall 2017](http://data8.org/fa17), [Spring 2017](http://data8.org/sp17) (tutor)) [[resources](../data8)]
+
+### **Awards**
+- 2019-2020 [EECS Distinguished GSI Award](https://www2.eecs.berkeley.edu/Students/Awards/13/)
+- 2017-2018 [EECS Outstanding GSI Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2018/)
+
+### **Research, Presentations, and Panels**
+- Suraj Rampure\*, Allen Shen\*, and Josh Hug. 2020. Experiences Teaching a Large Upper-Division Data Science Course Remotely. In _Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE ’21)._
+- [2020 National Workshop on Data Science Education](https://data.berkeley.edu/academics/resources/data-science-education-resources/2020-national-workshop-data-science-education) ([pre-recorded talk](https://www.youtube.com/watch?v=VxL9L7VkJTE&feature=youtu.be)) ([Q&A](https://www.youtube.com/watch?v=lfyyZQDlyXQ)) ([workshop](https://www.youtube.com/watch?v=1FsYgKKh9gk&feature=youtu.be))
+- 2020 EECS/CS Student Life Panel Moderator ([video](https://youtu.be/RFCohC5kKO8))

@@ -17,14 +17,11 @@ nav-links:
   - name: Home
     url: /
     external: false
-  - name: Teaching
-    url: /teaching
-    external: false
 
 # for the homepage image + big text next to it
 greeting_image: /assets/me.png
 # 100-200 characters recommended
-greeting_text: <br>I'm in the EECS 5th Year M.S. program at UC Berkeley, focusing on problems in Computer (and Data) Science education under the supervision of <a href="https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html">Josh Hug</a>. My first four years at Berkeley culminated with a B.S. in EECS in 2020. 
+# greeting_text:
 # show blog post excerpts on blog page
 show_excerpts: false
 excerpt_word_count: 70
