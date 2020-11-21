@@ -1,22 +1,16 @@
 ---
 ---
-## Resources for Data 100
+### **Resources for Data 100**
 
-Jump to:
-- [Guest Lectures](#gl)
-- [Videos](#videos)
-- [Notes, Demos, and Review Sessions](#notes)
-- [Discussion Slides and Worksheets](#slides)
-
-<br>
+Note, these are all resources I created as a TA for Data 100. Content I created as an instructor can be found on the official course website.
 
 <a name='gl'></a>
-### Guest Lectures
+**Guest Lectures**
 - Fall 2019 Lecture 20 (Logistic Regression, Cross Entropy Loss, Classification)
   - [slides](https://docs.google.com/presentation/d/1HM3WU4a_lzYa5iz_S_XhsLC9NXy5y45h33Xm79_AStQ/edit?pli=1&ts=5dc10004#slide=id.g4df0212f45_0_0), [webcast (Berkeley only)](https://www.youtube.com/watch?v=ky8ESSqw0Pc)
 
 <a name='videos'></a>
-### Videos
+**Videos**
 _These can all be found on the [Data 100 YouTube channel](https://www.youtube.com/channel/UCW9Ej4iBq_MV4pQ1YRbWyFw)_.
 - Fall 2019 Discussion Walkthroughs
   - [Discussion 2](https://youtu.be/0CiUCgSr-Mg), [Discussion 3](https://www.youtube.com/watch?v=1NKaM-bHKWk&feature=youtu.be),
@@ -28,7 +22,7 @@ _These can all be found on the [Data 100 YouTube channel](https://www.youtube.co
   - [Fall 2017 Midterm](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqAD1D9g9P9SUYo0tdXQpSY), [Spring 2018 Final](https://www.youtube.com/watch?v=5JU0Xe46DnA&list=PLQCcNQgUcDfrBO7dpL-Pv6e0LYGeqsHKr), [Spring 2019 Midterm 1](https://www.youtube.com/watch?v=F3tu9PZHhyU&feature=youtu.be), [Spring 2019 Midterm 2](https://youtu.be/-XCRQ6CKNb0), [Summer 2019 Midterm](https://www.youtube.com/watch?v=7UVjFuRTHMc)
 
 <a name='notes'></a>
-### Notes, Demos, and Review Sessions
+**Notes, Demos, and Review Sessions**
 
 - [Note: Connections between different approaches to linear regression](../resources/data100/notes/regression-connections.html)
 - [Note: Derivation of the Sigmoid Function](../resources/data100/notes/sigmoid.html)
@@ -43,9 +37,9 @@ _These can all be found on the [Data 100 YouTube channel](https://www.youtube.co
 - [Review Session: Logistic Regression and Classification, Final Exam, Fall 2019](../resources/data100/fa19/classificationfa19.pdf)
 
 <a name='slides'></a>
-### Discussion Slides and Worksheets
+**Discussion Slides and Worksheets**
 
-**Spring 2020**
+Spring 2020:
 - Week 1 [slides](../resources/data100/sp20/disc1_slides.pdf), [marked-up worksheet](../resources/data100/sp20/disc1_markup.pdf)
 - Week 2 [slides](../resources/data100/sp20/disc2_slides.pdf), [marked-up worksheet](../resources/data100/sp20/disc2_markup.pdf)
 - Week 5 [marked-up worksheet](../resources/data100/sp20/disc5_markup.pdf)
@@ -55,7 +49,7 @@ _These can all be found on the [Data 100 YouTube channel](https://www.youtube.co
 - Week 10 [slides](../resources/data100/sp20/disc10_slides.pdf), [marked-up worksheet](../resources/data100/sp20/disc10_markup.pdf)
 - Week 13 [slides](../resources/data100/sp20/disc13_slides.pdf), [marked-up worksheet](../resources/data100/sp20/disc13_markup.pdf)
 
-**Fall 2019**
+Fall 2019:
 - Week 2 [slides](../resources/data100/fa19/disc2_slides.pdf), [marked-up worksheet](../resources/data100/fa19/disc2_markup.pdf)
 - Week 3 [slides](../resources/data100/fa19/disc3_slides.pdf), [marked-up worksheet](../resources/data100/fa19/disc3_markup.pdf)
 - Week 5 [marked-up worksheet](../resources/data100/fa19/disc5_markup.pdf)

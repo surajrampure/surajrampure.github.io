@@ -1,9 +1,9 @@
 ---
 ---
 
-## Resources for Data 8
+### **Resources for Data 8**
 
-### Discussion Slides (from Fall 2017)
+**Discussion Slides (from Fall 2017)**
 
 *   Week 1 [pdf](../resources/data8/pdf/week1.pdf)
 *   Week 2 [pdf](../resources/data8/pdf/week2.pdf)
@@ -17,7 +17,7 @@
 *   Week 11 [pdf](../resources/data8/pdf/week11.pdf)
 *   Week 12 [pdf](../resources/data8/pdf/week12.pdf)
 
-### Videos
+**Videos**
 
 *   [Histograms Midterm Review](https://www.youtube.com/watch?v=7P6zJmMV7AE)
 *   [Summer 2017 Midterm Walkthrough](https://www.youtube.com/watch?v=mdHvHv_lqLk)
@@ -26,7 +26,7 @@
 *   [Fall 2016 Midterm Walkthrough](https://www.youtube.com/watch?v=LR8Zfa1JovA)
 *   [Spring 2016 Final Walkthrough](https://www.youtube.com/watch?v=oaNolUkZTL0)
 
-### Notes
+**Notes**
 
 *   [Total Variation Distance – A Walkthrough](../resources/data8/tvd-walkthrough.html)
 *   [Causality Notes (Vasilis)](../resources/data8/ch2-causation.pdf)
