@@ -1,6 +1,6 @@
 ---
 ---
-Hi! I'm a 5th year MS student in EECS at UC Berkeley, studying CS education and data science with [Josh Hug](https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html). Previously, I was an undergrad in the same department at Berkeley, graduating in 2020. I'm originally from Windsor, ON 🇨🇦.
+Hi! 👋 I'm a 5th year MS student in EECS at UC Berkeley, studying CS education and data science with [Josh Hug](https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html). Previously, I was an undergrad in the same department at Berkeley, graduating in 2020. I'm originally from Windsor, ON 🇨🇦.
 
 **Email:** suraj.rampure@berkeley.edu
 
