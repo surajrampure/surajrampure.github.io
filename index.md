@@ -1,6 +1,6 @@
 ---
 ---
-Hi! 👋 I'm a 5th year MS student in EECS at UC Berkeley, studying CS education and data science with [Josh Hug](https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html). Previously, I was an undergrad in the same department at Berkeley, graduating in 2020. I'm originally from Windsor, ON 🇨🇦.
+👋 I'm a 5th year MS student in EECS at UC Berkeley, studying CS education and data science with [Josh Hug](https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html). Previously, I was an undergrad in the same department at Berkeley, graduating in 2020. I'm originally from Windsor, ON 🇨🇦.
 
 **Email:** suraj.rampure@berkeley.edu
 
@@ -26,6 +26,6 @@ Hi! 👋 I'm a 5th year MS student in EECS at UC Berkeley, studying CS education
 - 2017-2018 [EECS Outstanding GSI Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2018/)
 
 ### **Research, Presentations, and Panels**
-- Suraj Rampure\*, Allen Shen\*, and Josh Hug. 2020. Experiences Teaching a Large Upper-Division Data Science Course Remotely. In _Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE ’21)._
+- Suraj Rampure\*, Allen Shen\*, and Josh Hug. 2020. [Experiences Teaching a Large Upper-Division Data Science Course Remotely.](https://dl.acm.org/doi/pdf/10.1145/3408877.3432561) In _Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE ’21)._
 - [2020 National Workshop on Data Science Education](https://data.berkeley.edu/academics/resources/data-science-education-resources/2020-national-workshop-data-science-education) ([pre-recorded talk](https://www.youtube.com/watch?v=VxL9L7VkJTE&feature=youtu.be)) ([Q&A](https://www.youtube.com/watch?v=lfyyZQDlyXQ)) ([workshop](https://www.youtube.com/watch?v=1FsYgKKh9gk&feature=youtu.be))
 - 2020 EECS/CS Student Life Panel Moderator ([video](https://youtu.be/RFCohC5kKO8))
