@@ -51,3 +51,5 @@ defaults:
 permalink: /:title # so we have /about instead of /about.html, and /blog-post instead of /2019-11-22-blog-post.html
 sass:
   style: compressed # compress the CSS file generated from the SCSS styles file
+plugins:
+  - jekyll-redirect-from
