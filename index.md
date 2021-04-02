@@ -29,6 +29,6 @@
 - 2017-2018 [EECS Outstanding GSI Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2018/)
 
 ### **Research, Presentations, and Panels**
-- Suraj Rampure\*, Allen Shen\*, and Josh Hug. 2020. Experiences Teaching a Large Upper-Division Data Science Course Remotely. In _Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE ’21)._ ([pdf](https://dl.acm.org/doi/pdf/10.1145/3408877.3432561)) ([slides](https://docs.google.com/presentation/d/1xBMcdYKrhM0U1FxOKZ93TCqIdDIWFqdz7ns49LN_ukg/edit?usp=sharing))
+- Suraj Rampure\*, Allen Shen\*, and Josh Hug. 2020. Experiences Teaching a Large Upper-Division Data Science Course Remotely. In _Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE ’21)._ ([pdf](https://dl.acm.org/doi/pdf/10.1145/3408877.3432561)) ([slides](https://docs.google.com/presentation/d/1xBMcdYKrhM0U1FxOKZ93TCqIdDIWFqdz7ns49LN_ukg/edit?usp=sharing)) ([video](https://youtu.be/_p-JUp4QyNA))
 - [2020 National Workshop on Data Science Education](https://data.berkeley.edu/academics/resources/data-science-education-resources/2020-national-workshop-data-science-education) ([pre-recorded talk](https://www.youtube.com/watch?v=VxL9L7VkJTE&feature=youtu.be)) ([Q&A](https://www.youtube.com/watch?v=lfyyZQDlyXQ)) ([workshop](https://www.youtube.com/watch?v=1FsYgKKh9gk&feature=youtu.be))
 - 2020 EECS/CS Student Life Panel Moderator ([video](https://youtu.be/RFCohC5kKO8))
