@@ -53,3 +53,6 @@ sass:
   style: compressed # compress the CSS file generated from the SCSS styles file
 plugins:
   - jekyll-redirect-from
+
+# Google Analytics
+google_analytics: G-P3D5CF93NZ

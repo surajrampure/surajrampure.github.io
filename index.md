@@ -1,8 +1,11 @@
 ---
 ---
+
 👋 I'm a 5th year MS student in EECS at UC Berkeley, studying CS education and data science with [Josh Hug](https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html). Previously, I was an undergrad in the same department at Berkeley, graduating in 2020. I'm originally from Windsor, ON 🇨🇦.
 
 **Email:** suraj.rampure@berkeley.edu
+
+**News:** Starting Fall 2021, I will be a Lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) at UC San Diego.
 
 ### **Teaching Experience**
 
