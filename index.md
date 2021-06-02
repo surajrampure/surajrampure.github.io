@@ -2,7 +2,7 @@
 ---
 Hi there! As of Fall 2021, I am a **Lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) at [UC San Diego](https://www.ucsd.edu)**.
 
-I graduated with BS and MS degrees in Electrical Engineering and Computer Sciences from UC Berkeley in 2020 and 2021, respectively, where I was advised by [Josh Hug](https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html).
+I graduated with BS and MS degrees in Electrical Engineering and Computer Sciences from UC Berkeley in 2020 and 2021, respectively. There, I was advised by [Josh Hug](https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html) and helped create and teach courses in computer science and data science. I'm originally from Windsor, Ontario 🇨🇦.
 
 Feel free to reach out at **rampure@ucsd.edu**.
 
