@@ -6,6 +6,8 @@ I graduated with BS and MS degrees in Electrical Engineering and Computer Scienc
 
 Feel free to reach out at **rampure@ucsd.edu**.
 
+Interested in applying to teaching faculty positions? [Access my application materials here](tf-app-materials).
+
 ## Teaching
 
 ### At UC San Diego
