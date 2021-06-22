@@ -31,8 +31,8 @@ Interested in applying to teaching faculty positions? [Access my application mat
 - [Experiences Teaching a Large Upper-Division Data Science Course Remotely](https://dl.acm.org/doi/pdf/10.1145/3408877.3432561). Suraj Rampure\*, Allen Shen\*, and Josh Hug. 2020. In _Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE ’21)._ ([slides](https://docs.google.com/presentation/d/1xBMcdYKrhM0U1FxOKZ93TCqIdDIWFqdz7ns49LN_ukg/edit?usp=sharing)) ([video](https://youtu.be/_p-JUp4QyNA))
 
 ### Talks
-- 2021 National Workshop on Data Science Education (to come)
-- [2020 National Workshop on Data Science Education](https://data.berkeley.edu/academics/resources/data-science-education-resources/2020-national-workshop-data-science-education) ([pre-recorded talk](https://www.youtube.com/watch?v=VxL9L7VkJTE&feature=youtu.be)) ([Q&A](https://www.youtube.com/watch?v=lfyyZQDlyXQ)) ([workshop](https://www.youtube.com/watch?v=1FsYgKKh9gk&feature=youtu.be))
+- Data 6: A New Introductory Course. Talk at _[2021 National Workshop on Data Science Education](https://data.berkeley.edu/academics/resources/data-science-education-resources/2020-national-workshop-data-science-education)_. ([slides](https://docs.google.com/presentation/d/1eeJvHmDNQanVOFjKn8Jky63ONxHPmDyq6I764f-YPdE/edit#slide=id.gb6d01dc2f6_0_124)) ([video](https://www.youtube.com/watch?v=4pMLelvesR8))
+- Various sessions on Data 100: Principles and Techniques of Data Science at _[2020 National Workshop on Data Science Education](https://data.berkeley.edu/academics/resources/data-science-education-resources/2020-national-workshop-data-science-education)_. ([pre-recorded talk](https://www.youtube.com/watch?v=VxL9L7VkJTE&feature=youtu.be)) ([Q&A](https://www.youtube.com/watch?v=lfyyZQDlyXQ)) ([workshop](https://www.youtube.com/watch?v=1FsYgKKh9gk&feature=youtu.be))
 
 ### Other
 - 2020 EECS/CS Student Life Panel Moderator ([video](https://youtu.be/RFCohC5kKO8))
