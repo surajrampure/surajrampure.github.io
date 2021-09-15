@@ -12,8 +12,8 @@ Interested in applying to teaching faculty positions? [Access my application mat
 
 ### At UC San Diego
 
-- DSC 10: **Principles of Data Science** (Fall 2021)
-- DSC 80: **The Practice and Application of Data Science** (Fall 2021)
+- DSC 10: **Principles of Data Science** ([Fall 2021](https://dsc10.com))
+- DSC 40A: **Theoretical Foundations of Data Science I** ([Fall 2021](https://dsc40a.com))
 
 ### At UC Berkeley
 - Data 94: **Introduction to Computational Thinking with Data** ([Spring 2021](http://data94.org))
