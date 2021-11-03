@@ -1,19 +1,22 @@
 ---
 ---
-Hi there! As of Fall 2021, I am a **Lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) at [UC San Diego](https://www.ucsd.edu)**.
+Hi 👋! I am a **Lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) at [UC San Diego 🌴](https://www.ucsd.edu)**.
 
 I graduated with BS and MS degrees in Electrical Engineering and Computer Sciences from UC Berkeley in 2020 and 2021, respectively. There, I was advised by [Josh Hug](https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html) and helped create and teach courses in computer science and data science. I'm originally from Windsor, Ontario 🇨🇦.
 
 Feel free to reach out at **rampure@ucsd.edu**.
 
-Interested in applying to teaching faculty positions? [Access my application materials here](tf-app-materials).
+### Links
+- Interested in applying to teaching faculty positions? [Access my application materials here](tf-app-materials).
+- I was recently on UC Berkeley's Data Science Education Podcast; [listen to my episode here](https://datascienceeducation.substack.com/p/the-importance-of-data-science-course).
 
 ## Teaching
 
 ### At UC San Diego
 
-- DSC 10: **Principles of Data Science** ([Fall 2021](https://dsc10.com))
-- DSC 40A: **Theoretical Foundations of Data Science I** ([Fall 2021](https://dsc40a.com))
+- DSC 10: **Principles of Data Science** ([Fall 2021](http://dsc-courses.github.io/dsc10-2021-fa/), Winter 2022)
+- DSC 40A: **Theoretical Foundations of Data Science I** ([Fall 2021](http://dsc-courses.github.io/dsc40a-2021-fa/))
+- DSC 90: **History of Data Science** (Winter 2022)
 
 ### At UC Berkeley
 - Data 94: **Introduction to Computational Thinking with Data** ([Spring 2021](http://data94.org))
