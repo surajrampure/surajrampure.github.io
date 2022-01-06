@@ -9,6 +9,7 @@ Feel free to reach out at **rampure@ucsd.edu**.
 ### Links
 - Interested in applying to teaching faculty positions? [Access my application materials here](tf-app-materials).
 - I was recently on UC Berkeley's Data Science Education Podcast; [listen to my episode here](https://datascienceeducation.substack.com/p/the-importance-of-data-science-course).
+- Looking for datasets to use in projects of your own? [Look here](find-datasets).
 
 ## Teaching
 
