@@ -15,9 +15,10 @@ Feel free to reach out at **rampure@ucsd.edu**.
 
 ### At UC San Diego
 
-- DSC 10: **Principles of Data Science** ([Fall 2021](http://dsc-courses.github.io/dsc10-2021-fa/), [Winter 2022](http://dsc-courses.github.io/dsc10-2022-wi/))
+- DSC 80: **Practice and Application of Data Science** (Spring 2022)
+- DSC 90: **History of Data Science** (Spring 2022, [Winter 2022](http://dsc-courses.github.io/dsc90-2022-wi/))
+- DSC 10: **Principles of Data Science** ([Winter 2022](http://dsc-courses.github.io/dsc10-2022-wi/), [Fall 2021](http://dsc-courses.github.io/dsc10-2021-fa/))
 - DSC 40A: **Theoretical Foundations of Data Science I** ([Fall 2021](http://dsc-courses.github.io/dsc40a-2021-fa/))
-- DSC 90: **History of Data Science** ([Winter 2022](http://dsc-courses.github.io/dsc90-2022-wi/))
 
 ### At UC Berkeley
 - Data 94: **Introduction to Computational Thinking with Data** ([Spring 2021](http://data94.org))
