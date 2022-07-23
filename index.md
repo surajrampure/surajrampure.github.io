@@ -18,17 +18,20 @@ I graduated with BS and MS degrees in Electrical Engineering and Computer Scienc
 
 ### At UC San Diego (2021-)
 
+**DSC 10: Principles of Data Science 📊**<br>
+_Fall 2022 (w/Janine Tiefenbruck)_ • _[Winter 2022](http://dsc-courses.github.io/dsc10-2022-wi/)_ • _[Fall 2021 (w/Janine Tiefenbruck)](http://dsc-courses.github.io/dsc10-2021-fa/)_
+
+**DSC 180AB: Data Science Project (Senior Capstone) 👷**<br>
+_Fall 2022/Winter 2023_
+
 **CSS 201S: Introduction to Python Bootcamp (Week 1 only) 🥾**<br>
-_Summer 2022_
+_[Summer 2022](https://rampure.org/css-python-bootcamp/)_
 
 **DSC 80: Practice and Application of Data Science 💪**<br>
 _[Spring 2022](https://dsc-courses.github.io/dsc80-2022-sp)_
 
 **DSC 90: History of Data Science Seminar 📚**<br>
-_[Spring 2022](http://dsc-courses.github.io/dsc90-2022-sp/) • [Winter 2022](http://dsc-courses.github.io/dsc90-2022-wi/)_
-
-**DSC 10: Principles of Data Science 📊**<br>
-_[Winter 2022](http://dsc-courses.github.io/dsc10-2022-wi/) • [Fall 2021 (w/Janine Tiefenbruck)](http://dsc-courses.github.io/dsc10-2021-fa/)_
+_[Spring 2022](http://dsc-courses.github.io/dsc90-2022-sp/)_ • _[Winter 2022](http://dsc-courses.github.io/dsc90-2022-wi/)_
 
 **DSC 40A: Theoretical Foundations of Data Science I 🧠**<br>
 _[Fall 2021](http://dsc-courses.github.io/dsc40a-2021-fa/)_
