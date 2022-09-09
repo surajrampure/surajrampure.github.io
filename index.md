@@ -19,10 +19,10 @@ I graduated with BS and MS degrees in Electrical Engineering and Computer Scienc
 ### At UC San Diego (2021-)
 
 **DSC 10: Principles of Data Science 📊**<br>
-_Fall 2022 (w/Janine Tiefenbruck)_ • _[Winter 2022](http://dsc-courses.github.io/dsc10-2022-wi/)_ • _[Fall 2021 (w/Janine Tiefenbruck)](http://dsc-courses.github.io/dsc10-2021-fa/)_
+_[Fall 2022 (w/Janine Tiefenbruck)](http://dsc-courses.github.io/dsc10-2022-fa/)_ • _[Winter 2022](http://dsc-courses.github.io/dsc10-2022-wi/)_ • _[Fall 2021 (w/Janine Tiefenbruck)](http://dsc-courses.github.io/dsc10-2021-fa/)_
 
 **DSC 180AB: Data Science Project (Senior Capstone) 👷**<br>
-_Fall 2022/Winter 2023_
+_[2022-23](https://dsc-capstone.github.io/)_
 
 **CSS 201S: Introduction to Python Bootcamp (Week 1 only) 🥾**<br>
 _[Summer 2022](https://rampure.org/css-python-bootcamp/)_
