@@ -6,7 +6,7 @@
 <a name='about'></a>
 ## About 🧐
 
-I'm Suraj ("soo-rudge"), and I'm a **Lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) at [UC San Diego 🌴](https://www.ucsd.edu)**, where I teach undergraduate courses.
+I'm Suraj ("soo-rudge"), and I'm a **Lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) at [UC San Diego 🌴](https://www.ucsd.edu)**, where I teach undergraduate courses. This year, I'm managing the senior capstone program.
 
 I graduated with BS and MS degrees in Electrical Engineering and Computer Sciences from UC Berkeley in 2020 and 2021, respectively. There, I was advised by [Josh Hug](https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html) and helped create and teach courses in computer science and data science. I'm originally from Windsor, Ontario 🇨🇦.
 
@@ -19,46 +19,46 @@ I graduated with BS and MS degrees in Electrical Engineering and Computer Scienc
 ### At UC San Diego (2021-)
 
 **DSC 10: Principles of Data Science 📊**<br>
-_[Fall 2022 (w/Janine Tiefenbruck & Puoya Tabaghi)](http://dsc-courses.github.io/dsc10-2022-fa/)_ • _[Winter 2022](http://dsc-courses.github.io/dsc10-2022-wi/)_ • _[Fall 2021 (w/Janine Tiefenbruck)](http://dsc-courses.github.io/dsc10-2021-fa/)_
+**[Fall 2022 (w/Janine Tiefenbruck & Puoya Tabaghi)](http://dsc-courses.github.io/dsc10-2022-fa/)** • [Winter 2022](http://dsc-courses.github.io/dsc10-2022-wi/) • [Fall 2021 (w/Janine Tiefenbruck)](http://dsc-courses.github.io/dsc10-2021-fa/)
 
 **DSC 180AB: Data Science Project (Senior Capstone) 👷**<br>
-_[2022-23](https://dsc-capstone.github.io/)_
+**[Fall 2022 + Winter 2023](https://dsc-capstone.github.io/)**
 
 **CSS 201S: Introduction to Python Bootcamp (Week 1 only) 🥾**<br>
-_[Summer 2022](https://rampure.org/css-python-bootcamp/)_
+[Summer 2022](https://rampure.org/css-python-bootcamp/)
 
 **DSC 80: Practice and Application of Data Science 💪**<br>
-_[Spring 2022](https://dsc-courses.github.io/dsc80-2022-sp)_
+[Spring 2022](https://dsc-courses.github.io/dsc80-2022-sp)
 
 **DSC 90: History of Data Science Seminar 📚**<br>
-_[Spring 2022](http://dsc-courses.github.io/dsc90-2022-sp/)_ • _[Winter 2022](http://dsc-courses.github.io/dsc90-2022-wi/)_
+[Spring 2022](http://dsc-courses.github.io/dsc90-2022-sp/) • [Winter 2022](http://dsc-courses.github.io/dsc90-2022-wi/)
 
 **DSC 40A: Theoretical Foundations of Data Science I 🧠**<br>
-_[Fall 2021](http://dsc-courses.github.io/dsc40a-2021-fa/)_
+[Fall 2021](http://dsc-courses.github.io/dsc40a-2021-fa/)
 
 ### At UC Berkeley (2016-2021)
 
 **Data 94: Introduction to Computational Thinking with Data**<br>
-_[Spring 2021](http://data94.org) (now known as [Data 6](http://data6.org))_
+[Spring 2021](http://data94.org) (now known as [Data 6](http://data6.org))
 
 **Data 100: Principles and Techniques of Data Science**<br>
-_[Summer 2020 (w/Allen Shen)](http://ds100.org/su20)<br>TA: [Fall 2020](http://ds100.org/fa20) • [Spring 2020](http://ds100.org/sp20) • [Fall 2019](http://ds100.org/fa19) • [Spring 2019](http://ds100.org/sp19) • [Fall 2018](http://ds100.org/fa18)_
+[Summer 2020 (w/Allen Shen)](http://ds100.org/su20)<br>TA: [Fall 2020](http://ds100.org/fa20) • [Spring 2020](http://ds100.org/sp20) • [Fall 2019](http://ds100.org/fa19) • [Spring 2019](http://ds100.org/sp19) • [Fall 2018](http://ds100.org/fa18)
 
 **CS 198-087: Introduction to Mathematical Thinking [DeCal](http://decal.berkeley.edu)**<br>
-_[Spring 2019](http://imt-decal.org), Fall 2018_
+[Spring 2019](http://imt-decal.org), Fall 2018
 
 **CS 70: Discrete Mathematics and Probability Theory**<br>
-_TA: [Summer 2019](http://su19.eecs70.org)_
+TA: [Summer 2019](http://su19.eecs70.org)
 
 **CS 375: Teaching Techniques for Computer Science**<br>
-_TA: [Summer 2019](http://cs375.github.io/su19)_
+TA: [Summer 2019](http://cs375.github.io/su19)
 
 **CS 61A: Structure and Interpretation of Computer Programs**<br>
-_TA: [Spring 2018](https://inst.eecs.berkeley.edu/~cs61a/sp18/)_
+TA: [Spring 2018](https://inst.eecs.berkeley.edu/~cs61a/sp18/)
 
 **Data 8: Foundations of Data Science**<br>
-_TA: [Fall 2017](http://data8.org/fa17)<br>
-Tutor: [Spring 2017](http://data8.org/sp17)_
+TA: [Fall 2017](http://data8.org/fa17)<br>
+Tutor: [Spring 2017](http://data8.org/sp17)
 
 <br>
 
