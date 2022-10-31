@@ -24,11 +24,11 @@ I graduated with BS and MS degrees in Electrical Engineering and Computer Scienc
 **DSC 180AB: Data Science Project (Senior Capstone) 👷**<br>
 **[Fall 2022 + Winter 2023](https://dsc-capstone.github.io/)**
 
+**DSC 80: Practice and Application of Data Science 💪**<br>
+Winter 2023 • [Spring 2022](https://dsc-courses.github.io/dsc80-2022-sp)
+
 **CSS 201S: Introduction to Python Bootcamp (Week 1 only) 🥾**<br>
 [Summer 2022](https://rampure.org/css-python-bootcamp/)
-
-**DSC 80: Practice and Application of Data Science 💪**<br>
-[Spring 2022](https://dsc-courses.github.io/dsc80-2022-sp)
 
 **DSC 90: History of Data Science Seminar 📚**<br>
 [Spring 2022](http://dsc-courses.github.io/dsc90-2022-sp/) • [Winter 2022](http://dsc-courses.github.io/dsc90-2022-wi/)
