@@ -1,12 +1,14 @@
 ---
 ---
-
-<center><a>rampure@ucsd.edu</a></center>
+<center>
+✉️ <a>rampure@ucsd.edu</a><br>💼 SDSC 244E
+</center>
 
 <a name='about'></a>
-## About 🧐
 
-I'm Suraj ("soo-rudge"), and I'm a **Lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) at [UC San Diego 🌴](https://www.ucsd.edu)**, where I teach undergraduate courses. This year, I'm managing the senior capstone program.
+## About 👋
+
+I'm Suraj ("soo-rudge"), and I'm a **Lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) at [UC San Diego](https://www.ucsd.edu)**, where I teach undergraduate courses. This year, I'm managing the senior capstone program.
 
 I graduated with BS and MS degrees in Electrical Engineering and Computer Sciences from UC Berkeley in 2020 and 2021, respectively. There, I was advised by [Josh Hug](https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html) and helped create and teach courses in computer science and data science. I'm originally from Windsor, Ontario 🇨🇦.
 
@@ -25,7 +27,7 @@ I graduated with BS and MS degrees in Electrical Engineering and Computer Scienc
 **[Fall 2022 + Winter 2023](https://dsc-capstone.github.io/)**
 
 **DSC 10: Principles of Data Science 📊**<br>
-[Fall 2022 (w/Janine Tiefenbruck & Puoya Tabaghi)](http://dsc-courses.github.io/dsc10-2022-fa/) • [Winter 2022](http://dsc-courses.github.io/dsc10-2022-wi/) • [Fall 2021 (w/Janine Tiefenbruck)](http://dsc-courses.github.io/dsc10-2021-fa/)
+Spring 2023 • [Fall 2022 (w/Janine Tiefenbruck & Puoya Tabaghi)](http://dsc-courses.github.io/dsc10-2022-fa/) • [Winter 2022](http://dsc-courses.github.io/dsc10-2022-wi/) • [Fall 2021 (w/Janine Tiefenbruck)](http://dsc-courses.github.io/dsc10-2021-fa/)
 
 **CSS 201S: Introduction to Python Bootcamp (Week 1 only) 🥾**<br>
 [Summer 2022](https://rampure.org/css-python-bootcamp/)
