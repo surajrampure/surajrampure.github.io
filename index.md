@@ -1,7 +1,9 @@
 ---
 ---
 <center>
-✉️ <a>rampure@ucsd.edu</a> • 💼 [SDSC 244E](https://g.page/SDSC_UCSanDiego?share)
+
+✉️ <a>rampure@ucsd.edu</a> • 💼 <a href="https://g.page/SDSC_UCSanDiego?share">SDSC 244E</a>
+
 </center>
 
 <a name='about'></a>
