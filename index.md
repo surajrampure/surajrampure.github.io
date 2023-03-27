@@ -1,18 +1,18 @@
 ---
 ---
-<center>
 
-✉️ <a>rampure@ucsd.edu</a> • 💼 <a href="https://g.page/SDSC_UCSanDiego?share">SDSC 244E</a>
-
-</center>
+<!-- ✉️ <a>rampure@ucsd.edu</a><br>
+💼 <a href="https://g.page/SDSC_UCSanDiego?share">SDSC 244E</a> -->
 
 <a name='about'></a>
 
 ## About 👋
 
-I'm Suraj ("soo-rudge"), and I'm a **Lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) at [UC San Diego](https://www.ucsd.edu)**, where I teach undergraduate courses. This year, I'm managing the senior capstone program.
+I'm Suraj ("soo-rudge"), and I'm a **Lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) at [UC San Diego](https://www.ucsd.edu)**, where I teach undergraduate courses. I also run our senior capstone program – take a look at the projects our wonderful seniors produced this year [**here**](https://hdsishowcase.com).
 
 I graduated with BS and MS degrees in Electrical Engineering and Computer Sciences from UC Berkeley in 2020 and 2021, respectively. There, I was advised by [Josh Hug](https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html) and helped create and teach courses in computer science and data science. I'm originally from Windsor, Ontario 🇨🇦.
+
+**Feel free to email me at <a>rampure@ucsd.edu</a> or check out the [resources](#resources-) listed below.**
 
 <br>
 
@@ -22,14 +22,19 @@ I graduated with BS and MS degrees in Electrical Engineering and Computer Scienc
 
 ### At UC San Diego (2021-)
 
-**DSC 80: Practice and Application of Data Science 💪**<br>
-**[Winter 2023](https://dsc-courses.github.io/dsc80-2023-wi)** • [Spring 2022](https://dsc-courses.github.io/dsc80-2022-sp)
-
-**DSC 180AB: Data Science Project (Senior Capstone) 👷**<br>
-**[Fall 2022 + Winter 2023](https://dsc-capstone.github.io/)**
+_You can view course websites for many DSC (and adjacent) courses at [dsc-courses.github.io](https://dsc-courses.github.io)._
 
 **DSC 10: Principles of Data Science 📊**<br>
-Spring 2023 • [Fall 2022 (w/Janine Tiefenbruck & Puoya Tabaghi)](http://dsc-courses.github.io/dsc10-2022-fa/) • [Winter 2022](http://dsc-courses.github.io/dsc10-2022-wi/) • [Fall 2021 (w/Janine Tiefenbruck)](http://dsc-courses.github.io/dsc10-2021-fa/)
+[**Spring 2023**](https://dsc-courses.github.io/dsc10-2023-sp/) • [Fall 2022 (w/Janine Tiefenbruck & Puoya Tabaghi)](http://dsc-courses.github.io/dsc10-2022-fa/) • [Winter 2022](http://dsc-courses.github.io/dsc10-2022-wi/) • [Fall 2021 (w/Janine Tiefenbruck)](http://dsc-courses.github.io/dsc10-2021-fa/)
+
+**DSC 95: Tutor Apprenticeship in Data Science 🧑‍🏫**<br>
+[**Spring 2023**](#)
+
+**DSC 80: Practice and Application of Data Science 💪**<br>
+[Winter 2023](https://dsc-courses.github.io/dsc80-2023-wi) • [Spring 2022](https://dsc-courses.github.io/dsc80-2022-sp)
+
+**DSC 180AB: Data Science Project (Senior Capstone) 👷**<br>
+Fall 2023 + Winter 2024 • [Fall 2022 + Winter 2023](https://dsc-capstone.github.io/)
 
 **CSS 201S: Introduction to Python Bootcamp (Week 1 only) 🥾**<br>
 [Summer 2022](https://rampure.org/css-python-bootcamp/)
@@ -88,10 +93,12 @@ Tutor: [Spring 2017](http://data8.org/sp17)
 - [Experiences Teaching a Large Upper-Division Data Science Course Remotely](https://dl.acm.org/doi/pdf/10.1145/3408877.3432561). Suraj Rampure\*, Allen Shen\*, and Josh Hug. 2020. In _Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE ’21)._ ([slides](https://docs.google.com/presentation/d/1xBMcdYKrhM0U1FxOKZ93TCqIdDIWFqdz7ns49LN_ukg/edit?usp=sharing)) ([video](https://youtu.be/_p-JUp4QyNA))
 
 ### Talks
+- Otter-Grader: A Lightweight Solution for Creating and Grading Jupyter Notebook Assignments. Suraj Rampure, Christopher Pyles, Justin Eldridge, and Lisa Yan. Talk at _[Jupytercon 2023](https://cfp.jupytercon.com/2023/talk/XABS9S/)_.
 - Data 6: A New Introductory Course. Talk at _[2021 National Workshop on Data Science Education](https://data.berkeley.edu/academics/resources/data-science-education-workshop/2021-national-workshop-data-science-education)_. ([slides](https://docs.google.com/presentation/d/1eeJvHmDNQanVOFjKn8Jky63ONxHPmDyq6I764f-YPdE/edit#slide=id.gb6d01dc2f6_0_124)) ([video](https://www.youtube.com/watch?v=4pMLelvesR8))
 - Various sessions on Data 100: Principles and Techniques of Data Science at _[2020 National Workshop on Data Science Education](https://data.berkeley.edu/academics/resources/data-science-education-resources/2020-national-workshop-data-science-education)_. ([pre-recorded talk](https://www.youtube.com/watch?v=VxL9L7VkJTE&feature=youtu.be)) ([Q&A](https://www.youtube.com/watch?v=lfyyZQDlyXQ)) ([workshop](https://www.youtube.com/watch?v=1FsYgKKh9gk&feature=youtu.be))
 
 ### Panels
+- [A New Class of Teaching-Track Faculty: No Ph.D. Required](https://dl.acm.org/doi/10.1145/3545947.3569608). In _Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE '23)._ ([slides](https://docs.google.com/presentation/d/1H2ngrPNb8TQXxIrCOFhXHce8-x6KEgHzw-bdFNrmQpQ/edit#slide=id.gb6f9b1ca0f_0_53))
 - Introduction to Computational Thinking with Data and Society. In _[2022 National Workshop on Data Science Education](https://data.berkeley.edu/2022workshop/schedule)_.
 - [A New Class of Teaching-Track Faculty: No Ph.D. Required](https://dl.acm.org/doi/10.1145/3478432.3499227). In _Proceedings of the 53rd ACM Technical Symposium on Computer Science Education (SIGCSE '22)._ ([slides](https://docs.google.com/presentation/d/12PalILpKLBHadL9GibmY4jATogp6BMHdIcsT_NUVSRc/edit#slide=id.gb6f9b1ca0f_0_53))
 
