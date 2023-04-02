@@ -28,7 +28,7 @@ _You can view course websites for many DSC (and adjacent) courses at [dsc-course
 [**Spring 2023**](https://dsc-courses.github.io/dsc10-2023-sp/) • [Fall 2022 (w/Janine Tiefenbruck & Puoya Tabaghi)](http://dsc-courses.github.io/dsc10-2022-fa/) • [Winter 2022](http://dsc-courses.github.io/dsc10-2022-wi/) • [Fall 2021 (w/Janine Tiefenbruck)](http://dsc-courses.github.io/dsc10-2021-fa/)
 
 **DSC 95: Tutor Apprenticeship in Data Science 🧑‍🏫**<br>
-[**Spring 2023**](#)
+[**Spring 2023**](https://dsc-courses.github.io/dsc95-2023-sp/)
 
 **DSC 80: Practice and Application of Data Science 💪**<br>
 [Winter 2023](https://dsc-courses.github.io/dsc80-2023-wi) • [Spring 2022](https://dsc-courses.github.io/dsc80-2022-sp)
