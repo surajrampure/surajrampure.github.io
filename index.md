@@ -8,7 +8,7 @@
 
 ## About 👋
 
-I'm Suraj ("soo-rudge"), and I'm a **Lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) at [UC San Diego](https://www.ucsd.edu)**, where I teach undergraduate courses. I also run our senior capstone program – take a look at the projects our wonderful seniors produced this year [**here**](https://hdsishowcase.com).
+I'm Suraj ("soo-rudge"), and I'm a **Lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) at [UC San Diego](https://www.ucsd.edu)**, where I teach undergraduate courses. I also run our senior capstone program – take a look at the projects our wonderful seniors produced last year [**here**](https://hdsishowcase.com).
 
 I graduated with BS and MS degrees in Electrical Engineering and Computer Sciences from UC Berkeley in 2020 and 2021, respectively. There, I was advised by [Josh Hug](https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html) and helped create and teach courses in computer science and data science. I'm originally from Windsor, Ontario 🇨🇦.
 
@@ -25,16 +25,16 @@ I graduated with BS and MS degrees in Electrical Engineering and Computer Scienc
 _You can view course websites for many DSC (and adjacent) courses at [dsc-courses.github.io](https://dsc-courses.github.io)._
 
 **DSC 10: Principles of Data Science 📊**<br>
-[**Spring 2023**](https://dsc-courses.github.io/dsc10-2023-sp/) • [Fall 2022 (w/Janine Tiefenbruck & Puoya Tabaghi)](http://dsc-courses.github.io/dsc10-2022-fa/) • [Winter 2022](http://dsc-courses.github.io/dsc10-2022-wi/) • [Fall 2021 (w/Janine Tiefenbruck)](http://dsc-courses.github.io/dsc10-2021-fa/)
+[**Fall 2023 (with Janine Tiefenbruck & Rod Albuyeh)**](https://dsc-courses.github.io/dsc10-2023-fa/) • [Spring 2023](https://dsc-courses.github.io/dsc10-2023-sp/)<br>[Fall 2022 (with Janine Tiefenbruck & Puoya Tabaghi)](http://dsc-courses.github.io/dsc10-2022-fa/) • [Winter 2022](http://dsc-courses.github.io/dsc10-2022-wi/)<br>[Fall 2021 (with Janine Tiefenbruck)](http://dsc-courses.github.io/dsc10-2021-fa/)
+
+**DSC 180AB: Data Science Project (Senior Capstone) 👷**<br>
+[**Fall 2023 + Winter 2024**](https://dsc-capstone.org) • [Fall 2022 + Winter 2023](https://dsc-capstone.org/2022-23/)
 
 **DSC 95: Tutor Apprenticeship in Data Science 🧑‍🏫**<br>
-[**Spring 2023**](https://dsc-courses.github.io/dsc95-2023-sp/)
+[Spring 2023](https://dsc-courses.github.io/dsc95-2023-sp/)
 
 **DSC 80: Practice and Application of Data Science 💪**<br>
 [Winter 2023](https://dsc-courses.github.io/dsc80-2023-wi) • [Spring 2022](https://dsc-courses.github.io/dsc80-2022-sp)
-
-**DSC 180AB: Data Science Project (Senior Capstone) 👷**<br>
-Fall 2023 + Winter 2024 • [Fall 2022 + Winter 2023](https://dsc-capstone.github.io/)
 
 **CSS 201S: Introduction to Python Bootcamp (Week 1 only) 🥾**<br>
 [Summer 2022](https://rampure.org/css-python-bootcamp/)
@@ -51,7 +51,7 @@ Fall 2023 + Winter 2024 • [Fall 2022 + Winter 2023](https://dsc-capstone.githu
 [Spring 2021](http://data94.org) (now known as [Data 6](http://data6.org))
 
 **Data 100: Principles and Techniques of Data Science**<br>
-[Summer 2020 (w/Allen Shen)](http://ds100.org/su20)<br>TA: [Fall 2020](http://ds100.org/fa20) • [Spring 2020](http://ds100.org/sp20) • [Fall 2019](http://ds100.org/fa19) • [Spring 2019](http://ds100.org/sp19) • [Fall 2018](http://ds100.org/fa18)
+[Summer 2020 (with Allen Shen)](http://ds100.org/su20)<br>TA: [Fall 2020](http://ds100.org/fa20) • [Spring 2020](http://ds100.org/sp20) • [Fall 2019](http://ds100.org/fa19) • [Spring 2019](http://ds100.org/sp19) • [Fall 2018](http://ds100.org/fa18)
 
 **CS 198-087: Introduction to Mathematical Thinking [DeCal](http://decal.berkeley.edu)**<br>
 [Spring 2019](http://imt-decal.org), Fall 2018
@@ -77,7 +77,7 @@ Tutor: [Spring 2017](http://data8.org/sp17)
 
 - Interested in applying to teaching faculty positions? [Access my application materials here](tf-app-materials).
 - Looking for datasets to use in projects of your own? [Look here](find-datasets).
-- Interested in being a tutor for a DSC course? [Learn more about the application process here](https://datascience.ucsd.edu/academics/undergraduate/dsc-tutors/).
+- Interested in being a tutor for a DSC course? [Learn more about the application process here](https://datascience.ucsd.edu/current-students/dsc-tutors/).
 
 
 <br>
@@ -93,7 +93,7 @@ Tutor: [Spring 2017](http://data8.org/sp17)
 - [Experiences Teaching a Large Upper-Division Data Science Course Remotely](https://dl.acm.org/doi/pdf/10.1145/3408877.3432561). Suraj Rampure\*, Allen Shen\*, and Josh Hug. 2020. In _Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE ’21)._ ([slides](https://docs.google.com/presentation/d/1xBMcdYKrhM0U1FxOKZ93TCqIdDIWFqdz7ns49LN_ukg/edit?usp=sharing)) ([video](https://youtu.be/_p-JUp4QyNA))
 
 ### Talks
-- Otter-Grader: A Lightweight Solution for Creating and Grading Jupyter Notebook Assignments. Suraj Rampure, Christopher Pyles, Justin Eldridge, and Lisa Yan. Talk at _[Jupytercon 2023](https://cfp.jupytercon.com/2023/talk/XABS9S/)_.
+- Otter-Grader: A Lightweight Solution for Creating and Grading Jupyter Notebook Assignments. Suraj Rampure, Christopher Pyles, Justin Eldridge, and Lisa Yan. Talk at _[Jupytercon 2023](https://cfp.jupytercon.com/2023/talk/XABS9S/)_. ([materials](https://github.com/chrispyles/otter-grader-jupytercon-2023)) ([video](https://www.youtube.com/watch?v=9_x532_2T2w))
 - Data 6: A New Introductory Course. Talk at _[2021 National Workshop on Data Science Education](https://data.berkeley.edu/academics/resources/data-science-education-workshop/2021-national-workshop-data-science-education)_. ([slides](https://docs.google.com/presentation/d/1eeJvHmDNQanVOFjKn8Jky63ONxHPmDyq6I764f-YPdE/edit#slide=id.gb6d01dc2f6_0_124)) ([video](https://www.youtube.com/watch?v=4pMLelvesR8))
 - Various sessions on Data 100: Principles and Techniques of Data Science at _[2020 National Workshop on Data Science Education](https://data.berkeley.edu/academics/resources/data-science-education-resources/2020-national-workshop-data-science-education)_. ([pre-recorded talk](https://www.youtube.com/watch?v=VxL9L7VkJTE&feature=youtu.be)) ([Q&A](https://www.youtube.com/watch?v=lfyyZQDlyXQ)) ([workshop](https://www.youtube.com/watch?v=1FsYgKKh9gk&feature=youtu.be))
 
