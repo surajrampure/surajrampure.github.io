@@ -25,7 +25,7 @@ I graduated with BS and MS degrees in Electrical Engineering and Computer Scienc
 _You can view course websites for many DSC (and adjacent) courses at [dsc-courses.github.io](https://dsc-courses.github.io)._
 
 **DSC 10: Principles of Data Science 📊**<br>
-[**Fall 2023 (with Janine Tiefenbruck & Rod Albuyeh)**](https://dsc-courses.github.io/dsc10-2023-fa/) • [Spring 2023](https://dsc-courses.github.io/dsc10-2023-sp/)<br>[Fall 2022 (with Janine Tiefenbruck & Puoya Tabaghi)](http://dsc-courses.github.io/dsc10-2022-fa/) • [Winter 2022](http://dsc-courses.github.io/dsc10-2022-wi/)<br>[Fall 2021 (with Janine Tiefenbruck)](http://dsc-courses.github.io/dsc10-2021-fa/)
+[**Fall 2023 (with Janine Tiefenbruck & Rod Albuyeh)**](https://dsc-courses.github.io/dsc10-2023-fa/) • [Spring 2023](https://dsc-courses.github.io/dsc10-2023-sp/) • [Fall 2022 (with Janine Tiefenbruck & Puoya Tabaghi)](http://dsc-courses.github.io/dsc10-2022-fa/) • [Winter 2022](http://dsc-courses.github.io/dsc10-2022-wi/) • [Fall 2021 (with Janine Tiefenbruck)](http://dsc-courses.github.io/dsc10-2021-fa/)
 
 **DSC 180AB: Data Science Project (Senior Capstone) 👷**<br>
 [**Fall 2023 + Winter 2024**](https://dsc-capstone.org) • [Fall 2022 + Winter 2023](https://dsc-capstone.org/2022-23/)
