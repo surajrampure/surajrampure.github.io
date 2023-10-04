@@ -8,7 +8,7 @@
 
 ## About 👋
 
-I'm Suraj ("soo-rudge"), and I'm a **Lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) at [UC San Diego](https://www.ucsd.edu)**, where I teach undergraduate courses. I also run our senior capstone program – take a look at the projects our wonderful seniors produced last year [**here**](https://hdsishowcase.com).
+I'm Suraj ("soo-rudge"), and I'm a **Lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) at [UC San Diego](https://www.ucsd.edu)**, where I teach undergraduate courses. I also run our senior capstone program – take a look at the projects our wonderful seniors produced last year [**here**](https://dsc-capstone.org/showcase-23).
 
 I graduated with BS and MS degrees in Electrical Engineering and Computer Sciences from UC Berkeley in 2020 and 2021, respectively. There, I was advised by [Josh Hug](https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html) and helped create and teach courses in computer science and data science. I'm originally from Windsor, Ontario 🇨🇦.
 
