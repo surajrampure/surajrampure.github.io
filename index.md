@@ -8,7 +8,7 @@
 
 ## About 👋
 
-I'm Suraj ("soo-rudge"), and I'm a **Lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) at [UC San Diego](https://www.ucsd.edu)**, where I teach undergraduate courses. I also run our senior capstone program – take a look at the projects our wonderful seniors produced last year [**here**](https://dsc-capstone.org/showcase-23).
+I'm Suraj ("soo-rudge"), and I'm a **Lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) at [UC San Diego](https://www.ucsd.edu)**, where I teach undergraduate courses. I also run our senior capstone program – take a look at the projects our wonderful seniors produced this year [**here**](https://dsc-capstone.org/showcase-24).
 
 I graduated with BS and MS degrees in Electrical Engineering and Computer Sciences from UC Berkeley in 2020 and 2021, respectively. There, I was advised by [Josh Hug](https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html) and helped create and teach courses in computer science and data science. I'm originally from Windsor, Ontario 🇨🇦.
 
@@ -24,26 +24,26 @@ I graduated with BS and MS degrees in Electrical Engineering and Computer Scienc
 
 _You can view course websites for many DSC (and adjacent) courses at [dsc-courses.github.io](https://dsc-courses.github.io)._
 
-**DSC 80: Practice and Application of Data Science 💪**<br>
-[**Winter 2024**](https://dsc-courses.github.io/dsc80-2024-wi) • [Winter 2023](https://dsc-courses.github.io/dsc80-2023-wi) • [Spring 2022](https://dsc-courses.github.io/dsc80-2022-sp)
-
-**DSC 180AB: Data Science Project (Senior Capstone) 👷**<br>
-[**Fall 2023 + Winter 2024**](https://dsc-capstone.org) • [Fall 2022 + Winter 2023](https://dsc-capstone.org/2022-23/)
-
-**DSC 10: Principles of Data Science 📊**<br>
-[**Fall 2023 (with Janine Tiefenbruck & Rod Albuyeh)**](https://dsc-courses.github.io/dsc10-2023-fa/) • [Spring 2023](https://dsc-courses.github.io/dsc10-2023-sp/) • [Fall 2022 (with Janine Tiefenbruck & Puoya Tabaghi)](http://dsc-courses.github.io/dsc10-2022-fa/) • [Winter 2022](http://dsc-courses.github.io/dsc10-2022-wi/) • [Fall 2021 (with Janine Tiefenbruck)](http://dsc-courses.github.io/dsc10-2021-fa/)
+**DSC 40A: Theoretical Foundations of Data Science I 🧠**<br>
+[**Spring 2024**](https://dsc-courses.github.io/dsc40a-2024-sp) • [Fall 2021](http://dsc-courses.github.io/dsc40a-2021-fa/)
 
 **DSC 95: Tutor Apprenticeship in Data Science 🧑‍🏫**<br>
-[Spring 2023](https://dsc-courses.github.io/dsc95-2023-sp/)
+[**Spring 2024**](https://dsc-courses.github.io/dsc95-2024-sp/) • [Spring 2023](https://dsc-courses.github.io/dsc95-2023-sp/)
+
+**DSC 80: Practice and Application of Data Science 💪**<br>
+[Winter 2024](https://dsc-courses.github.io/dsc80-2024-wi) • [Winter 2023](https://dsc-courses.github.io/dsc80-2023-wi) • [Spring 2022](https://dsc-courses.github.io/dsc80-2022-sp)
+
+**DSC 180AB: Data Science Project (Senior Capstone) 👷**<br>
+[Fall 2023 + Winter 2024](https://dsc-capstone.org) • [Fall 2022 + Winter 2023](https://dsc-capstone.org/2022-23/)
+
+**DSC 10: Principles of Data Science 📊**<br>
+[Fall 2023 (with Janine Tiefenbruck & Rod Albuyeh)](https://dsc-courses.github.io/dsc10-2023-fa/) • [Spring 2023](https://dsc-courses.github.io/dsc10-2023-sp/) • [Fall 2022 (with Janine Tiefenbruck & Puoya Tabaghi)](http://dsc-courses.github.io/dsc10-2022-fa/) • [Winter 2022](http://dsc-courses.github.io/dsc10-2022-wi/) • [Fall 2021 (with Janine Tiefenbruck)](http://dsc-courses.github.io/dsc10-2021-fa/)
 
 **CSS 201S: Introduction to Python Bootcamp (Week 1 only) 🥾**<br>
 [Summer 2022](https://rampure.org/css-python-bootcamp/)
 
 **DSC 90: History of Data Science Seminar 📚**<br>
 [Spring 2022](http://dsc-courses.github.io/dsc90-2022-sp/) • [Winter 2022](http://dsc-courses.github.io/dsc90-2022-wi/)
-
-**DSC 40A: Theoretical Foundations of Data Science I 🧠**<br>
-[Fall 2021](http://dsc-courses.github.io/dsc40a-2021-fa/)
 
 ### At UC Berkeley (2016-2021)
 
