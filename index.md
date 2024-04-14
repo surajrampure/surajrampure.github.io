@@ -14,13 +14,20 @@ I graduated with BS and MS degrees in Electrical Engineering and Computer Scienc
 
 **Feel free to email me at <a>rampure@ucsd.edu</a> or check out the [resources](#resources-) listed below.**
 
+<span style="color:red"><b>News:</b></span> This fall, I'll be joining the teaching faculty in Computer Science and Engineering at the University of Michigan. I've loved the last three years at UC San Diego, but I'm looking forward to moving closer to home and helping build the data science offerings at U-M. Colleagues and students at UCSD, please stay in touch at <a>rampure@umich.edu</a>!
+
 <br>
 
 <a name='teaching'></a>
 
 ## Teaching 👨‍🏫
 
-### At UC San Diego (2021-)
+### At the University of Michigan (2024-)
+
+**EECS 398-003: Practical Data Science 🛠️**<br>
+[**Fall 2024**](https://practicaldsc.org)
+
+### At UC San Diego (2021-2024)
 
 _You can view course websites for many DSC (and adjacent) courses at [dsc-courses.github.io](https://dsc-courses.github.io)._
 
