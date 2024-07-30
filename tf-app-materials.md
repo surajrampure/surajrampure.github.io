@@ -3,15 +3,30 @@
 
 ## Teaching Faculty Application Materials
 
-_last updated July 10, 2021_
+_last updated July 30, 2024_
 
 If you've stumbled upon this page, there's a good chance you're interested in applying to teaching positions in computer science or data science. If that's the case, I hope the information here is of use to you. It may be particularly helpful for candidates applying without PhDs.
 
-Before and while writing these materials, I referenced the applications of several earlier MS-only teaching faculty applicants, including [Kevin Lin](http://kevinl.info), [Michael Ball](https://michaelball.co), [Jacqueline Smith](http://www.cs.toronto.edu/~jsmith/), and [Adam Blank](https://countablethoughts.com). Kevin and Adam have their materials available on their websites. I also referenced the materials of other teaching faculty, like [Josh Hug](https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html) and [John DeNero](http://denero.org), and tenure-track faculty whose resources I found online.
+I moved institutions in Summer 2024. The first section of this page has my most recent application materials, from when I was on the job market in Fall 2024. The second section of this page has the application materials from when I did a broader search in Fall 2021, while still enrolled in my MS program.
 
 Feel free to reach out via email if you want to chat about the process (or even just to tell me that you looked at this page!). I benefitted immensely from talking to others who went down this path in the months leading up to the application cycle.
 
+
 ---
+
+## Fall 2024 Materials
+
+The second time around, I only applied to one institution (the University of Michigan), so I was able to tailor my materials a bit more. In the three years since I first applied to jobs, I gained significantly more teaching experience, so I was only able to reuse bits and pieces of my original application materials.
+
+[CV](resources/tf-app-materials/round-2/rampure-cv.pdf) • [Cover Letter](resources/tf-app-materials/round-2/rampure-cover-letter.pdf) • [Teaching Statement](resources/tf-app-materials/round-2/rampure-teaching-statement.pdf) • [Teaching Evaluations](resources/tf-app-materials/round-2/rampure-teaching-evaluations.pdf) • [DEI Statement](resources/tf-app-materials/round-2/rampure-dei-statement.pdf)
+
+---
+
+## Fall 2021 Materials
+
+Before and while writing these materials, I referenced the applications of several earlier MS-only teaching faculty applicants, including [Kevin Lin](http://kevinl.info), [Michael Ball](https://michaelball.co), [Jacqueline Smith](http://www.cs.toronto.edu/~jsmith/), and [Adam Blank](https://countablethoughts.com). Kevin and Adam have their materials available on their websites. I also referenced the materials of other teaching faculty, like [Josh Hug](https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html) and [John DeNero](http://denero.org), and tenure-track faculty whose resources I found online.
+
+<br>
 
 [CV](resources/tf-app-materials/cv.pdf)<br>In my CV, I put teaching first and put the scholarly activities I had engaged in towards the end.
 

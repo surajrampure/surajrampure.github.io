@@ -1,16 +1,15 @@
 ---
 ---
 
-<div style="width: 100%;">
+<div style="width: 100%;" markdown="1">
 
-
-<div style="width: 42%; float: left">
+<div style="width: 42%; float: left;">
 
 <img src="assets/me-award.jpg" width="100%">
 
 </div>
 
-<div style="margin-left: 46%; height: 100px;" markdown="1"> 
+<div style="margin-left: 46%; white-space: normal;" markdown="1"> 
 
 ## Suraj Rampure
 
@@ -23,9 +22,6 @@ Previously, I spent three years as a lecturer in the [Halıcıoğlu Data Science
 I earned BS and MS degrees in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) from the University of California, Berkeley, and I'm originally from Windsor, Ontario 🇨🇦.
 
 </div>
-</div>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ---
 
@@ -135,4 +131,4 @@ Tutor: [Spring 2017](http://data8.org/sp17)<br><br>
 
 <center><img src='assets/me_dancing.gif' width=400><br><i>What do you think happened here?</i></center>
 
-<!-- What do you think happened [here](assets/me_dancing.gif)? -->
+</div>
