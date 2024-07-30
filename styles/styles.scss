@@ -167,3 +167,8 @@ img {
   display: block;
   margin-top: 0.75rem;
 }
+
+::selection {
+  background: #FFCB05;
+  color: #00274C;
+}
