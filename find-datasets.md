@@ -1,7 +1,10 @@
 ---
+title: Finding Datasets
 ---
 
 ## Finding Datasets
+
+by [Suraj Rampure](../)
 
 Every so often, students ask where they can find datasets to work on projects on your own. Over the past few years I've compiled this list.
 

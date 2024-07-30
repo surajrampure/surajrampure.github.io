@@ -1,7 +1,13 @@
 ---
+layout: default
+title: "Teaching Faculty Application Materials"
 ---
 
+<title>Teaching Faculty Application Materials | Suraj Rampure</title>
+
 ## Teaching Faculty Application Materials
+
+by [Suraj Rampure](../)
 
 _last updated July 30, 2024_
 
