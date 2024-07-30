@@ -1,41 +1,58 @@
 ---
 ---
 
-<!-- ✉️ <a>rampure@ucsd.edu</a><br>
-💼 <a href="https://g.page/SDSC_UCSanDiego?share">SDSC 244E</a> -->
+<div style="width: 100%;">
 
-<a name='about'></a>
 
-## About 👋
+<div style="width: 42%; float: left">
 
-I'm Suraj ("soo-rudge"), and I'm a **Lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu) at [UC San Diego](https://www.ucsd.edu)**, where I teach undergraduate courses. I also run our senior capstone program – take a look at the projects our wonderful seniors produced this year [**here**](https://dsc-capstone.org/showcase-24).
+<img src="assets/me-award.jpg" width="100%">
 
-I graduated with BS and MS degrees in Electrical Engineering and Computer Sciences from UC Berkeley in 2020 and 2021, respectively. There, I was advised by [Josh Hug](https://www2.eecs.berkeley.edu/Faculty/Homepages/joshhug.html) and helped create and teach courses in computer science and data science. I'm originally from Windsor, Ontario 🇨🇦.
+</div>
 
-**Feel free to email me at <a>rampure@ucsd.edu</a> or check out the [resources](#resources-) listed below.**
+<div style="margin-left: 46%; height: 100px;" markdown="1"> 
 
-<span style="color:red"><b>News:</b></span> This fall, I'll be joining the teaching faculty in Computer Science and Engineering at the University of Michigan. I've loved the last three years at UC San Diego, but I'm looking forward to moving closer to home and helping build the data science offerings at U-M. Colleagues and students at UCSD, please stay in touch at <a>rampure@umich.edu</a>!
+## Suraj Rampure
 
-<br>
+Lecturer III<br>Computer Science and Engineering, University of Michigan<br>rampure@umich.edu
+
+Hi! 👋 I'm Suraj ("soo-rudge"), a teaching faculty member in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the University of Michigan, affiliated with [MIDAS](https://midas.umich.edu/faculty-member/suraj-rampure/). This fall, I'm teaching a new class on [practical data science](https://practicaldsc.org) and serving on the [undergraduate data science program](https://lsa.umich.edu/stats/undergraduate-students/undergraduate-programs/majordatascience.html) committee.
+
+Previously, I spent three years as a lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu/) at the University of California, San Diego, where I coordinated the senior data science capstone program and received the campus-wide Distinguished Teaching Award in 2024.
+
+I earned BS and MS degrees in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) from the University of California, Berkeley, and I'm originally from Windsor, Ontario 🇨🇦.
+
+</div>
+</div>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+---
+
+Below, you'll find public course websites for most of the classes I've taught, along with my scholarly work. In addition:
+- If you're interested in applying to teaching faculty positions, [access my CV, teaching statement, and the rest of my application materials here](tf-app-materials). I've updated this in 2024 to include my latest materials.
+- If you're looking for datasets to use in projects of your own, [look here](find-datasets).<br><br>
+
+---
 
 <a name='teaching'></a>
 
-## Teaching 👨‍🏫
+## Teaching
 
 ### At the University of Michigan (2024-)
 
 **EECS 398-003: Practical Data Science 🛠️**<br>
-[**Fall 2024**](https://practicaldsc.org)
+[**Fall 2024**](https://practicaldsc.org) ([Linear Algebra Review for Data Science](https://practicaldsc.org/lin-alg))
 
 ### At UC San Diego (2021-2024)
 
 _You can view course websites for many DSC (and adjacent) courses at [dsc-courses.github.io](https://dsc-courses.github.io)._
 
 **DSC 40A: Theoretical Foundations of Data Science I 🧠**<br>
-[**Spring 2024**](https://dsc-courses.github.io/dsc40a-2024-sp) • [Fall 2021](http://dsc-courses.github.io/dsc40a-2021-fa/)
+[Spring 2024](https://dsc-courses.github.io/dsc40a-2024-sp) • [Fall 2021](http://dsc-courses.github.io/dsc40a-2021-fa/)
 
 **DSC 95: Tutor Apprenticeship in Data Science 🧑‍🏫**<br>
-[**Spring 2024**](https://dsc-courses.github.io/dsc95-2024-sp/) • [Spring 2023](https://dsc-courses.github.io/dsc95-2023-sp/)
+[Spring 2024](https://dsc-courses.github.io/dsc95-2024-sp/) • [Spring 2023](https://dsc-courses.github.io/dsc95-2023-sp/)
 
 **DSC 80: Practice and Application of Data Science 💪**<br>
 [Winter 2024](https://dsc-courses.github.io/dsc80-2024-wi) • [Winter 2023](https://dsc-courses.github.io/dsc80-2023-wi) • [Spring 2022](https://dsc-courses.github.io/dsc80-2022-sp)
@@ -74,25 +91,13 @@ TA: [Spring 2018](https://inst.eecs.berkeley.edu/~cs61a/sp18/)
 
 **Data 8: Foundations of Data Science**<br>
 TA: [Fall 2017](http://data8.org/fa17)<br>
-Tutor: [Spring 2017](http://data8.org/sp17)
+Tutor: [Spring 2017](http://data8.org/sp17)<br><br>
 
-<br>
-
-<a name='resources'></a>
-
-## Resources 🌳
-
-- Interested in applying to teaching faculty positions? [Access my application materials here](tf-app-materials).
-- Looking for datasets to use in projects of your own? [Look here](find-datasets).
-- Interested in being a tutor for a DSC course? [Learn more about the application process here](https://datascience.ucsd.edu/current-students/dsc-tutors/).
-
-
-<br>
-
+---
 
 <a name='scholarship'></a>
 
-## Scholarship 📝
+## Scholarship
 
 ### Papers
 - [The Challenges of Evolving Technical Courses at Scale: Four Case Studies of Updating Large Data Science Courses](https://www.samlau.me/pubs/Challenges-of-Evolving-Data-Courses_L@S-2022.pdf). Sam Lau, Justin Eldridge, Shannon Ellis, Aaron Fraenkel, Marina Langlois, Suraj Rampure, Janine Tiefenbruck, Philip Guo. In _ACM Conference on Learning @ Scale (L@S), 2022_.
@@ -100,6 +105,7 @@ Tutor: [Spring 2017](http://data8.org/sp17)
 - [Experiences Teaching a Large Upper-Division Data Science Course Remotely](https://dl.acm.org/doi/pdf/10.1145/3408877.3432561). Suraj Rampure\*, Allen Shen\*, and Josh Hug. 2020. In _Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE ’21)._ ([slides](https://docs.google.com/presentation/d/1xBMcdYKrhM0U1FxOKZ93TCqIdDIWFqdz7ns49LN_ukg/edit?usp=sharing)) ([video](https://youtu.be/_p-JUp4QyNA))
 
 ### Talks
+- Different Mediums for Different Audiences: A Capstone Case Study. Suraj Rampure. Talk at _[Teaching and Evaluating Data Communication at Scale 2024](https://www.imsi.institute/activities/teaching-and-evaluating-data-communication-at-scale/)_. ([slides](https://cdn.imsi.institute/videos/49129/iPxQvXT38E/slides.pdf)) ([video](https://www.imsi.institute/videos/different-mediums-for-different-audiences-a-capstone-case-study/))
 - Otter-Grader: A Lightweight Solution for Creating and Grading Jupyter Notebook Assignments. Suraj Rampure, Christopher Pyles, Justin Eldridge, and Lisa Yan. Talk at _[Jupytercon 2023](https://cfp.jupytercon.com/2023/talk/XABS9S/)_. ([materials](https://github.com/chrispyles/otter-grader-jupytercon-2023)) ([video](https://www.youtube.com/watch?v=9_x532_2T2w))
 - Data 6: A New Introductory Course. Talk at _[2021 National Workshop on Data Science Education](https://data.berkeley.edu/academics/resources/data-science-education-workshop/2021-national-workshop-data-science-education)_. ([slides](https://docs.google.com/presentation/d/1eeJvHmDNQanVOFjKn8Jky63ONxHPmDyq6I764f-YPdE/edit#slide=id.gb6d01dc2f6_0_124)) ([video](https://www.youtube.com/watch?v=4pMLelvesR8))
 - Various sessions on Data 100: Principles and Techniques of Data Science at _[2020 National Workshop on Data Science Education](https://data.berkeley.edu/academics/resources/data-science-education-resources/2020-national-workshop-data-science-education)_. ([pre-recorded talk](https://www.youtube.com/watch?v=VxL9L7VkJTE&feature=youtu.be)) ([Q&A](https://www.youtube.com/watch?v=lfyyZQDlyXQ)) ([workshop](https://www.youtube.com/watch?v=1FsYgKKh9gk&feature=youtu.be))
@@ -111,18 +117,21 @@ Tutor: [Spring 2017](http://data8.org/sp17)
 
 ### Other
 - UC Berkeley Data Science Education Podcast Guest ("The Importance of Data Science Course Staff") ([episode link](https://datascienceeducation.substack.com/p/the-importance-of-data-science-course))
-- 2020 EECS/CS Student Life Panel Moderator ([video](https://youtu.be/RFCohC5kKO8))
+- 2020 EECS/CS Student Life Panel Moderator ([video](https://youtu.be/RFCohC5kKO8))<br><br>
 
-<br>
+---
 
 <a name='awards'></a>
 
-## Awards 🏆
+## Awards
+- 2023-2024 [UC San Diego Distinguished Teaching Award](https://senate.ucsd.edu/grants-awards/senate-awards/distinguished-teaching-award)
 - 2020-2021 [UC Berkeley Extraordinary Teaching in Extraordinary Times Award](https://rtl.berkeley.edu/extraordinary-teaching-extraordinary-times-award) ([article](https://data.berkeley.edu/news/cdss-instructors-honored-five-awards-extraordinary-teaching-extraordinary-times))
 - 2019-2020 [UC Berkeley EECS Distinguished GSI Award](https://www2.eecs.berkeley.edu/Students/Awards/13/)
-- 2017-2018 [UC Berkeley EECS Outstanding GSI Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2018/)
+- 2017-2018 [UC Berkeley EECS Outstanding GSI Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2018/)<br><br>
 
-<br><br>
+---
+
+<br>
 
 <center><img src='assets/me_dancing.gif' width=400><br><i>What do you think happened here?</i></center>
 
