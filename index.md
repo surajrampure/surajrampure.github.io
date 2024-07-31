@@ -113,6 +113,7 @@ Tutor: [Spring 2017](http://data8.org/sp17)<br><br>
 - [A New Class of Teaching-Track Faculty: No Ph.D. Required](https://dl.acm.org/doi/10.1145/3478432.3499227). In _Proceedings of the 53rd ACM Technical Symposium on Computer Science Education (SIGCSE '22)._ ([slides](https://docs.google.com/presentation/d/12PalILpKLBHadL9GibmY4jATogp6BMHdIcsT_NUVSRc/edit#slide=id.gb6f9b1ca0f_0_53))
 
 ### Other
+- Interview for Computing Paths @ UCSD ([video](https://www.youtube.com/watch?v=rQYUDs6Wz3E))
 - UC Berkeley Data Science Education Podcast Guest ("The Importance of Data Science Course Staff") ([episode link](https://datascienceeducation.substack.com/p/the-importance-of-data-science-course))
 - 2020 EECS/CS Student Life Panel Moderator ([video](https://youtu.be/RFCohC5kKO8))<br><br>
 
