@@ -16,7 +16,7 @@ title: Home
 
 Lecturer III<br>Computer Science and Engineering, University of Michigan<br>rampure@umich.edu
 
-Hi! 👋 I'm Suraj ("soo-rudge"), a teaching faculty member in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the University of Michigan, affiliated with [MIDAS](https://midas.umich.edu/faculty-member/suraj-rampure/). This fall, I'm teaching a new class on [practical data science](https://practicaldsc.org) and serving on the [undergraduate data science program](https://lsa.umich.edu/stats/undergraduate-students/undergraduate-programs/majordatascience.html) committee.
+Hi! 👋 I'm Suraj ("soo-rudge"), a teaching faculty member in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the University of Michigan, affiliated with [MIDAS](https://midas.umich.edu/faculty-member/suraj-rampure/). This year, I'm teaching a new class on [practical data science](https://practicaldsc.org) and serving on the [undergraduate data science program](https://lsa.umich.edu/stats/undergraduate-students/undergraduate-programs/majordatascience.html) committee.
 
 Previously, I spent three years as a lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu/) at the University of California, San Diego, where I coordinated the senior data science capstone program and received the campus-wide Distinguished Teaching Award in 2024.
 
@@ -39,26 +39,30 @@ Below, you'll find public course websites for most of the classes I've taught, a
 ### At the University of Michigan (2024-)
 
 **EECS 398-003: Practical Data Science 🛠️**<br>
-[**Fall 2024**](https://practicaldsc.org) ([Linear Algebra Review for Data Science](https://practicaldsc.org/lin-alg))
+Winter 2025 • [**Fall 2024**](https://practicaldsc.org)<br>
+<small>Highlights: [Linear Algebra Review for Data Science (LARDS)](https://practicaldsc.org/lin-alg)</small>
 
 ### At UC San Diego (2021-2024)
 
 _You can view course websites for many DSC (and adjacent) courses at [dsc-courses.github.io](https://dsc-courses.github.io)._
 
 **DSC 40A: Theoretical Foundations of Data Science I 🧠**<br>
-[Spring 2024](https://dsc-courses.github.io/dsc40a-2024-sp) • [Fall 2021](http://dsc-courses.github.io/dsc40a-2021-fa/)
+[Spring 2024](https://dsc-courses.github.io/dsc40a-2024-sp) • [Fall 2021](http://dsc-courses.github.io/dsc40a-2021-fa/)<br>
+<small>Highlights: [Regression FAQs](https://dsc-courses.github.io/dsc40a-2024-sp/faqs), [Past Exam Practice](https://practice.dsc40a.com)</small>
 
 **DSC 95: Tutor Apprenticeship in Data Science 🧑‍🏫**<br>
 [Spring 2024](https://dsc-courses.github.io/dsc95-2024-sp/) • [Spring 2023](https://dsc-courses.github.io/dsc95-2023-sp/)
 
 **DSC 80: Practice and Application of Data Science 💪**<br>
-[Winter 2024](https://dsc-courses.github.io/dsc80-2024-wi) • [Winter 2023](https://dsc-courses.github.io/dsc80-2023-wi) • [Spring 2022](https://dsc-courses.github.io/dsc80-2022-sp)
+[Winter 2024](https://dsc-courses.github.io/dsc80-2024-wi) • [Winter 2023](https://dsc-courses.github.io/dsc80-2023-wi) • [Spring 2022](https://dsc-courses.github.io/dsc80-2022-sp)<br>
+<small>Highlights: [Past Exam Practice](https://practice.dsc80.com)</small>
 
 **DSC 180AB: Data Science Project (Senior Capstone) 👷**<br>
 [Fall 2023 + Winter 2024](https://dsc-capstone.org) • [Fall 2022 + Winter 2023](https://dsc-capstone.org/2022-23/)
 
 **DSC 10: Principles of Data Science 📊**<br>
-[Fall 2023 (with Janine Tiefenbruck & Rod Albuyeh)](https://dsc-courses.github.io/dsc10-2023-fa/) • [Spring 2023](https://dsc-courses.github.io/dsc10-2023-sp/) • [Fall 2022 (with Janine Tiefenbruck & Puoya Tabaghi)](http://dsc-courses.github.io/dsc10-2022-fa/) • [Winter 2022](http://dsc-courses.github.io/dsc10-2022-wi/) • [Fall 2021 (with Janine Tiefenbruck)](http://dsc-courses.github.io/dsc10-2021-fa/)
+[Fall 2023 (with Janine Tiefenbruck & Rod Albuyeh)](https://dsc-courses.github.io/dsc10-2023-fa/) • [Spring 2023](https://dsc-courses.github.io/dsc10-2023-sp/) • [Fall 2022 (with Janine Tiefenbruck & Puoya Tabaghi)](http://dsc-courses.github.io/dsc10-2022-fa/) • [Winter 2022](http://dsc-courses.github.io/dsc10-2022-wi/) • [Fall 2021 (with Janine Tiefenbruck)](http://dsc-courses.github.io/dsc10-2021-fa/)<br>
+<small>Highlights: [Past Exam Practice](https://practice.dsc10.com)</small>
 
 **CSS 201S: Introduction to Python Bootcamp (Week 1 only) 🥾**<br>
 [Summer 2022](https://rampure.org/css-python-bootcamp/)
