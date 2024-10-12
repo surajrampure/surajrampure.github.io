@@ -28,6 +28,7 @@ I earned BS and MS degrees in [Electrical Engineering and Computer Sciences](htt
 
 Below, you'll find public course websites for most of the classes I've taught, along with my scholarly work. In addition:
 - If you're interested in applying to teaching faculty positions, [access my CV, teaching statement, and the rest of my application materials here](tf-app-materials). I've updated this in 2024 to include my latest materials.
+- If you're thinking of asking me to write a recommendation letter for you, [read this first](letters).
 - If you're looking for datasets to use in projects of your own, [look here](find-datasets).<br><br>
 
 ---
