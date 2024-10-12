@@ -37,7 +37,20 @@ As a result, 80%+ of the letters I write each year are for students who served o
 
 I only need these materials ~one month before your earliest deadline. Make sure to tell me clearly when your earliest deadline is!
 
-<br>
+The information you should use for me is below.
+
+---
+
+Suraj Rampure<br>
+Lecturer III, Electrical Engineering and Computer Science, University of Michigan<br>
+rampure@umich.edu<br>
+734-764-9579
+
+Bob and Betty Beyster Building<br>
+2260 Hayward Street<br>
+Ann Arbor, MI 48109
+
+---
 
 <small>
 Thanks to many, but [Mark Brehob](https://web.eecs.umich.edu/~brehob/lor.htm) in particular, for inspiring this page.
