@@ -17,7 +17,7 @@ If you're reading this page, it's likely because you've asked (or are thinking o
 
 But, I receive so many requests that I unfortunately don't have the capacity to write letters for everyone who asks. And even if I did, if my only relationship to a student is that they were enrolled in one of my classes, it's hard for me to say anything convincing in a letter.
 
-As a result, 90%+ of the letters I write each year are for students who served on my course staff at some point (GSI/IA/TA/tutor), as those are the students I interact with the most and have the most first-hand knowledge of. That being said, if you never taught for me, **don't pre-reject yourself** - still ask me first!
+As a result, 80%+ of the letters I write each year are for students who served on my course staff at some point (GSI/IA/TA/tutor), as those are the students I interact with the most and have the most first-hand knowledge of. The few other students I end up writing letters for are students who did extremely well in class and/or went above and beyond in some way. That being said, if you don't fall into one of these categories, **don't pre-reject yourself** - still ask me first!
 
 - Your preferred name and pronouns.
 - A description of how I know you.
