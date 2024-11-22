@@ -16,7 +16,7 @@ title: Home
 
 Lecturer III<br>Computer Science and Engineering, University of Michigan<br>rampure@umich.edu
 
-Hi! 👋 I'm Suraj ("soo-rudge"), a teaching faculty member in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the University of Michigan, affiliated with [MIDAS](https://midas.umich.edu/faculty-member/suraj-rampure/). This year, I'm teaching a new class on [practical data science](https://practicaldsc.org) and serving on the [undergraduate data science program](https://lsa.umich.edu/stats/undergraduate-students/undergraduate-programs/majordatascience.html) committee.
+Hi! 👋 I'm Suraj ("soo-rudge"), a teaching faculty member in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the University of Michigan, affiliated with [MIDAS](https://midas.umich.edu/faculty-member/suraj-rampure/). This year, I'm teaching a new class on [practical data science](https://practicaldsc.org) and serving on the undergraduate computer science and data science program committees.
 
 Previously, I spent three years as a lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu/) at the University of California, San Diego, where I coordinated the senior data science capstone program and received the campus-wide Distinguished Teaching Award in 2024.
 
@@ -29,7 +29,7 @@ I earned BS and MS degrees in [Electrical Engineering and Computer Sciences](htt
 Below, you'll find public course websites for most of the classes I've taught, along with my scholarly work. In addition:
 - If you're interested in applying to teaching faculty positions, [access my CV, teaching statement, and the rest of my application materials here](tf-app-materials). I've updated this in 2024 to include my latest materials.
 - If you're thinking of asking me to write a recommendation letter for you, [read this first](letters).
-- If you're looking for datasets to use in projects of your own, [look here](find-datasets).<br><br>
+- If you're looking for datasets to use in projects of your own, [look here](https://practicaldsc.org/resources/#finding-datasets).<br><br>
 
 ---
 
@@ -39,8 +39,8 @@ Below, you'll find public course websites for most of the classes I've taught, a
 
 ### At the University of Michigan (2024-)
 
-**EECS 398-003: Practical Data Science 🛠️**<br>
-Winter 2025 • [**Fall 2024**](https://practicaldsc.org)<br>
+**EECS 398: Practical Data Science 🛠️**<br>
+[**Winter 2025**](https://practicaldsc.org/next) • [**Fall 2024**](https://practicaldsc.org)<br>
 <small>Highlights: [Linear Algebra Review for Data Science (LARDS)](https://practicaldsc.org/lin-alg)</small>
 
 ### At UC San Diego (2021-2024)
@@ -112,7 +112,8 @@ Tutor: [Spring 2017](http://data8.org/sp17)<br><br>
 - Data 6: A New Introductory Course. Talk at _[2021 National Workshop on Data Science Education](https://data.berkeley.edu/academics/resources/data-science-education-workshop/2021-national-workshop-data-science-education)_. ([slides](https://docs.google.com/presentation/d/1eeJvHmDNQanVOFjKn8Jky63ONxHPmDyq6I764f-YPdE/edit#slide=id.gb6d01dc2f6_0_124)) ([video](https://www.youtube.com/watch?v=4pMLelvesR8))
 - Various sessions on Data 100: Principles and Techniques of Data Science at _[2020 National Workshop on Data Science Education](https://data.berkeley.edu/academics/resources/data-science-education-resources/2020-national-workshop-data-science-education)_. ([pre-recorded talk](https://www.youtube.com/watch?v=VxL9L7VkJTE&feature=youtu.be)) ([Q&A](https://www.youtube.com/watch?v=lfyyZQDlyXQ)) ([workshop](https://www.youtube.com/watch?v=1FsYgKKh9gk&feature=youtu.be))
 
-### Panels
+### Panels and Related Sessions
+- [A New Class of Teaching-Track Faculty: No Ph.D. Required](https://sigcse2025.sigcse.org/details/sigcse-ts-2025-birds-of-a-feather/31/A-New-Class-of-Teaching-Track-Faculty-No-Ph-D-Required). Birds of a Feather session at _Proceedings of the 56th ACM Technical Symposium on Computer Science Education (SIGCSE '25)._
 - [A New Class of Teaching-Track Faculty: No Ph.D. Required](https://dl.acm.org/doi/10.1145/3545947.3569608). In _Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE '23)._ ([slides](https://docs.google.com/presentation/d/1H2ngrPNb8TQXxIrCOFhXHce8-x6KEgHzw-bdFNrmQpQ/edit#slide=id.gb6f9b1ca0f_0_53))
 - Introduction to Computational Thinking with Data and Society. In _[2022 National Workshop on Data Science Education](https://data.berkeley.edu/2022workshop/schedule)_.
 - [A New Class of Teaching-Track Faculty: No Ph.D. Required](https://dl.acm.org/doi/10.1145/3478432.3499227). In _Proceedings of the 53rd ACM Technical Symposium on Computer Science Education (SIGCSE '22)._ ([slides](https://docs.google.com/presentation/d/12PalILpKLBHadL9GibmY4jATogp6BMHdIcsT_NUVSRc/edit#slide=id.gb6f9b1ca0f_0_53))
