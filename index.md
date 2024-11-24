@@ -6,7 +6,7 @@ title: Home
 
 <div style="width: 42%; float: left;">
 
-<img src="assets/me-award.jpg" width="100%">
+<img src="assets/me-award-compressed.jpeg" width="100%">
 
 </div>
 
@@ -102,32 +102,40 @@ Tutor: [Spring 2017](http://data8.org/sp17)<br><br>
 ## Scholarship
 
 ### Papers
+
 - [The Challenges of Evolving Technical Courses at Scale: Four Case Studies of Updating Large Data Science Courses](https://www.samlau.me/pubs/Challenges-of-Evolving-Data-Courses_L@S-2022.pdf). Sam Lau, Justin Eldridge, Shannon Ellis, Aaron Fraenkel, Marina Langlois, Suraj Rampure, Janine Tiefenbruck, Philip Guo. In _ACM Conference on Learning @ Scale (L@S), 2022_.
 - [A New Data-Focused Introductory Programming Course](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-106.html). Suraj Rampure. 2021. Master's technical report, UC Berkeley EECS.
 - [Experiences Teaching a Large Upper-Division Data Science Course Remotely](https://dl.acm.org/doi/pdf/10.1145/3408877.3432561). Suraj Rampure\*, Allen Shen\*, and Josh Hug. 2020. In _Proceedings of the 52nd ACM Technical Symposium on Computer Science Education (SIGCSE ’21)._ ([slides](https://docs.google.com/presentation/d/1xBMcdYKrhM0U1FxOKZ93TCqIdDIWFqdz7ns49LN_ukg/edit?usp=sharing)) ([video](https://youtu.be/_p-JUp4QyNA))
 
 ### Talks
+
 - Different Mediums for Different Audiences: A Capstone Case Study. Suraj Rampure. Talk at _[Teaching and Evaluating Data Communication at Scale 2024](https://www.imsi.institute/activities/teaching-and-evaluating-data-communication-at-scale/)_. ([slides](https://cdn.imsi.institute/videos/49129/iPxQvXT38E/slides.pdf)) ([video](https://www.imsi.institute/videos/different-mediums-for-different-audiences-a-capstone-case-study/))
 - Otter-Grader: A Lightweight Solution for Creating and Grading Jupyter Notebook Assignments. Suraj Rampure, Christopher Pyles, Justin Eldridge, and Lisa Yan. Talk at _[Jupytercon 2023](https://cfp.jupytercon.com/2023/talk/XABS9S/)_. ([materials](https://github.com/chrispyles/otter-grader-jupytercon-2023)) ([video](https://www.youtube.com/watch?v=9_x532_2T2w))
 - Data 6: A New Introductory Course. Talk at _[2021 National Workshop on Data Science Education](https://data.berkeley.edu/academics/resources/data-science-education-workshop/2021-national-workshop-data-science-education)_. ([slides](https://docs.google.com/presentation/d/1eeJvHmDNQanVOFjKn8Jky63ONxHPmDyq6I764f-YPdE/edit#slide=id.gb6d01dc2f6_0_124)) ([video](https://www.youtube.com/watch?v=4pMLelvesR8))
 - Various sessions on Data 100: Principles and Techniques of Data Science at _[2020 National Workshop on Data Science Education](https://data.berkeley.edu/academics/resources/data-science-education-resources/2020-national-workshop-data-science-education)_. ([pre-recorded talk](https://www.youtube.com/watch?v=VxL9L7VkJTE&feature=youtu.be)) ([Q&A](https://www.youtube.com/watch?v=lfyyZQDlyXQ)) ([workshop](https://www.youtube.com/watch?v=1FsYgKKh9gk&feature=youtu.be))
 
 ### Panels and Related Sessions
+
 - [A New Class of Teaching-Track Faculty: No Ph.D. Required](https://sigcse2025.sigcse.org/details/sigcse-ts-2025-birds-of-a-feather/31/A-New-Class-of-Teaching-Track-Faculty-No-Ph-D-Required). Birds of a Feather session at _Proceedings of the 56th ACM Technical Symposium on Computer Science Education (SIGCSE '25)._
 - [A New Class of Teaching-Track Faculty: No Ph.D. Required](https://dl.acm.org/doi/10.1145/3545947.3569608). In _Proceedings of the 54th ACM Technical Symposium on Computer Science Education (SIGCSE '23)._ ([slides](https://docs.google.com/presentation/d/1H2ngrPNb8TQXxIrCOFhXHce8-x6KEgHzw-bdFNrmQpQ/edit#slide=id.gb6f9b1ca0f_0_53))
 - Introduction to Computational Thinking with Data and Society. In _[2022 National Workshop on Data Science Education](https://data.berkeley.edu/2022workshop/schedule)_.
 - [A New Class of Teaching-Track Faculty: No Ph.D. Required](https://dl.acm.org/doi/10.1145/3478432.3499227). In _Proceedings of the 53rd ACM Technical Symposium on Computer Science Education (SIGCSE '22)._ ([slides](https://docs.google.com/presentation/d/12PalILpKLBHadL9GibmY4jATogp6BMHdIcsT_NUVSRc/edit#slide=id.gb6f9b1ca0f_0_53))
 
-### Other
-- Interview for Computing Paths @ UCSD ([video](https://www.youtube.com/watch?v=rQYUDs6Wz3E))
-- UC Berkeley Data Science Education Podcast Guest ("The Importance of Data Science Course Staff") ([episode link](https://datascienceeducation.substack.com/p/the-importance-of-data-science-course))
-- 2020 EECS/CS Student Life Panel Moderator ([video](https://youtu.be/RFCohC5kKO8))<br><br>
+### Media
+
+- UC San Diego Today: [Signature Program Demonstrates How UC San Diego Undergraduates Learn to Transform Data into Action](https://today.ucsd.edu/story/signature-program-demonstrates-how-uc-san-diego-undergraduates-learn-to-transform-data-into-action)
+- ComputingPaths at UC San Diego: [Meet Suraj Rampure, Lecturer in the Halıcıoğlu Data Science Institute](https://www.youtube.com/watch?v=rQYUDs6Wz3E)
+- UC Berkeley Research News: [UC Berkeley and Tuskegee University Announce Data Science Partnership](https://vcresearch.berkeley.edu/news/uc-berkeley-and-tuskegee-university-announce-data-science-partnership)
+- UC Berkeley Data Science Education Podcast: [The Importance of Data Science Course Staff](https://datascienceeducation.substack.com/p/the-importance-of-data-science-course)
+
+<br>
 
 ---
 
 <a name='awards'></a>
 
 ## Awards
+
 - 2023-2024 [UC San Diego Distinguished Teaching Award](https://senate.ucsd.edu/grants-awards/senate-awards/distinguished-teaching-award)
 - 2020-2021 [UC Berkeley Extraordinary Teaching in Extraordinary Times Award](https://rtl.berkeley.edu/extraordinary-teaching-extraordinary-times-award) ([article](https://data.berkeley.edu/news/cdss-instructors-honored-five-awards-extraordinary-teaching-extraordinary-times))
 - 2019-2020 [UC Berkeley EECS Distinguished GSI Award](https://www2.eecs.berkeley.edu/Students/Awards/13/)
