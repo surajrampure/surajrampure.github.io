@@ -9,7 +9,7 @@ title: "Recommendation Letter Instructions"
 
 by [Suraj Rampure](../)
 
-_last updated October 11, 2024_
+_last updated November 30, 2024_
 
 <br>
 
@@ -22,20 +22,23 @@ As a result, 80%+ of the letters I write each year are for students who served o
 - Your preferred name and pronouns.
 - A description of how I know you.
     - What school? (Michigan? UCSD? Berkeley?)
-    - What classes you took with me and what grades you got.
+    - What classes you took with me and what grades you got. Include your grade on the Final Exam and what the class average was (Gradescope has this).
     - What classes you GSI/IA/TA/tutored for me and when, and what your responsibilities were (and anything you think you did a particularly good job at).
-    - Any standout facts about you that you think I should remember (e.g. had a really excellent final project, or had the most answers of any staff member on Ed, etc.).
+    - Any standout facts about you that you think I should remember (e.g. created all the discussion worksheets, or had a really excellent final project in the TA training course, or had the most answers of any staff member on Ed, etc.).
 - Your latest resume/CV.
 - A copy of your (unofficial) transcript.
 - A spreadsheet with the following columns, with one row for each program you're applying to:
     - University name.
     - Program name.
-    - Application deadline.
+    - Application deadline, **in the format MM/DD/YYYY**.
 - A brief description of what you're trying to get out of a graduate program.
     - For a letter to be strong, I need to be able to describe what value you'll get out of the program and what value you'll provide to the program, and why you've chosen those programs specifically.
     - This could be a summary or draft of your statement of purpose/similar application responses.
 
-I only need these materials ~one month before your earliest deadline. Make sure to tell me clearly when your earliest deadline is!
+Some other instructions:
+
+- I only need these materials ~two weeks before your earliest deadline. Make sure to tell me clearly when your earliest deadline is!
+- Please send me **all** letter requests for all of the programs you're applying to **at the same time**. When I write your letter, it's easiest to sit down and upload it to all of your schools at once; this minimizes the chances that letters sent later slip through the cracks.
 
 The information you should use for me is below.
 
