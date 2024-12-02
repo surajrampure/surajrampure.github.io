@@ -19,6 +19,8 @@ But, I receive so many requests that I unfortunately don't have the capacity to 
 
 As a result, 80%+ of the letters I write each year are for students who served on my course staff at some point (GSI/IA/TA/tutor), as those are the students I interact with the most and have the most first-hand knowledge of. The few other students I end up writing letters for are students who did extremely well in class and/or went above and beyond in some way. That being said, if you don't fall into one of these categories, **don't pre-reject yourself** - still ask me first!
 
+If I agree to write you a letter, here's what I need from you, ideally all in a single Google Drive folder shared with rampure@umich.edu:
+
 - Your preferred name and pronouns.
 - A description of how I know you.
     - What school? (Michigan? UCSD? Berkeley?)
@@ -39,10 +41,11 @@ Some other instructions:
 
 - I only need these materials ~two weeks before your earliest deadline. Make sure to tell me clearly when your earliest deadline is!
 - Please send me **all** letter requests for all of the programs you're applying to **at the same time**. When I write your letter, it's easiest to sit down and upload it to all of your schools at once; this minimizes the chances that letters sent later slip through the cracks.
-
-The information you should use for me is below.
+- Make sure to **waive your right to view recommendation letters submitted for you**. This will allow me (and your other writers) to speak more honestly. As discussed above, if I've agreed to write you a letter it'll likely be quite strong, so there's nothing to be worried about!
 
 ---
+
+The information you should use for me is below.<br><br>
 
 Suraj Rampure<br>
 Lecturer III, Electrical Engineering and Computer Science, University of Michigan<br>
