@@ -40,8 +40,8 @@ Below, you'll find public course websites for most of the classes I've taught, a
 ### At the University of Michigan (2024-)
 
 **EECS 398: Practical Data Science 🛠️**<br>
-[**Winter 2025**](https://practicaldsc.org/next) • [**Fall 2024**](https://practicaldsc.org)<br>
-<small>Highlights: [Linear Algebra Review for Data Science (LARDS)](https://practicaldsc.org/lin-alg)</small>
+[**Winter 2025**](https://practicaldsc.org/wi25) • [**Fall 2024**](https://practicaldsc.org/fa24)<br>
+<!-- <small>Highlights: [Linear Algebra Review for Data Science (LARDS)](https://practicaldsc.org/lin-alg)</small> -->
 
 ### At UC San Diego (2021-2024)
 

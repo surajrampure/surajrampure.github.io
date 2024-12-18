@@ -43,7 +43,11 @@ Some other instructions:
 - Please send me **all** letter requests for all of the programs you're applying to **at the same time**. When I write your letter, it's easiest to sit down and upload it to all of your schools at once; this minimizes the chances that letters sent later slip through the cracks.
 - Make sure to **waive your right to view recommendation letters submitted for you**. This will allow me (and your other writers) to speak more honestly. As discussed above, if I've agreed to write you a letter it'll likely be quite strong, so there's nothing to be worried about!
 
+<br>
+
 ---
+
+<br>
 
 The information you should use for me is below.<br><br>
 
@@ -55,6 +59,8 @@ rampure@umich.edu<br>
 Bob and Betty Beyster Building<br>
 2260 Hayward Street<br>
 Ann Arbor, MI 48109
+
+<br>
 
 ---
 
