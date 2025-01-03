@@ -74,7 +74,7 @@ _You can view course websites for many DSC (and adjacent) courses at [dsc-course
 ### At UC Berkeley (2016-2021)
 
 **Data 94: Introduction to Computational Thinking with Data**<br>
-[Spring 2021](http://data94.org) (now known as [Data 6](http://data6.org))
+[Spring 2021](https://rampure.org/data-94-sp21) (now known as [Data 6](http://data6.org))
 
 **Data 100: Principles and Techniques of Data Science**<br>
 [Summer 2020 (with Allen Shen)](http://ds100.org/su20)<br>TA: [Fall 2020](http://ds100.org/fa20) • [Spring 2020](http://ds100.org/sp20) • [Fall 2019](http://ds100.org/fa19) • [Spring 2019](http://ds100.org/sp19) • [Fall 2018](http://ds100.org/fa18)
