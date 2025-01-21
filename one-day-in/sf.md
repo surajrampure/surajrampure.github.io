@@ -1,6 +1,9 @@
 ---
 title: "One Day In: San Francisco"
+description: Bites and sights in San Francisco, CA curated by Suraj Rampure.
 ---
+
+<meta property="og:image" content="assets/sf/golden-gate.jpeg" />
 
 ## {{ page.title }}
 
