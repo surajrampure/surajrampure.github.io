@@ -12,11 +12,11 @@ title: Home
 
 <div style="margin-left: 46%; white-space: normal;" markdown="1"> 
 
-## Suraj Rampure
+# Suraj Rampure
 
-Lecturer III<br>Computer Science and Engineering, University of Michigan<br>rampure@umich.edu
+Lecturer III<br>Computer Science and Engineering, University of Michigan<br>[rampure@umich.edu](mailto:rampure@umich.edu)<br><br>Winter 2025 Advising OH: (Most) Fridays, 11AM-12PM
 
-Hi! 👋 I'm Suraj ("soo-rudge"), a teaching faculty member in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the University of Michigan, affiliated with [MIDAS](https://midas.umich.edu/faculty-member/suraj-rampure/). This year, I'm teaching a new class on [practical data science](https://practicaldsc.org) and serving on the undergraduate computer science and data science program committees.
+Hi! 👋 I'm Suraj ("soo-rudge"), a teaching faculty member in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the University of Michigan, affiliated with [MIDAS](https://midas.umich.edu/faculty-member/suraj-rampure/). This year, I'm teaching a new class on [practical data science](https://practicaldsc.org) and serving on the undergraduate computer science and data science program committees. I'm also a faculty advisor and [MaCSS mentor](https://sites.lsa.umich.edu/macss-scholars/people-2/faculty-mentors).
 
 Previously, I spent three years as a lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu/) at the University of California, San Diego, where I coordinated the senior data science capstone program and received the campus-wide Distinguished Teaching Award in 2024.
 
@@ -26,10 +26,9 @@ I earned BS and MS degrees in [Electrical Engineering and Computer Sciences](htt
 
 ---
 
-Below, you'll find public course websites for most of the classes I've taught, along with my scholarly work. In addition:
-- If you're interested in applying to teaching faculty positions, [access my CV, teaching statement, and the rest of my application materials here](tf-app-materials). I've updated this in 2024 to include my latest materials.
-- If you're thinking of asking me to write a recommendation letter for you, [read this first](letters).
-- If you're looking for datasets to use in projects of your own, [look here](https://practicaldsc.org/resources/#finding-datasets).<br><br>
+On this page: <a href="#teaching">Teaching</a> • <a href="#scholarship">Scholarship</a> • <a href="#awards">Awards</a><br>
+Other links:  <a href="tf-app-materials">Teaching Faculty Application Materials</a> • <a href="letters">Recommendation Letters</a> • <a href="python-teaching-commons">Python Teaching Commons</a><br>
+Totally random: <a href="one-day-in/sf">Travel Recommendations</a>
 
 ---
 
@@ -49,21 +48,21 @@ _You can view course websites for many DSC (and adjacent) courses at [dsc-course
 
 **DSC 40A: Theoretical Foundations of Data Science I 🧠**<br>
 [Spring 2024](https://dsc-courses.github.io/dsc40a-2024-sp) • [Fall 2021](http://dsc-courses.github.io/dsc40a-2021-fa/)<br>
-<small>Highlights: [Regression FAQs](https://dsc-courses.github.io/dsc40a-2024-sp/faqs), [Past Exam Practice](https://practice.dsc40a.com)</small>
+<!-- <small>Highlights: [Regression FAQs](https://dsc-courses.github.io/dsc40a-2024-sp/faqs), [Past Exam Practice](https://practice.dsc40a.com)</small> -->
 
 **DSC 95: Tutor Apprenticeship in Data Science 🧑‍🏫**<br>
 [Spring 2024](https://dsc-courses.github.io/dsc95-2024-sp/) • [Spring 2023](https://dsc-courses.github.io/dsc95-2023-sp/)
 
 **DSC 80: Practice and Application of Data Science 💪**<br>
 [Winter 2024](https://dsc-courses.github.io/dsc80-2024-wi) • [Winter 2023](https://dsc-courses.github.io/dsc80-2023-wi) • [Spring 2022](https://dsc-courses.github.io/dsc80-2022-sp)<br>
-<small>Highlights: [Past Exam Practice](https://practice.dsc80.com)</small>
+<!-- <small>Highlights: [Past Exam Practice](https://practice.dsc80.com)</small> -->
 
 **DSC 180AB: Data Science Project (Senior Capstone) 👷**<br>
 [Fall 2023 + Winter 2024](https://dsc-capstone.org) • [Fall 2022 + Winter 2023](https://dsc-capstone.org/2022-23/)
 
 **DSC 10: Principles of Data Science 📊**<br>
 [Fall 2023 (with Janine Tiefenbruck & Rod Albuyeh)](https://dsc-courses.github.io/dsc10-2023-fa/) • [Spring 2023](https://dsc-courses.github.io/dsc10-2023-sp/) • [Fall 2022 (with Janine Tiefenbruck & Puoya Tabaghi)](http://dsc-courses.github.io/dsc10-2022-fa/) • [Winter 2022](http://dsc-courses.github.io/dsc10-2022-wi/) • [Fall 2021 (with Janine Tiefenbruck)](http://dsc-courses.github.io/dsc10-2021-fa/)<br>
-<small>Highlights: [Past Exam Practice](https://practice.dsc10.com)</small>
+<!-- <small>Highlights: [Past Exam Practice](https://practice.dsc10.com)</small> -->
 
 **CSS 201S: Introduction to Python Bootcamp (Week 1 only) 🥾**<br>
 [Summer 2022](https://rampure.org/css-python-bootcamp/)
