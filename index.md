@@ -38,6 +38,9 @@ Totally random: <a href="one-day-in/sf">Travel Recommendations</a>
 
 ### At the University of Michigan (2024-)
 
+**EECS 298: Mathematics for Machine Learning 🧠**<br>
+[Fall 2025](https://rampure.org/math-for-ML)
+
 **EECS 398: Practical Data Science 🛠️**<br>
 Spring 2025 (Half-Term) • [**Winter 2025**](https://practicaldsc.org/wn25) • [Fall 2024](https://practicaldsc.org/fa24)<br>
 <!-- <small>Highlights: [Linear Algebra Review for Data Science (LARDS)](https://practicaldsc.org/lin-alg)</small> -->
