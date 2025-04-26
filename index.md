@@ -14,9 +14,11 @@ title: Home
 
 # Suraj Rampure
 
-Lecturer III<br>Computer Science and Engineering, University of Michigan<br>[rampure@umich.edu](mailto:rampure@umich.edu)<br><br>Winter 2025 Advising OH: (Most) Fridays, 11AM-12PM
+Lecturer III<br>Computer Science and Engineering, University of Michigan<br>[rampure@umich.edu](mailto:rampure@umich.edu)
 
-Hi! 👋 I'm Suraj ("soo-rudge"), a teaching faculty member in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the University of Michigan, affiliated with [MIDAS](https://midas.umich.edu/faculty-member/suraj-rampure/). This year, I'm teaching a new class on [practical data science](https://practicaldsc.org) and serving on the undergraduate computer science and data science program committees. I'm also a faculty advisor and [MaCSS mentor](https://sites.lsa.umich.edu/macss-scholars/people-2/faculty-mentors).
+Hi! 👋 I'm Suraj ("soo-rudge"), a teaching faculty member in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the University of Michigan. At Michigan, I am affiliated with [MIDAS](https://midas.umich.edu/faculty-member/suraj-rampure/) and serve on the undergraduate computer science and data science program committees. 
+
+<!-- I'm also a faculty advisor and [MaCSS mentor](https://sites.lsa.umich.edu/macss-scholars/people-2/faculty-mentors). -->
 
 Previously, I spent three years as a lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu/) at the University of California, San Diego, where I coordinated the senior data science capstone program and received the campus-wide Distinguished Teaching Award in 2024.
 
@@ -39,10 +41,11 @@ Totally random: <a href="one-day-in/sf">Travel Recommendations</a>
 ### At the University of Michigan (2024-)
 
 **EECS 298: Mathematics for Machine Learning 🧠**<br>
+<small>(soon to be offered as EECS 245!)</small><br>
 [Fall 2025](https://rampure.org/math-for-ML)
 
 **EECS 398: Practical Data Science 🛠️**<br>
-[Spring 2025 (Half-Term)](https://practicaldsc.org/next) • [**Winter 2025**](https://practicaldsc.org/wn25) • [Fall 2024](https://practicaldsc.org/fa24)<br>
+[Spring 2025 (Half-Term)](https://practicaldsc.org/next) • [Winter 2025](https://practicaldsc.org/wn25) • [Fall 2024](https://practicaldsc.org/fa24)<br>
 <!-- <small>Highlights: [Linear Algebra Review for Data Science (LARDS)](https://practicaldsc.org/lin-alg)</small> -->
 
 ### At UC San Diego (2021-2024)
