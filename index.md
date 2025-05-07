@@ -12,7 +12,7 @@ title: Home
 
 <div style="margin-left: 46%; white-space: normal;" markdown="1"> 
 
-# Suraj Rampure
+## Suraj Rampure
 
 Lecturer III<br>Computer Science and Engineering, University of Michigan<br>[rampure@umich.edu](mailto:rampure@umich.edu)
 
@@ -30,7 +30,7 @@ I earned BS and MS degrees in [Electrical Engineering and Computer Sciences](htt
 
 On this page: <a href="#teaching">Teaching</a> • <a href="#scholarship">Scholarship</a> • <a href="#awards">Awards</a><br>
 Other links:  <a href="tf-app-materials">Teaching Faculty Application Materials</a> • <a href="letters">Recommendation Letters</a> • <a href="python-teaching-commons">Python Teaching Commons</a><br>
-Totally random: <a href="one-day-in/sf">Travel Recommendations</a>
+Totally random: <a href="travel">Travel Recommendations</a>
 
 ---
 
@@ -41,12 +41,15 @@ Totally random: <a href="one-day-in/sf">Travel Recommendations</a>
 ### At the University of Michigan (2024-)
 
 **EECS 298: Mathematics for Machine Learning 🧠**<br>
-<small>(soon to be offered as EECS 245!)</small><br>
+<small>(Offered as **EECS 245** starting in Winter 2026!)</small><br>
 [Fall 2025](https://rampure.org/math-for-ML)
 
 **EECS 398: Practical Data Science 🛠️**<br>
 [Spring 2025 (Half-Term)](https://practicaldsc.org/next) • [Winter 2025](https://practicaldsc.org/wn25) • [Fall 2024](https://practicaldsc.org/fa24)<br>
 <!-- <small>Highlights: [Linear Algebra Review for Data Science (LARDS)](https://practicaldsc.org/lin-alg)</small> -->
+
+<!-- **Non-Course Teaching**:
+- [Data- and AI-intensive Research with Rigor and Reproducibility for U-M Biomedical Researchers Summer Academy 2025](https://midas.umich.edu/events/dair-sa-2025/#instructors) (materials to come) -->
 
 ### At UC San Diego (2021-2024)
 
