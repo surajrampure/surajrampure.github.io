@@ -20,7 +20,7 @@ Hi! 👋 I'm Suraj ("soo-rudge"), a teaching faculty member in [Computer Science
 
 <!-- I'm also a faculty advisor and [MaCSS mentor](https://sites.lsa.umich.edu/macss-scholars/people-2/faculty-mentors). -->
 
-Previously, I spent three years as a lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu/) at the University of California, San Diego, where I coordinated the senior data science capstone program and received the campus-wide Distinguished Teaching Award in 2024.
+From 2021-2024, I was a lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu/) at the University of California, San Diego, where I coordinated the senior data science capstone program and received the campus-wide Distinguished Teaching Award in 2024.
 
 I earned BS and MS degrees in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) from the University of California, Berkeley, and I'm originally from Windsor, Ontario 🇨🇦.
 
@@ -29,7 +29,7 @@ I earned BS and MS degrees in [Electrical Engineering and Computer Sciences](htt
 ---
 
 On this page: <a href="#teaching">Teaching</a> • <a href="#scholarship">Scholarship</a> • <a href="#awards">Awards</a><br>
-Other links:  <a href="tf-app-materials">Teaching Faculty Application Materials</a> • <a href="letters">Recommendation Letters</a> • <a href="python-teaching-commons">Python Teaching Commons</a><br>
+Other links:  <a href="resources/cv-2025.pdf">CV (as of June 2025)</a> • <a href="tf-app-materials">Teaching Faculty Application Materials</a> • <a href="letters">Recommendation Letters</a> • <a href="python-teaching-commons">Python Teaching Commons</a><br>
 Totally random: <a href="travel">Travel Recommendations</a>
 
 ---
