@@ -1,0 +1,25 @@
+name: Update Location
+on:
+  repository_dispatch:
+    types: [location_update]
+
+jobs:
+  update-location:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Update location file
+        run: |
+          echo '{
+            "city": "${{ github.event.client_payload.city }}",
+            "updated": "'$(date -u +"%Y-%m-%dT%H:%M:%SZ")'"
+          }' > data/location.json
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/location.json
+          git commit -m "Update location to ${{ github.event.client_payload.city }}" || exit 0
+          git push
