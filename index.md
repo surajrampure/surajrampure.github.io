@@ -16,15 +16,54 @@ title: Home
 
 Lecturer III<br>Computer Science and Engineering, University of Michigan<br>[rampure@umich.edu](mailto:rampure@umich.edu)
 
+<div id="current-location" style="
+  display: inline-flex;
+  align-items: center;
+  background: linear-gradient(135deg, #74a9ff 0%, #1a73e8 100%);
+  color: white;
+  padding: 2px 6px;
+  border-radius: 10px;
+  font-size: 10px;
+  font-weight: 500;
+  margin: 0px 0 8px 0;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+">
+  <span style="margin-right: 3px; font-size: 10px;">📍</span>
+  <span>Loading location...</span>
+</div>
+
 Hi! 👋 I'm Suraj ("soo-rudge"), a teaching faculty member in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the University of Michigan. At Michigan, I am affiliated with [MIDAS](https://midas.umich.edu/faculty-member/suraj-rampure/) and serve on the undergraduate computer science and data science program committees. 
 
-<!-- I'm also a faculty advisor and [MaCSS mentor](https://sites.lsa.umich.edu/macss-scholars/people-2/faculty-mentors). -->
-
-From 2021-2024, I was a lecturer in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu/) at the University of California, San Diego, where I coordinated the senior data science capstone program and received the campus-wide Distinguished Teaching Award in 2024.
-
-I earned BS and MS degrees in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) from the University of California, Berkeley, and I'm originally from Windsor, Ontario 🇨🇦.
+Previously, I taught in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu/) at the University of California, San Diego, where I coordinated the senior data science capstone program and received the campus-wide Distinguished Teaching Award in 2024. I earned BS and MS degrees in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) from the University of California, Berkeley, and I'm originally from Windsor, Ontario 🇨🇦.
 
 </div>
+
+<script>
+
+async function loadLocation() {
+    try {
+        const response = await fetch('location.json');
+        const data = await response.json();
+        
+        const locationElement = document.getElementById('current-location');
+        locationElement.innerHTML = `
+            <span style="margin-right: 3px; font-size: 10px;">📍</span>
+            <span>Current Location: ${data.city}</span>
+        `;
+        locationElement.title = `Updated ${new Date(data.updated).toLocaleDateString()}`;
+    } catch (error) {
+        console.error('Failed to load location:', error);
+        const locationElement = document.getElementById('current-location');
+        locationElement.innerHTML = `
+            <span style="margin-right: 3px; font-size: 10px;">📍</span>
+            <span>Location unavailable</span>
+        `;
+    }
+}
+// Load on page load
+loadLocation();
+</script>
 
 ---
 
