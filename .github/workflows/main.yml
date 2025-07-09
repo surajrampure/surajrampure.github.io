@@ -20,6 +20,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/location.json
-          git commit -m "Update location to ${{ github.event.client_payload.city }}" || exit 0
+          git add location.json
+          git commit -m "iPhone-based location update to ${{ github.event.client_payload.city }}" || exit 0
           git push
