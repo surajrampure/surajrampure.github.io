@@ -68,7 +68,7 @@ loadLocation();
 ---
 
 On this page: <a href="#teaching">Teaching</a> • <a href="#scholarship">Scholarship</a> • <a href="#awards">Awards</a><br>
-Other links:  <a href="resources/cv-2025.pdf">CV (as of June 2025)</a> • <a href="tf-app-materials">Teaching Faculty Application Materials</a> • <a href="letters">Recommendation Letters</a> • <a href="python-teaching-commons">Python Teaching Commons</a><br>
+Other links:  <a href="resources/cv-2025.pdf">CV</a> • <a href="tf-app-materials">Teaching Faculty Application Materials</a> • <a href="letters">Rec. Letters</a> • <a href="python-teaching-commons">Python Teaching Commons</a><br>
 Totally random: <a href="travel">Travel Recommendations</a>
 
 ---
@@ -81,14 +81,14 @@ Totally random: <a href="travel">Travel Recommendations</a>
 
 **EECS 298: Mathematics for Machine Learning 🧠**<br>
 <small>(Offered as **EECS 245** starting in Winter 2026!)</small><br>
-[Fall 2025](https://rampure.org/math-for-ML)
+[Fall 2025](https://eecs245.org)
 
 **EECS 398: Practical Data Science 🛠️**<br>
 [Spring 2025 (Half-Term)](https://practicaldsc.org/next) • [Winter 2025](https://practicaldsc.org/wn25) • [Fall 2024](https://practicaldsc.org/fa24)<br>
 <!-- <small>Highlights: [Linear Algebra Review for Data Science (LARDS)](https://practicaldsc.org/lin-alg)</small> -->
 
-<!-- **Non-Course Teaching**:
-- [Data- and AI-intensive Research with Rigor and Reproducibility for U-M Biomedical Researchers Summer Academy 2025](https://midas.umich.edu/events/dair-sa-2025/#instructors) (materials to come) -->
+**Non-Course Teaching**:
+- [Data- and AI-intensive Research with Rigor and Reproducibility for U-M Biomedical Researchers Summer Academy 2025](https://midas.umich.edu/events/dair-sa-2025/#instructors) (materials to come)
 
 ### At UC San Diego (2021-2024)
 
