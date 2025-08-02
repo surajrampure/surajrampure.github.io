@@ -16,17 +16,24 @@ _In this session, we will review the basics of predictive modeling and approache
 
 <br>
 
-## Accessing Content
+There are four Python-based Jupyter Notebooks for this session.
 
-I've prepared four Python-based Jupyter Notebooks for this session. There are two ways to access them.
+1. **Overview of Machine Learning and Tools** (Jupyter Notebooks, `sklearn`, Logistic Regression, Train-Test Splits)
+2. **Dimensionality Reduction** (Random Seeds, Stratification, PCA, MDS, t-SNE)
+3. **Model Selection** (Cross-Validation, Regularization, Feature Standardization, Data Leakage)
+4. **Model Evaluation** (Precision, Recall, ROC-AUC, More on Class Imbalance)
+
+Don't worry if you're not familiar with Python – most of the code is already provided for you. Instead, focus on understanding the concepts and the code that's provided.
+
+There are two ways to access these notebooks. To get the most out of the workshop, I recommend you follow at least one of them, so that you can run code and experiment yourself.
 
 ### Option 1: Web-Based Access
 
 <div style="border: 2px solid #2980b9; background-color: #d6eaf8; padding: 16px; border-radius: 6px; margin-bottom: 16px;">
-  <strong>Click <a href="https://mybinder.org/v2/gh/surajrampure/dair3-2025/HEAD?urlpath=%2Fdoc%2Ftree%2Ffiles%2F01-intro-materials.ipynb" target="_blank">here</a> to open the notebooks in your browser, without the need to install anything.</strong>
+  <strong>Click <a href="https://mybinder.org/v2/gh/surajrampure/dair3-2025/HEAD?urlpath=%2Fdoc%2Ftree%2F01-intro-materials.ipynb" target="_blank">here</a> to open the notebooks in your browser, without the need to install anything.</strong>
 </div>
 
- This link uses [mybinder.org](https://mybinder.org/), a service that allows you to run Jupyter Notebooks in your browser. Some code may not work properly or take a long time to run, but this should suffice for the lesson.
+ This link uses [mybinder.org](https://mybinder.org/), a service that allows you to run Jupyter Notebooks in your browser. Some code may not work properly or take a long time to run, but this should suffice for the workshop.
 
 <br>
 
@@ -42,6 +49,9 @@ In your Terminal, run the following commands:
 git clone https://github.com/surajrampure/dair3-2025.git
 cd dair3-2025
 pip install -r requirements.txt
+cd files
 ```
 
 You can then open the notebooks in your browser by running `jupyter notebook` in your Terminal.
+
+If you'd like more detailed steps on how to run Jupyter Notebooks locally, refer to [**this guide**](https://practicaldsc.org/env-setup/#replicating-the-gradescope-environment).

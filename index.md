@@ -87,8 +87,8 @@ Totally random: <a href="travel">Travel Recommendations</a>
 [Spring 2025 (Half-Term)](https://practicaldsc.org/next) • [Winter 2025](https://practicaldsc.org/wn25) • [Fall 2024](https://practicaldsc.org/fa24)<br>
 <!-- <small>Highlights: [Linear Algebra Review for Data Science (LARDS)](https://practicaldsc.org/lin-alg)</small> -->
 
-**Non-Course Teaching**:
-- [Data- and AI-intensive Research with Rigor and Reproducibility for U-M Biomedical Researchers Summer Academy 2025](https://midas.umich.edu/events/dair-sa-2025/#instructors) (materials to come)
+**Other Teaching**<br>
+[Building Robust ML Models (MIDAS Biomedical Researchers Summer Academy 2025)](dair3)
 
 ### At UC San Diego (2021-2024)
 
