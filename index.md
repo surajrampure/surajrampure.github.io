@@ -14,9 +14,9 @@ title: Home
 
 ## Suraj Rampure
 
-Lecturer III<br>Computer Science and Engineering, University of Michigan<br>[rampure@umich.edu](mailto:rampure@umich.edu)
+Lecturer III<br>Computer Science and Engineering, University of Michigan<br>4721 Beyster Building<br>[rampure@umich.edu](mailto:rampure@umich.edu)
 
-<div id="current-location" style="
+<!-- <div id="current-location" style="
   display: inline-flex;
   align-items: center;
   background: linear-gradient(135deg, #74a9ff 0%, #1a73e8 100%);
@@ -31,13 +31,15 @@ Lecturer III<br>Computer Science and Engineering, University of Michigan<br>[ram
 ">
   <span style="margin-right: 3px; font-size: 10px;">📍</span>
   <span>Loading location...</span>
-</div>
+</div> -->
 
 Hi! 👋 I'm Suraj ("soo-rudge"), a teaching faculty member in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the University of Michigan. At Michigan, I am affiliated with [MIDAS](https://midas.umich.edu/faculty-member/suraj-rampure/) and serve on the undergraduate computer science and data science program committees. 
 
 Previously, I taught in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu/) at the University of California, San Diego, where I coordinated the senior data science capstone program and received the campus-wide Distinguished Teaching Award in 2024. I earned BS and MS degrees in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) from the University of California, Berkeley, and I'm originally from Windsor, Ontario 🇨🇦.
 
 </div>
+
+<br>
 
 <script>
 
