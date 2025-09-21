@@ -9,6 +9,8 @@ description: Suraj's travel recommendations.
 
 by [Suraj Rampure](../../)
 
+This page is very, very much a work in progress (was hoping to spend more time on this over the summer, but alas).
+
 Spending a day (or more) in any of these locations? Here are my recommendations on where to eat and what to see.
 
 ### United States
