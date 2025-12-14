@@ -31,6 +31,8 @@ long_date: true
 # short date: Apr ‘69
 short_date: false
 
+og_image: /assets/me-award-compressed.jpeg
+
 #
 #
 # things you probably don't want to change
