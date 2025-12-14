@@ -7,19 +7,15 @@ title: "Recommendation Letter Instructions"
 
 ## Recommendation Letter Instructions
 
-by [Suraj Rampure](../)
+by [Suraj Rampure](../) // _last updated December 14, 2025_
 
-_last updated November 30, 2024_
+> If you're reading this page, it's likely because you've asked (or are thinking of asking) me to write you a recommendation letter. Helping students get into graduate programs is one of the great joys of teaching.
+> 
+> The strongest letters I write are for students who served on my course staff at some point (GSI/IA/TA/tutor), as those are the students I interact with the most and have the most first-hand knowledge of. I also often write strong letters for students who did extremely well in class and/or went above and beyond in some way.
+> 
+> But, many students who don't fall into these categories still ask me to write them a letter. I used to say no to many of these requests, but now I will say yes to most of them, with the understanding that <b>if we don't have a strong working relationship, my letter will mostly just say that you took my class and earned an [insert grade here]. If you're okay with this type of letter – and you might be, since you may have two other strong letters from others who know you better – then keep reading. 
 
-<br>
-
-If you're reading this page, it's likely because you've asked (or are thinking of asking) me to write you a recommendation letter. Helping students get into graduate programs is one of the great joys of teaching, and if I could help everyone who asks, I would!
-
-But, I receive so many requests that I unfortunately don't have the capacity to write letters for everyone who asks. And even if I did, if my only relationship to a student is that they were enrolled in one of my classes, it's hard for me to say anything convincing in a letter.
-
-As a result, 80%+ of the letters I write each year are for students who served on my course staff at some point (GSI/IA/TA/tutor), as those are the students I interact with the most and have the most first-hand knowledge of. The few other students I end up writing letters for are students who did extremely well in class and/or went above and beyond in some way. That being said, if you don't fall into one of these categories, **don't pre-reject yourself** - still ask me first!
-
-If I agree to write you a letter, here's what I need from you, ideally all in a single Google Drive folder shared with rampure@umich.edu:
+If I agree to write you a letter, here's what I need from you, **ideally all in a single Google Drive folder shared with <code>rampure@umich.edu</code>**:
 
 - Your preferred name and pronouns.
 - A description of how I know you.
@@ -41,11 +37,7 @@ Some other instructions:
 
 - I only need these materials ~two weeks before your earliest deadline. Make sure to tell me clearly when your earliest deadline is!
 - Please send me **all** letter requests for all of the programs you're applying to **at the same time**. When I write your letter, it's easiest to sit down and upload it to all of your schools at once; this minimizes the chances that letters sent later slip through the cracks.
-- Make sure to **waive your right to view recommendation letters submitted for you**. This will allow me (and your other writers) to speak more honestly. As discussed above, if I've agreed to write you a letter it'll likely be quite strong, so there's nothing to be worried about!
-
-<br>
-
----
+- Make sure to **waive your right to view recommendation letters submitted for you**. This will allow me (and your other writers) to speak more honestly.
 
 <br>
 
@@ -61,8 +53,6 @@ Bob and Betty Beyster Building<br>
 Ann Arbor, MI 48109
 
 <br>
-
----
 
 <small>
 Thanks to many, but [Mark Brehob](https://web.eecs.umich.edu/~brehob/lor.htm) in particular, for inspiring this page.

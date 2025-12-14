@@ -1,0 +1,60 @@
+<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Define the three quadrants with transparency -->
+  <!-- Left quadrant (BLUE - 60% width) -->
+  <rect x="0" y="0" width="510" height="600" fill="#3d81f6" opacity="0.2"/>
+  
+  <!-- Top right quadrant (ORANGE - 40% width, 40% height) -->
+  <rect x="510" y="0" width="340" height="240" fill="#ff9800" opacity="0.2"/>
+  
+  <!-- Bottom right quadrant (TEAL - 40% width, 60% height) -->
+  <rect x="510" y="240" width="340" height="360" fill="#d81a60" opacity="0.2"/>
+  
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#333" />
+    </marker>
+  </defs>
+  
+  <!-- BOX 1: Source notebook (blue region, left) -->
+  <rect x="30" y="250" width="140" height="100" fill="white" stroke="#333" stroke-width="2"/>
+  <text x="100" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Source</text>
+  <text x="100" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Notebook</text>
+  
+  <!-- Arrow from box 1 to box 2 (horizontal, longer) -->
+  <line x1="170" y1="300" x2="290" y2="300" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- BOX 2: Second box in blue region (right, moved further right) -->
+  <rect x="290" y="250" width="160" height="100" fill="white" stroke="#333" stroke-width="2"/>
+  <text x="370" y="295" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Script</text>
+  <text x="370" y="315" text-anchor="middle" font-family="Arial, sans-serif" font-size="12">otter-grader, nbconvert</text>
+  
+  <!-- Arrow from box 2 to box 3 (to orange region, shorter) -->
+  <line x1="450" y1="300" x2="550" y2="120" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow from box 2 to box 4 (to first teal box, shorter) -->
+  <line x1="450" y1="300" x2="550" y2="340" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- Arrow from box 2 to box 5 (to second teal box, shorter) -->
+  <line x1="450" y1="300" x2="550" y2="490" stroke="#333" stroke-width="2" marker-end="url(#arrowhead)"/>
+  
+  <!-- BOX 3: Markdown + Alt text (orange region) -->
+  <rect x="550" y="70" width="220" height="100" fill="white" stroke="#333" stroke-width="2"/>
+  <text x="660" y="115" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold">Lecture HTML/PDF</text>
+  <text x="660" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="14">with solutions code</text>
+  
+  <!-- BOX 4: HTML w/ code blocks (teal region, top) -->
+  <rect x="550" y="290" width="220" height="100" fill="white" stroke="#333" stroke-width="2"/>
+  <text x="660" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold">blank.ipynb</text>
+  <text x="660" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="14">without  solutions code</text>
+  
+  <!-- BOX 5: Keynote/Powerpoint (teal region, bottom) -->
+  <rect x="550" y="440" width="220" height="100" fill="white" stroke="#333" stroke-width="2"/>
+  <text x="660" y="485" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="bold">filled.ipynb</text>
+  <text x="660" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="14">with solutions code</text>
+  
+  <!-- Region labels -->
+  <text x="250" y="400" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#3d81f6">Instructor-Facing Repository</text>
+  <text x="665" y="220" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="orange">Course Website</text>
+  <text x="662" y="580" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#d81a60">Student-Facing Repository</text>
+</svg>
