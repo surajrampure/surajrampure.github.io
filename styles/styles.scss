@@ -414,6 +414,20 @@ html {
     }
   }
 
+  // Make both teaching containers full width on mobile
+  .teaching-courses,
+  .teaching-widget {
+    flex-basis: 100% !important;
+    max-width: 100% !important;
+  }
+
+  // Reorder teaching widget to appear before courses on mobile
+  .teaching-widget {
+    order: -1;
+    padding-left: 0 !important;
+    margin-bottom: 2rem;
+  }
+
   // Adjust heading sizes for mobile
   h1 {
     font-size: 2rem;

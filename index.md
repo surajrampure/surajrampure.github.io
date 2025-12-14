@@ -68,7 +68,7 @@ Course websites for all courses I've taught as an instructor or TA can be found 
 
 <div style="display: flex; align-items: flex-start;">
   <!-- Left: Courses (both UMich and UCSD, stacked vertically) -->
-  <div style="flex-basis: 60%; max-width: 60%;">
+  <div class="teaching-courses" style="flex-basis: 60%; max-width: 60%;">
     <!-- University of Michigan Section -->
     <div class="university-section umich-section">
       <!-- University of Michigan Logo removed -->
@@ -151,7 +151,7 @@ Course websites for all courses I've taught as an instructor or TA can be found 
     </div>
   </div>
   <!-- Right: About and Interactive Demo -->
-  <div style="flex-basis: 40%; max-width: 40%; padding-left: 2.5%;">
+  <div class="teaching-widget" style="flex-basis: 40%; max-width: 40%; padding-left: 2.5%;">
     <div>
       <p><small>These days, I spend a lot of time building interactive teaching materials that help students visualize the mathematics of machine learning.</small></p>
       <center>
