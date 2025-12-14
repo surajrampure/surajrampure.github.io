@@ -329,13 +329,13 @@ Course websites for all courses I've taught as an instructor or TA can be found 
 <div style="display: flex; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">
   <div style="flex: 1 1 320px; min-width: 250px;">
     <h3>Awards</h3>
-    <block>2023-2024 <a href="https://senate.ucsd.edu/grants-awards/senate-awards/distinguished-teaching-award/recipient-history">UC San Diego Distinguished Teaching Award</a></block>
+    <block>2023-2024 <a href="https://senate.ucsd.edu/grants-awards/senate-awards/distinguished-teaching-award/recipient-history"><b>UC San Diego Distinguished Teaching Award</b></a></block>
     <block>
-      2020-2021 <a href="https://rtl.berkeley.edu/extraordinary-teaching-extraordinary-times-award">UC Berkeley Extraordinary Teaching in Extraordinary Times Award</a>
+      2020-2021 <a href="https://rtl.berkeley.edu/extraordinary-teaching-extraordinary-times-award"><b>UC Berkeley Extraordinary Teaching in Extraordinary Times Award</b></a>
       <a href="https://data.berkeley.edu/news/cdss-instructors-honored-five-awards-extraordinary-teaching-extraordinary-times" class="small-button" style="margin-left: 0.5em;">📰 article</a>
     </block>
-    <block>2019-2020 <a href="https://www2.eecs.berkeley.edu/Students/Awards/13/">UC Berkeley EECS Distinguished GSI Award</a></block>
-    <block>2017-2018 <a href="https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2018/">UC Berkeley EECS Outstanding GSI Award</a></block>
+    <block>2019-2020 <a href="https://www2.eecs.berkeley.edu/Students/Awards/13/"><b>UC Berkeley EECS Distinguished GSI Award</b></a></block>
+    <block>2017-2018 <a href="https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2018/"><b>UC Berkeley EECS Outstanding GSI Award</b></a></block>
     <!-- <br> -->
     <h3>Distinctions</h3>
     <block>Fall 2024 LEO Lecturers Professional Development Fund Recipient</block>
