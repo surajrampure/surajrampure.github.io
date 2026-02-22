@@ -79,10 +79,22 @@ Course websites for all courses I've taught as an instructor or TA can be found 
           EECS 245: Mathematics for Machine Learning
           <a href="https://eecs245.org" class="small-button" style="font-weight: bold; border-color: #73726c;">Winter 2026</a>
           <a href="https://eecs245.org" class="small-button">Fall 2025</a>
+          <span class="coming-soon-row">
+            <span class="coming-soon-label">Planned:</span>
+            <a class="small-button-coming-soon">Fall 2026</a>
+            <a class="small-button-coming-soon">Spring 2026</a>
+          </span>
           <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           See also:
           <a href="https://notes.eecs245.org" class="small-button">Course Notes (notes.eecs245.org)</a>
           <a href="https://youtu.be/cPKpJ9ycM-Y?si=PlaLhwoRk0gQMYD1" class="small-button">Testimonials</a> -->
+        </block>
+        <block>
+          Math 124: Vectors, Matrices, and Applications
+          <span class="coming-soon-row">
+            <span class="coming-soon-label">Planned:</span>
+            <a class="small-button-coming-soon">Fall 2026</a>
+          </span>
         </block>
         <block>
           EECS 398: Practical Data Science
@@ -220,11 +232,11 @@ Course websites for all courses I've taught as an instructor or TA can be found 
 
 <block style="margin-bottom: 1em;">
   <a href="https://sigcse2026.sigcse.org/details/sigcse-ts-2026-birds-of-a-feather/8/Teaching-Faculty-Careers-without-a-PhD-A-Mentoring-Community">Teaching Faculty Careers without a PhD: A Mentoring Community</a><br>
-  Adam Blank, Michael Ball, Travis McGaha, <b>Suraj Rampure</b>, Yesenia Velasco and Kendra Walther.<br>Birds of a Feather session at <em>Proceedings of the 57th ACM Technical Symposium on Computer Science Education (SIGCSE 2026).</em>
+  Adam Blank, Michael Ball, Travis McGaha, <b>Suraj Rampure</b>, Yesenia Velasco, and Kendra Walther.<br>Birds of a Feather session at <em>Proceedings of the 57th ACM Technical Symposium on Computer Science Education (SIGCSE 2026).</em>
 </block>
 <block style="margin-bottom: 1em;">
   <a href="https://sigcse2026.sigcse.org/details/sigcse-ts-2026-birds-of-a-feather/5/Cracking-the-Classroom-Coding-Interview-Technical-Interviews-as-an-Assessment-of-Stu">Cracking the Classroom Coding Interview: Technical Interviews as an Assessment of Student Learning</a><br>
-  Suh Young Choi, Arpan Kapoor, Kevin Lin and <b>Suraj Rampure</b>.<br>Birds of a Feather session at <em>Proceedings of the 57th ACM Technical Symposium on Computer Science Education (SIGCSE 2026).</em>
+  Suh Young Choi, Arpan Kapoor, Kevin Lin, and <b>Suraj Rampure</b>.<br>Birds of a Feather session at <em>Proceedings of the 57th ACM Technical Symposium on Computer Science Education (SIGCSE 2026).</em>
 </block>
 <block style="margin-bottom: 1em;">
   <a href="https://sigcse2025.sigcse.org/details/sigcse-ts-2025-birds-of-a-feather/31/A-New-Class-of-Teaching-Track-Faculty-No-Ph-D-Required">A New Class of Teaching-Track Faculty: No Ph.D. Required</a><br>Michael Ball, <b>Suraj Rampure</b>, and Kevin Lin.<br>

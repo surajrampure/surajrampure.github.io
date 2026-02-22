@@ -361,6 +361,51 @@ html {
   --button-gap: 0.3rem;
 }
 
+// Placeholder small button for course links that are not live yet.
+.small-button-placeholder {
+  @extend .small-button;
+  --button-bg: transparent;
+  --button-text-color: #7d7d7d;
+  --button-border-color: #b7b7b7;
+  --button-shadow: none;
+  --button-hover-shadow: none;
+  --button-active-shadow: none;
+  border-style: dotted;
+  border-width: 2px;
+  cursor: default;
+
+  &:hover,
+  &:active,
+  &:focus {
+    color: var(--button-text-color);
+    text-decoration: none;
+    transform: none;
+  }
+}
+
+// Tiny placeholder button for "coming soon" terms.
+.small-button-coming-soon {
+  @extend .small-button-placeholder;
+  --button-height: 1.15rem;
+  --button-font-size: 0.64rem;
+  --button-padding-x: 0.3rem;
+  --button-gap: 0.2rem;
+  border-width: 1px;
+  margin-right: 0.2rem;
+}
+
+.coming-soon-row {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 0.25rem;
+  color: #8a8a8a;
+  font-size: 0.72rem;
+}
+
+.coming-soon-label {
+  margin-right: 0.35rem;
+}
+
 // Large button variant (for nav buttons, etc.)
 .large-button {
   @extend .button;
