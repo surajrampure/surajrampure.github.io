@@ -350,6 +350,7 @@ Course websites for all courses I've taught as an instructor or TA can be found 
     <block>2017-2018 <a href="https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2018/">UC Berkeley EECS Outstanding GSI Award</a></block>
     <!-- <br> -->
     <h3>Distinctions</h3>
+    <block>Fall 2025 CRLT Teaching with GSIs Faculty Learning Community Participant</block>
     <block>Fall 2024 LEO Lecturers Professional Development Fund Recipient</block>
   </div>
   <div style="flex: 0 0 400px; max-width: 500px; text-align: center; margin-top: 0;">
