@@ -44,7 +44,8 @@ Lecturer III<br>Computer Science and Engineering, University of Michigan<br>4721
 
 </div>
 
-<br><br>
+<br style="line-height:0.5;">
+
 
 <div style="margin-top: 0.9em; margin-bottom: 0.6em;">
   <span style="font-size: 1.1em; color: #888;">On this page:</span>
@@ -62,9 +63,11 @@ Lecturer III<br>Computer Science and Engineering, University of Michigan<br>4721
 
 ## Teaching
 
-Course websites for all courses I've taught as an instructor or TA can be found below. Most websites have links to lecture slides, recordings, and assignments.
+My philosophy is that the point of paying college tuition is to gain access to human connections and resources, and that content itself should be free for all. To that end, you'll find the materials for all of the courses I've taught as an instructor or TA below. Most websites have links to lecture slides, recordings, and assignments. If you're an instructor and have questions about how to adopt or implement these materials in your courses (e.g. how to autograde Jupyter Notebooks), please reach out!
 
-<!-- <br> -->
+In addition, you might find my [EECS 245 notes](https://notes.eecs245.org) and [YouTube videos](https://youtube.com/@rampureatumich) useful.
+
+<br>
 
 <div style="display: flex; align-items: flex-start;">
   <!-- Left: Courses (both UMich and UCSD, stacked vertically) -->
@@ -78,7 +81,7 @@ Course websites for all courses I've taught as an instructor or TA can be found 
         <block>
           EECS 245: Mathematics for Machine Learning
           <a href="https://eecs245.org" class="small-button" style="font-weight: bold; border-color: #73726c;">Winter 2026</a>
-          <a href="https://eecs245.org" class="small-button">Fall 2025</a>
+          <a href="https://eecs245.org/fa25" class="small-button">Fall 2025</a>
           <span class="coming-soon-row">
             <span class="coming-soon-label">Planned:</span>
             <a class="small-button-coming-soon">Fall 2026</a>
