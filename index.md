@@ -63,7 +63,7 @@ Lecturer III<br>Computer Science and Engineering, University of Michigan<br>4721
 
 ## Teaching
 
-My philosophy is that the point of paying college tuition is to gain access to human connections and resources, and that content itself should be free for all. To that end, you'll find the materials for all of the courses I've taught as an instructor or TA below. Most websites have links to lecture slides, recordings, and assignments. If you're an instructor and have questions about how to adopt or implement these materials in your courses (e.g. how to autograde Jupyter Notebooks), please reach out!
+!What matters most in a college education, in my view, is access to people—mentorship, guidance, and community—rather than course content, which I believe ought to be freely available. To that end, I publish materials for every class I’ve taught as instructor or TA. Each site typically includes lecture slides, recordings, and assignments. Instructors who want to use or adapt these materials (e.g., for autograded Jupyter Notebooks) are welcome to reach out.
 
 In addition, you might find my [EECS 245 notes](https://notes.eecs245.org) and [YouTube videos](https://youtube.com/@rampureatumich) useful.
 
