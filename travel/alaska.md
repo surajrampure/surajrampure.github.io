@@ -1,24 +1,28 @@
 ---
 title: "7 Alaskan Airports in 48 Hours: Alaska Airlines Milk Run"
 description: Details about my journey through Alaska in March 2026.
+og_image: /travel/assets/alaska/map.jpeg
 gallery_layout: grid
 ---
-
-<meta property="og:image" content="assets/alaska/DSCF9636.JPG" />
 <link
   rel="stylesheet"
   href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.5/css/lightbox.min.css"
 />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.5/js/lightbox-plus-jquery.min.js"></script>
+<script
+  defer
+  src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.5/js/lightbox-plus-jquery.min.js"
+></script>
 <script>
-  if (window.lightbox) {
-    lightbox.option({
-      fadeDuration: 200,
-      imageFadeDuration: 200,
-      resizeDuration: 200,
-      wrapAround: true
-    });
-  }
+  window.addEventListener("load", function () {
+    if (window.lightbox) {
+      lightbox.option({
+        fadeDuration: 200,
+        imageFadeDuration: 200,
+        resizeDuration: 200,
+        wrapAround: true
+      });
+    }
+  });
 </script>
 
 # {{ page.title }}
@@ -67,9 +71,12 @@ Here is an assortment of photos from the trip, taken on my Fujifilm X100V.
       >
         <img
           class="alaska-gallery__img"
-          src="assets/alaska/{{ photo.file }}"
+          src="assets/alaska/previews/{{ photo.file }}"
           alt="{{ caption_text | escape }}"
           loading="lazy"
+          decoding="async"
+          width="1200"
+          height="800"
         />
       </a>
       <figcaption class="alaska-gallery__caption">{{ caption_text }}</figcaption>
