@@ -5,7 +5,7 @@ title: "Teaching Faculty Application Materials"
 
 <title>Teaching Faculty Application Materials | Suraj Rampure</title>
 
-## Teaching Faculty Application Materials
+# Teaching Faculty Application Materials
 
 by [Suraj Rampure](../) // _last updated December 14, 2025_
 

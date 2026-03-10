@@ -5,7 +5,7 @@ title: "Recommendation Letter Instructions"
 
 <title>Recommendation Letter Instructions | Suraj Rampure</title>
 
-## Recommendation Letter Instructions
+# Recommendation Letter Instructions
 
 by [Suraj Rampure](../) // _last updated December 14, 2025_
 

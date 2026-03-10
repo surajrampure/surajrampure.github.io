@@ -233,6 +233,53 @@ img {
   max-width: 100%;
 }
 
+.alaska-gallery {
+  margin: 1.5rem auto 0;
+}
+
+.alaska-gallery--stack {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.alaska-gallery--stack .alaska-gallery__item {
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.alaska-gallery--grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.25rem;
+  align-items: start;
+}
+
+.alaska-gallery__item {
+  margin: 0;
+}
+
+.alaska-gallery__link {
+  display: block;
+  border-radius: 6px;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.alaska-gallery__img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.alaska-gallery__caption {
+  margin-top: 0.5rem;
+  text-align: center;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  color: #73726c;
+}
+
 .avatar {
   width: 8rem;
   height: 8rem;
