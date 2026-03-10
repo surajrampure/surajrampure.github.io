@@ -65,7 +65,7 @@ Lecturer III<br>Computer Science and Engineering, University of Michigan<br>4721
 
 ## Teaching
 
-!What matters most in a college education, in my view, is access to people—mentorship, guidance, and community—rather than course content, which I believe ought to be freely available. To that end, I publish materials for every class I’ve taught as instructor or TA. Each site typically includes lecture slides, recordings, and assignments. Instructors who want to use or adapt these materials (e.g., for autograded Jupyter Notebooks) are welcome to reach out.
+My take is that the point of paying college tuition is to gain access to people – mentors, guidance, and community – rather than course content, which I believe should be freely available. To that end, I publish materials for every class I’ve taught as instructor or TA. Each site typically includes lecture slides, recordings, and assignments. Instructors who want to use or adapt these materials (e.g., for autograded Jupyter Notebooks) are welcome to reach out.
 
 In addition, you might find my [EECS 245 notes](https://notes.eecs245.org) and [YouTube videos](https://youtube.com/@rampureatumich) useful.
 
