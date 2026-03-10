@@ -57,7 +57,7 @@ Lecturer III<br>Computer Science and Engineering, University of Michigan<br>4721
   <a href="tf-app-materials" class="large-button" style="margin-top: 0.5em;"><span>📝</span> Teaching Faculty Application Materials</a>
   <a href="letters" class="large-button" style="margin-top: 0.5em;"><span>✉️</span> Recommendation Letters</a><br>
   <span style="font-size: 1.1em; color: #888">Totally random:</span>
-  <a href="travel/alaska" class="large-button" style="margin-top: 0.5em;"><span>🛫</span> Trip Report: Alaska Milk Run</a>
+  <a href="travel/alaska" class="large-button" style="margin-top: 0.5em;"><span>🛫</span> 7 Alaskan Airports in 48 Hours: Alaska Airlines Milk Run</a>
   <!-- <a href="python-teaching-commons" class="large-button"><span>🐍</span> Python Teaching Commons</a> -->
 </div>
 

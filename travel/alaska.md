@@ -1,5 +1,5 @@
 ---
-title: "Trip Report: Alaska Milk Run"
+title: "7 Alaskan Airports in 48 Hours: Alaska Airlines Milk Run"
 description: Details about my journey through Alaska in March 2026.
 gallery_layout: grid
 ---
@@ -47,6 +47,8 @@ On both Monday and Tuesday, we took three consecutive flights on the same plane,
 Out of curiosity, we got off at Yakutat (the second layover on the first day) to take a look around the airport. There wasn't much to see (some pictures of it are included below), but it was cool to chat with the locals who worked at the airport. Turns out that passengers that fly through these smaller airports are given several free checked bags, and many of them check coolers when flying to the larger cities (Anchorage, Juneau) so that they can load up on frozen produce from Costco for weeks at a time.
 
 Each of these six legs were so short that there was no service. Instead, they gave us drinks and snacks when we were on the ground. We seemed to be the only tourists on the plane; everyone sitting near us seemed to be traveling between one of the smaller five towns (Cordova, Yakutat, Petersburg, Wrangell, Ketchikan) and one of the larger cities (Anchorage, Juneau, Seattle) for work. We met all sorts of people, from robotics teachers in Cordova to contractors flying to Ketchikan to fix a heating system at a hotel.
+
+Overall, this was a really fun side quest! I'm glad we did it. I also booked all of the intra-Alaska flights using miles, so the trip was not as expensive as it might sound.
 
 Here is an assortment of photos from the trip, taken on my Fujifilm X100V.
 
