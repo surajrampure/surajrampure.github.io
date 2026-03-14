@@ -242,6 +242,10 @@ In addition, you might find my [EECS 245 notes](https://notes.eecs245.org) and [
 <block style="margin-bottom: 1em;">
   <a href="https://sigcse2026.sigcse.org/details/sigcse-ts-2026-birds-of-a-feather/5/Cracking-the-Classroom-Coding-Interview-Technical-Interviews-as-an-Assessment-of-Stu">Cracking the Classroom Coding Interview: Technical Interviews as an Assessment of Student Learning</a><br>
   Suh Young Choi, Arpan Kapoor, Kevin Lin, and <b>Suraj Rampure</b>.<br>Birds of a Feather session at <em>Proceedings of the 57th ACM Technical Symposium on Computer Science Education (SIGCSE 2026).</em>
+  <br>
+  <span>
+    <a href="https://docs.google.com/document/d/1SkBXPea7Phodbc5ALwkyCP3-AuuPhQFokCtNeL-7Uts/edit?usp=sharing" class="small-button">📂 materials</a>
+  </span>
 </block>
 <block style="margin-bottom: 1em;">
   <a href="https://sigcse2025.sigcse.org/details/sigcse-ts-2025-birds-of-a-feather/31/A-New-Class-of-Teaching-Track-Faculty-No-Ph-D-Required">A New Class of Teaching-Track Faculty: No Ph.D. Required</a><br>Michael Ball, <b>Suraj Rampure</b>, and Kevin Lin.<br>
