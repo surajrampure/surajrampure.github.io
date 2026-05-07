@@ -19,7 +19,7 @@ title: Home
 # Suraj Rampure
 <span style="display:block; color: #888; font-size: 0.95em; margin-top: -1em;">"soo-rudge rahm-poo-ray"</span>
 
-Lecturer III<br>Computer Science and Engineering, University of Michigan<br>4721 Beyster Building<br><code>rampure@umich.edu</code><br>
+Lecturer III<br>Computer Science and Engineering, University of Michigan<br>4721 Beyster Building<br><code style="color:#d81a60">rampure@umich.edu</code><br>
 
 <!-- <div id="current-location" style="
   display: inline-flex;
@@ -38,7 +38,7 @@ Lecturer III<br>Computer Science and Engineering, University of Michigan<br>4721
   <span>Loading location...</span>
 </div> -->
 
-> Hey! 👋 I'm a member of the teaching faculty in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the University of Michigan. I am affiliated with [MIDAS](https://midas.umich.edu/faculty-member/suraj-rampure/), serve on the undergraduate computer science and data science program committees, and am one of the hosts of [Faculty Chats](https://cse.engin.umich.edu/academics/undergraduate/undergraduate-advising/faculty-chats/) (come say hi!).
+> Hey! 👋 I'm a member of the teaching faculty in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the University of Michigan. I am affiliated with [MIDAS](https://midas.umich.edu/faculty-member/suraj-rampure/), serve on the undergraduate computer science and data science program committees, and am working with the College of Engineering and the Math Department to develop a new first-year math sequence for engineering majors.
 >
 > Previously, I taught in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu/) at the University of California, San Diego, where I received the campus-wide Distinguished Teaching Award in 2024. I earned BS and MS degrees in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) from the University of California, Berkeley, and I'm originally from Windsor, Ontario 🇨🇦.
 
@@ -82,12 +82,13 @@ In addition, you might find my [EECS 245 notes](https://notes.eecs245.org) and [
         <span style="display: block; height: 0.5em;"></span>
         <block>
           EECS 245: Mathematics for Machine Learning
-          <a href="https://eecs245.org" class="small-button" style="font-weight: bold; border-color: #73726c;">Winter 2026</a>
+          <a href="https://eecs245.org" class="small-button" style="font-weight: bold; border-color: #73726c;">Spring 2026 (Half-Term)</a>
+          <a href="https://eecs245.org/wn26" class="small-button">Winter 2026</a>
           <a href="https://eecs245.org/fa25" class="small-button">Fall 2025</a>
           <span class="coming-soon-row">
             <span class="coming-soon-label">Planned:</span>
+            <a class="small-button-coming-soon">Winter 2027</a>
             <a class="small-button-coming-soon">Fall 2026</a>
-            <a class="small-button-coming-soon">Spring 2026</a>
           </span>
           <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           See also:
@@ -266,6 +267,11 @@ In addition, you might find my [EECS 245 notes](https://notes.eecs245.org) and [
 </block>
 
 ### Talks
+<block style="margin-bottom: 1em;">
+  <a href="https://docs.google.com/presentation/d/1pmyaWjjlKwRmPZqDNxcwOOw01ZCcfCLdo-wCgPnMzBc/edit?usp=sharing">Creating Interactive Course Notes with Jupyter Book and AI</a><br>
+  <b>Suraj Rampure</b>.<br>Talk at <em><a href="https://eei.engin.umich.edu/">University of Michigan Engineering Education Innovation Days 2026</a></em>.<br>
+  <a class="small-button" href="https://docs.google.com/presentation/d/1pmyaWjjlKwRmPZqDNxcwOOw01ZCcfCLdo-wCgPnMzBc/edit?usp=sharing">🗣️ slides</a>
+</block>
 <block style="margin-bottom: 1em;">
   <a href="https://jupytercon2025.sched.com/event/28H4f/rise-and-shine-teaching-with-jupyter-notebooks-in-real-time-suraj-rampure-nishant-kheterpal-university-of-michigan-janine-tiefenbruck-university-of-california-san-diego">RISE and Shine: Teaching with Jupyter Notebooks in Real Time</a><br>
   <b>Suraj Rampure</b>, Nishant Kheterpal, and Janine Tiefenbruck.<br>Talk at <em>JupyterCon 2025</em>.<br>
