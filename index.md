@@ -21,23 +21,6 @@ title: Home
 
 Lecturer III<br>Computer Science and Engineering, University of Michigan<br>4721 Beyster Building<br><code style="color:#d81a60">rampure@umich.edu</code><br>
 
-<!-- <div id="current-location" style="
-  display: inline-flex;
-  align-items: center;
-  background: linear-gradient(135deg, #74a9ff 0%, #1a73e8 100%);
-  color: white;
-  padding: 2px 6px;
-  border-radius: 10px;
-  font-size: 10px;
-  font-weight: 500;
-  margin: 0px 0 8px 0;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
-  transition: all 0.3s ease;
-">
-  <span style="margin-right: 3px; font-size: 10px;">📍</span>
-  <span>Loading location...</span>
-</div> -->
-
 > Hey! 👋 I'm a member of the teaching faculty in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the University of Michigan. I am affiliated with [MIDAS](https://midas.umich.edu/faculty-member/suraj-rampure/), serve on the undergraduate computer science and data science program committees, and am working with the College of Engineering and the Math Department to develop a new first-year math sequence for engineering majors.
 >
 > Previously, I taught in the [Halıcıoğlu Data Science Institute](https://datascience.ucsd.edu/) at the University of California, San Diego, where I received the campus-wide Distinguished Teaching Award in 2024. I earned BS and MS degrees in [Electrical Engineering and Computer Sciences](https://eecs.berkeley.edu/) from the University of California, Berkeley, and I'm originally from Windsor, Ontario 🇨🇦.
@@ -58,6 +41,7 @@ Lecturer III<br>Computer Science and Engineering, University of Michigan<br>4721
   <a href="letters" class="large-button" style="margin-top: 0.5em;"><span>✉️</span> Recommendation Letters</a><br>
   <span style="font-size: 1.1em; color: #888">Totally random:</span>
   <a href="travel/alaska" class="large-button" style="margin-top: 0.5em;"><span>🛫</span> 7 Alaskan Airports in 48 Hours: Alaska Airlines Milk Run</a>
+  <!-- <a href="travel/arizona" class="large-button" style="margin-top: 0.5em;"><span>🌵</span> Arizona</a> -->
   <!-- <a href="python-teaching-commons" class="large-button"><span>🐍</span> Python Teaching Commons</a> -->
 </div>
 
@@ -82,34 +66,28 @@ In addition, you might find my [EECS 245 notes](https://notes.eecs245.org) and [
         <span style="display: block; height: 0.5em;"></span>
         <block>
           EECS 245: Mathematics for Machine Learning
-          <a href="https://eecs245.org" class="small-button" style="font-weight: bold; border-color: #73726c;">Spring 2026 (Half-Term)</a>
+          <a href="https://eecs245.org" class="small-button" style="font-weight: bold; border-color: #73726c;">Fall 2026</a>
+          <a href="https://eecs245.org/sp26" class="small-button">Spring 2026</a>
           <a href="https://eecs245.org/wn26" class="small-button">Winter 2026</a>
           <a href="https://eecs245.org/fa25" class="small-button">Fall 2025</a>
           <span class="coming-soon-row">
             <span class="coming-soon-label">Planned:</span>
             <a class="small-button-coming-soon">Winter 2027</a>
-            <a class="small-button-coming-soon">Fall 2026</a>
           </span>
-          <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          See also:
-          <a href="https://notes.eecs245.org" class="small-button">Course Notes (notes.eecs245.org)</a>
-          <a href="https://youtu.be/cPKpJ9ycM-Y?si=PlaLhwoRk0gQMYD1" class="small-button">Testimonials</a> -->
         </block>
         <block>
           Math 124: Vectors, Matrices, and Applications
-          <span class="coming-soon-row">
-            <span class="coming-soon-label">Planned:</span>
-            <a class="small-button-coming-soon">Fall 2026</a>
-          </span>
+          <a href="https://math124.org" class="small-button" style="font-weight: bold; border-color: #73726c;">Fall 2026</a>
         </block>
         <block>
           EECS 398: Practical Data Science
-          <a href="https://practicaldsc.org/" class="small-button">Spring 2025 (Half-Term)</a>
+          <a href="https://practicaldsc.org/" class="small-button">Spring 2025</a>
           <a href="https://practicaldsc.org/wn25" class="small-button">Winter 2025</a>
           <a href="https://practicaldsc.org/fa24" class="small-button">Fall 2024</a>
         </block>
         <block>
-          Building Robust ML Models (MIDAS Biomedical Researchers Summer Academy)
+          Data and AI Intensive Research with Rigor and Reproducibility
+          <a href="https://github.com/DAIR3/DAIR3-Workshop/tree/main/resources/unit_4" class="small-button">Summer 2026</a>
           <a href="dair3" class="small-button">Summer 2025</a>
         </block>
       </div>
@@ -351,11 +329,10 @@ In addition, you might find my [EECS 245 notes](https://notes.eecs245.org) and [
 
 <a name='awards'></a>
 
-## Awards and Distinctions
+## Awards
 
 <div style="display: flex; align-items: flex-start; gap: 2rem; flex-wrap: wrap;">
   <div style="flex: 1 1 320px; min-width: 250px;">
-    <h3>Awards</h3>
     <block>2023-2024 <a href="https://senate.ucsd.edu/grants-awards/senate-awards/distinguished-teaching-award/recipient-history">UC San Diego Distinguished Teaching Award</a></block>
     <block>
       2020-2021 <a href="https://rtl.berkeley.edu/extraordinary-teaching-extraordinary-times-award">UC Berkeley Extraordinary Teaching in Extraordinary Times Award</a>
@@ -364,9 +341,6 @@ In addition, you might find my [EECS 245 notes](https://notes.eecs245.org) and [
     <block>2019-2020 <a href="https://www2.eecs.berkeley.edu/Students/Awards/13/">UC Berkeley EECS Distinguished GSI Award</a></block>
     <block>2017-2018 <a href="https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2018/">UC Berkeley EECS Outstanding GSI Award</a></block>
     <!-- <br> -->
-    <h3>Distinctions</h3>
-    <block>Fall 2025 CRLT Teaching with GSIs Faculty Learning Community Participant</block>
-    <block>Fall 2024 LEO Lecturers Professional Development Fund Recipient</block>
   </div>
   <div style="flex: 0 0 400px; max-width: 500px; text-align: center; margin-top: 0;">
     <img src="assets/award-header.jpeg" width="95%" style="max-width:400px; border-radius:4px; box-shadow:0 1px 6px #ddd;">
