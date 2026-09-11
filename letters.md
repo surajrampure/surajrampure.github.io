@@ -7,7 +7,7 @@ title: "Recommendation Letter Instructions"
 
 # Recommendation Letter Instructions
 
-by [Suraj Rampure](../) // _last updated December 14, 2025_
+by [Suraj Rampure](../) // _last updated September 10, 2025_
 
 > If you're reading this page, it's likely because you've asked (or are thinking of asking) me to write you a recommendation letter. Helping students get into graduate programs is one of the great joys of teaching.
 > 
@@ -18,6 +18,7 @@ by [Suraj Rampure](../) // _last updated December 14, 2025_
 If I agree to write you a letter, here's what I need from you, **ideally all in a single Google Drive folder shared with <code>rampure@umich.edu</code>**:
 
 - Your preferred name and pronouns.
+- A recent photo of you (this helps me remember who you are).
 - A description of how I know you.
     - What school? (Michigan? UCSD? Berkeley?)
     - What classes you took with me and what grades you got. Include your grade on the Final Exam and what the class average was (Gradescope has this).
